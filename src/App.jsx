@@ -42,6 +42,7 @@ import { DietRoutes } from './Forms/DietDefinition/DietRoutes';
 import { ActivityRoutes } from './Forms/ActivityDefinition/ActivityRoutes';
 import { ConditionRoutes } from './Forms/ConditionDefinition/ConditionRoutes';
 import { PrecautionRoutes } from './Forms/PrecautionDefinition/PrecautionRoutes';
+import { DialogContainer } from './Containers/DialogContainer';
 
 
 function App() {
@@ -74,46 +75,47 @@ function App() {
       <Route element={<ErrorContainer />}>
         <Route element={<LoadingContainer />}>
           <Route element={<AuthenticationContainer />}>
-            <Route path='/login' element={<Login />} />
-            <Route path='/' element={<Full />}>
-              {/*To understand the '*' part of this route, read the Descendant Routes section of the Router documentation. */}
-              <Route path='SystemFile/*' element={<SystemFileRoutes />} />
-              <Route path='Nationality/*' element={<NationalityRoutes />} />
-              <Route path='UserGroupsDef/*' element={<UserGroupsRoutes />} />
-              <Route path='ConnInfoDef/*' element={<ConnectionInfoRoutes />} />
-              <Route path='MenuBackGround' element={<MenuBackground />} />
-              <Route path='ReligionDef' element={<ReligionRoutes />} />
-              <Route path='MouhafazaDef/*' element={<MouhafazaRoutes />} />
-              <Route path='KazaDef/*' element={<KazaRoutes />} />
-              <Route path='ProfessionDef/*' element={<ProfessionRoutes />} />
-              <Route path='ReligionDef/*' element={<ReligionRoutes />} />
-              <Route path='RegionDef/*' element={<RegionRoutes />} />
-              <Route path='HospitalDef/*' element={<HospitalRoutes />} />
-              <Route path='UsersDefinition/*' element={<UsersRoutes />} />
-              <Route path='DepartmentsDefinition/*' element={<DepartmentsRoutes />} />
+            <Route element={<DialogContainer />}>
+              <Route path='/login' element={<Login />} />
+              <Route path='/' element={<Full />}>
+                {/*To understand the '*' part of this route, read the Descendant Routes section of the Router documentation. */}
+                <Route path='SystemFile/*' element={<SystemFileRoutes />} />
+                <Route path='Nationality/*' element={<NationalityRoutes />} />
+                <Route path='UserGroupsDef/*' element={<UserGroupsRoutes />} />
+                <Route path='ConnInfoDef/*' element={<ConnectionInfoRoutes />} />
+                <Route path='MenuBackGround' element={<MenuBackground />} />
+                <Route path='ReligionDef' element={<ReligionRoutes />} />
+                <Route path='MouhafazaDef/*' element={<MouhafazaRoutes />} />
+                <Route path='KazaDef/*' element={<KazaRoutes />} />
+                <Route path='ProfessionDef/*' element={<ProfessionRoutes />} />
+                <Route path='ReligionDef/*' element={<ReligionRoutes />} />
+                <Route path='RegionDef/*' element={<RegionRoutes />} />
+                <Route path='HospitalDef/*' element={<HospitalRoutes />} />
+                <Route path='UsersDefinition/*' element={<UsersRoutes />} />
+                <Route path='DepartmentsDefinition/*' element={<DepartmentsRoutes />} />
 
-              <Route path='LinkUsrsToGrps/*' element={<LinkUsersToGroups uuid="41407F5F-77EC-4DA8-B3AE-E9B9BC45975D" />} />
-              <Route path='UserPrivileges/*' element={<UsersPrivileges uuid="ED5246D9-D8A2-4A00-9354-3836AD7482D7" />} />
+                <Route path='LinkUsrsToGrps/*' element={<LinkUsersToGroups uuid="41407F5F-77EC-4DA8-B3AE-E9B9BC45975D" />} />
+                <Route path='UserPrivileges/*' element={<UsersPrivileges uuid="ED5246D9-D8A2-4A00-9354-3836AD7482D7" />} />
 
-              <Route path='DoctorSpecialtyDef/*' element={<DoctorsSpecialtyRoutes />} />
-              <Route path='PoolDefinition/*' element={<PoolDefinitionRoutes />} />
-              <Route path='HospitalDefinition/*' element={<HospitalityClassesDefinitionRoutes />} />
-              <Route path='InvoicingClassDef/*' element={<InvoicingClassesRoutes />} />
-              <Route path='CovTypeDefinition/*' element={<CoverageTypesDefRoutes />} />
-              <Route path='CovGroupDefinition/*' element={<CoverageGrpRoutes />} />
-              <Route path='DoctorsDefinition/*' element={<DoctorsRoutes />} />
-              <Route path='GeneralDiagnosisDef/*' element={<GeneralDiagnosisRoutes />} />
-              <Route path='DietDefinition/*' element={<DietRoutes />} />
-              <Route path='ActivityDefinition/*' element={<ActivityRoutes />} />
-              <Route path='ConditionDefinition/*' element={<ConditionRoutes />} />
-              <Route path='PrecautionDefinition/*' element={<PrecautionRoutes />} />
+                <Route path='DoctorSpecialtyDef/*' element={<DoctorsSpecialtyRoutes />} />
+                <Route path='PoolDefinition/*' element={<PoolDefinitionRoutes />} />
+                <Route path='HospitalDefinition/*' element={<HospitalityClassesDefinitionRoutes />} />
+                <Route path='InvoicingClassDef/*' element={<InvoicingClassesRoutes />} />
+                <Route path='CovTypeDefinition/*' element={<CoverageTypesDefRoutes />} />
+                <Route path='CovGroupDefinition/*' element={<CoverageGrpRoutes />} />
+                <Route path='DoctorsDefinition/*' element={<DoctorsRoutes />} />
+                <Route path='GeneralDiagnosisDef/*' element={<GeneralDiagnosisRoutes />} />
+                <Route path='DietDefinition/*' element={<DietRoutes />} />
+                <Route path='ActivityDefinition/*' element={<ActivityRoutes />} />
+                <Route path='ConditionDefinition/*' element={<ConditionRoutes />} />
+                <Route path='PrecautionDefinition/*' element={<PrecautionRoutes />} />
+
+              </Route>
+
 
             </Route>
-
-
           </Route>
         </Route>
-
 
 
         {/* <Route path='/' element={<Login />}></Route>

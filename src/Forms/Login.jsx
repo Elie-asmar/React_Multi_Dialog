@@ -12,6 +12,9 @@ import { TextInput } from '../ReusableComponents/Inputs/TextInput'
 import { setSessionInfo } from '../utils/session'
 import { awaitableTimeOut, FetchData, FetchData_New } from '../utils/functions'
 import { authUrlPath, urlPath } from '../globals';
+import { DialogContext } from '../ContextProvider/DialogContext';
+import { DialogBodyForm } from './DialogFormTest/DialogBodyForm';
+// import { DialogBodyForm } from 'src/Forms/DialogFormTest/DialogBodyForm'
 
 
 export function Login() {
@@ -31,6 +34,7 @@ export function Login() {
     const [state, setState] = useState(STATE);
     const { userData, setUserData } = useContext(AuthContext);
     const { setisLoading } = useContext(LoadingContext);
+    const { setDialogs } = useContext(DialogContext)
     const navigate = useNavigate();
     const UsrRef = useRef(null);
     const PwdRef = useRef(null);
@@ -204,6 +208,30 @@ export function Login() {
                                     <div className="row">
                                         <div className="col-12">
                                             <button type="button" ref={BtnRef} className="btn btn-custom btn-block px-2 pointer" onClick={handleClick}>Login</button>
+                                        </div>
+                                    </div>
+                                    <div className="row">
+                                        <div className="col-12">
+                                            <button type="button" ref={BtnRef} className="btn btn-custom btn-block px-2 pointer" onClick={() => {
+                                                setDialogs(prv => {
+                                                    return [
+                                                        ...prv, {
+                                                            Body: DialogBodyForm,
+                                                            BodyProps: {},
+                                                            onOk: (payload) => {
+                                                                console.log(payload)
+                                                            },
+                                                            onCancel: (paylaod) => {
+                                                                console.log(paylaod)
+                                                            }
+
+
+                                                        }
+                                                    ]
+
+
+                                                })
+                                            }}>Add Dialog</button>
                                         </div>
                                     </div>
 

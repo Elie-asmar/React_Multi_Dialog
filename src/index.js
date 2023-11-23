@@ -20,6 +20,7 @@ import { ErrorContextWrapper } from './ContextProvider/ErrorContext';
 import axios from 'axios';
 import { has, isArray } from 'lodash';
 import { getSessionInfo } from './utils/session';
+import { DialogContextWrapper } from './ContextProvider/DialogContext';
 
 
 // Add a response interceptor
@@ -115,7 +116,9 @@ ReactDOM.render(
       <SettingsContextWrapper>
         <AuthContextWrapper>
           <LoadingContextWrapper>
-            <App />
+            <DialogContextWrapper>
+              <App />
+            </DialogContextWrapper>
           </LoadingContextWrapper>
         </AuthContextWrapper>
       </SettingsContextWrapper>
