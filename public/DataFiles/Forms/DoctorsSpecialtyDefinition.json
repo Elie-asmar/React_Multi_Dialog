@@ -1,0 +1,488 @@
+[
+    {
+        "Dos_Code": "1",
+        "Dos_Desc": "Anesthesiology",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "التخدير والإنعاش",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "10",
+        "Dos_Desc": "Endocrinology",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "أمراض غدد وسكري",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "11",
+        "Dos_Desc": "Otorhinolaryngology",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "جراحة الأنف والأذن والحنجرة",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "12",
+        "Dos_Desc": "Family Medicine - Geriatric",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "طب العائلة",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "13",
+        "Dos_Desc": "Gastroenterology",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "أمراض الجهاز الهضمي",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "14",
+        "Dos_Desc": "Gastroenterology Surgery",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "جراحة الجهاز الهضمي",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "15",
+        "Dos_Desc": "General Medicine",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "طب عام",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "16",
+        "Dos_Desc": "General Surgery",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "جراحة عامّة",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "17",
+        "Dos_Desc": "Infectious Diseases",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "أمراض معدية",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "18",
+        "Dos_Desc": "Interventional Imaging",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "أعمال طبية - أشعّة",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "19",
+        "Dos_Desc": "Internal Medicine",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "طب داخليّ",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "20",
+        "Dos_Desc": "Laboratory",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "مختبر",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "21",
+        "Dos_Desc": "Medical Imaging",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "الأشعّة",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "22",
+        "Dos_Desc": "Miscellaneous",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "مختلف",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "23",
+        "Dos_Desc": "Neurology",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "أمراض جهاز عصبي",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "24",
+        "Dos_Desc": "Neurosurgery",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "جراحة الدماغ",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "25",
+        "Dos_Desc": "Obstetrics & Gynecology",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "أمراض نسائية والتوليد",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "26",
+        "Dos_Desc": "Ophtalmology",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "جراحة العين",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "27",
+        "Dos_Desc": "Orthopedic Surgery",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "جراحة عظم ومفاصل",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "28",
+        "Dos_Desc": "Pathology",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "علم الأنسجة المريضة",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "29",
+        "Dos_Desc": "Pediatric Surgery",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "جراحة طب الأطفال",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "3",
+        "Dos_Desc": "Pediatrics",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "طب الأطفال",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "30",
+        "Dos_Desc": "Physiotherapy",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "علاج فيزيائي",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "31",
+        "Dos_Desc": "Plastic & Reconstructive Surgery",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "جراحة الترميم",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "32",
+        "Dos_Desc": "Pneumology",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "أمراض صدرية",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "33",
+        "Dos_Desc": "Psychiatry",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "أمراض العقليّة والنفسيّة",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "34",
+        "Dos_Desc": "Psychopathology",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "علم النفس",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "35",
+        "Dos_Desc": "Renal Dialysis-Nephrology",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "أمراض الكليّ",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "36",
+        "Dos_Desc": "Rheumatology",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "أمراض المفاصل",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "37",
+        "Dos_Desc": "Speech Therapy",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "تقويم النطق",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "38",
+        "Dos_Desc": "Urology",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "جراحة المسالك البولية",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "39",
+        "Dos_Desc": "Cardio pediatric",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "قلب اطفال",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "4",
+        "Dos_Desc": "Hematology & Oncology",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "أمراض التورّم الخبيث",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "40",
+        "Dos_Desc": "Gastro-pediatric surgery",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "امراض الجهاز الهضمي للاطفال",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "41",
+        "Dos_Desc": "Maxillo - Faciale Surgery",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "جراحة الوجه والفك",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "42",
+        "Dos_Desc": "Neuro - Pediatric",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "امراض عصبية للاطفال",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "43",
+        "Dos_Desc": "Neonatology",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "امراض حديثي الولادة والخدج",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "44",
+        "Dos_Desc": "Nephro - Pediatric",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "امراض الكلى للاطفال",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "45",
+        "Dos_Desc": "General Hospital",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.000",
+        "Dos_ArDesc": ".",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "46",
+        "Dos_Desc": "Cardio Surgery",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "juli",
+        "Dos_Dstmp": "2014-02-07 09:27:36.290",
+        "Dos_ArDesc": "جراحة قلب",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "47",
+        "Dos_Desc": "Hemato Pediatrics",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "juli",
+        "Dos_Dstmp": "2014-05-13 10:03:48.847",
+        "Dos_ArDesc": "",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "48",
+        "Dos_Desc": "Cardio Vascular and Thoracique Surgery",
+        "Dos_Status": "I",
+        "Dos_Ustmp": "juli",
+        "Dos_Dstmp": "2014-10-27 13:53:32.927",
+        "Dos_ArDesc": "",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "49",
+        "Dos_Desc": "Dietitian",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "juli",
+        "Dos_Dstmp": "2014-11-13 09:09:40.933",
+        "Dos_ArDesc": "أخصلئية تغذية",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "5",
+        "Dos_Desc": "Cardiology",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "أمراض القلب",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "50",
+        "Dos_Desc": "Obs-Gyneco",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "sa",
+        "Dos_Dstmp": "2015-10-16 09:44:31.923",
+        "Dos_ArDesc": "",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "51",
+        "Dos_Desc": "Open Heart-Co-Vx",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "sa",
+        "Dos_Dstmp": "2015-10-16 09:44:58.220",
+        "Dos_ArDesc": "",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "52",
+        "Dos_Desc": "Endocrinology  - Pediatric",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "JULI",
+        "Dos_Dstmp": "2017-09-12 11:56:12.657",
+        "Dos_ArDesc": "أمراض الجهاز الهضمي عند الاطفال1",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "6",
+        "Dos_Desc": "Interventional Cardiology",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "تمييل وتوسيع شرايين القلب",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "7",
+        "Dos_Desc": "Cardiac Thoracic Surgery",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "جراحة القلب والصدر",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "8",
+        "Dos_Desc": "Cardio-Vascular Surgery",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "جراحة القلب والشرايين",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "9",
+        "Dos_Desc": "Dermatology",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "CTS",
+        "Dos_Dstmp": "2012-06-08 11:31:38.373",
+        "Dos_ArDesc": "أمراض جلدية وزهرية",
+        "Dos_FrDesc": null
+    },
+    {
+        "Dos_Code": "NR",
+        "Dos_Desc": "Nerologue",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "SA",
+        "Dos_Dstmp": "2020-07-10 09:42:11.313",
+        "Dos_ArDesc": "",
+        "Dos_FrDesc": ""
+    },
+    {
+        "Dos_Code": "OS",
+        "Dos_Desc": "Osteopathic - Spine",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "wm",
+        "Dos_Dstmp": "2021-10-22 16:37:13.137",
+        "Dos_ArDesc": "العمود الفقري",
+        "Dos_FrDesc": ""
+    },
+    {
+        "Dos_Code": "R&P",
+        "Dos_Desc": "Pulmonary & Respiratory Disease",
+        "Dos_Status": "A",
+        "Dos_Ustmp": "wm",
+        "Dos_Dstmp": "2021-10-22 13:13:13.873",
+        "Dos_ArDesc": "",
+        "Dos_FrDesc": ""
+    }
+]

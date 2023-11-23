@@ -1,0 +1,812 @@
+[
+    {
+        "ngd_RecID": 1,
+        "nAppl": "HIS-2",
+        "nModule": "Main",
+        "nStep": "&1- General Exams Table",
+        "NegButton": "btnOrdDesc",
+        "NegDesc": "Authorization to Access Order Sheet Description",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 2,
+        "nAppl": "HIS-2",
+        "nModule": "Main",
+        "nStep": "&1- Laboratory Exams Table",
+        "NegButton": "btnOrdDesc",
+        "NegDesc": "Authorization to Access Order Sheet Description",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 3,
+        "nAppl": "HIS-2",
+        "nModule": "Main",
+        "nStep": "&1- Operations Exams Table",
+        "NegButton": "btnOrdDesc",
+        "NegDesc": "Authorization to Access Order Sheet Description",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 4,
+        "nAppl": "HIS-2",
+        "nModule": "Main",
+        "nStep": "&1- Radiology Exams Table",
+        "NegButton": "btnOrdDesc",
+        "NegDesc": "Authorization to Access Order Sheet Description",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 5,
+        "nAppl": "HIS-2",
+        "nModule": "Main",
+        "nStep": "&2- Unpaid Exams / Group",
+        "NegButton": "btnDenyAcces",
+        "NegDesc": "Deny Access Stock Pharmacy",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 6,
+        "nAppl": "HIS-2",
+        "nModule": "Main",
+        "nStep": "&3- Doctors Definition",
+        "NegButton": "btnDenyIG",
+        "NegDesc": "Deny access on (I/G-IN/OUT) Type",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 7,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&1 - Estimate Patients Treatments",
+        "NegButton": "btnChgStl",
+        "NegDesc": "Authorization to Modify Settled Total",
+        "Checked": true,
+        "Original": true
+    },
+    {
+        "ngd_RecID": 8,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&1 - Patient Admission",
+        "NegButton": "btnIntCnt",
+        "NegDesc": "Save Externals On Internal Counter",
+        "Checked": true,
+        "Original": true
+    },
+    {
+        "ngd_RecID": 9,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&1 - Patient Admission",
+        "NegButton": "btnNegMF",
+        "NegDesc": "Change M/F # in Modify Mode",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 10,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&2 - Cancel Cash Order Logging",
+        "NegButton": "btnExclude",
+        "NegDesc": "Access All Cash Orders Logging",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 11,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&3 - Duplicate Patients",
+        "NegButton": "btnIntCnt",
+        "NegDesc": "Save Externals On Internal Counter",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 12,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&5 - Change Bed Status",
+        "NegButton": "rbSetBedAvailable",
+        "NegDesc": "Set Bed Available",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 13,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&5 - Change Bed Status",
+        "NegButton": "rbSetBedInfected",
+        "NegDesc": "Set Bed Infected",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 14,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&5 - Patient Extra Data - Arabic",
+        "NegButton": "btnNewSucc",
+        "NegDesc": "مركز جديد",
+        "Checked": true,
+        "Original": true
+    },
+    {
+        "ngd_RecID": 17,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&6 - Managing Beds Plan Availability",
+        "NegButton": "rbExtbed",
+        "NegDesc": "Change External bed",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 18,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&6 - Managing Beds Plan Availability",
+        "NegButton": "rbChange",
+        "NegDesc": "Change Waiting List Bed",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 19,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&6 - Managing Beds Plan Availability",
+        "NegButton": "rbAccom",
+        "NegDesc": "Accommodate Patient",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 20,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&6 - Managing Beds Plan Availability",
+        "NegButton": "rbInfect",
+        "NegDesc": "Infection Process On/Off",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 21,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&6 - Managing Beds Plan Availability",
+        "NegButton": "rbClean",
+        "NegDesc": "Cleaning Process On/Off",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 22,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&6 - Managing Beds Plan Availability",
+        "NegButton": "rbSetExact",
+        "NegDesc": "Set Exact Leave Time",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 23,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&6 - Update Patient Invoiced && Locked",
+        "NegButton": "btnNegDisInfMod",
+        "NegDesc": "Discharge Info Modification",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 24,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&B - Merge Medical File",
+        "NegButton": "btnForceSave",
+        "NegDesc": "Force Merge",
+        "Checked": true,
+        "Original": true
+    },
+    {
+        "ngd_RecID": 25,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&B - Merge Medical File",
+        "NegButton": "btnNegMDiffBlGrp",
+        "NegDesc": "Allow Merge With Different Blood Groups",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 26,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&B - Patient Status",
+        "NegButton": "btnExclude",
+        "NegDesc": "Access All P.L.",
+        "Checked": true,
+        "Original": true
+    },
+    {
+        "ngd_RecID": 28,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&D - Labels Printing",
+        "NegButton": "chkNum",
+        "NegDesc": "No Numbering On Labels",
+        "Checked": true,
+        "Original": true
+    },
+    {
+        "ngd_RecID": 29,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&F- Total Amount of Requested Exams",
+        "NegButton": "BtnSaveNeg",
+        "NegDesc": "Save Proforma",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 30,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&I- Patient Summary File",
+        "NegButton": "btnAllowPrt",
+        "NegDesc": "Allow Printing LAB Results Report",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 31,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&K- M/F Closing Cycle",
+        "NegButton": "NegArchCircGranted",
+        "NegDesc": "Archive Circuit Granted",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 32,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&K- M/F Closing Cycle",
+        "NegButton": "NegAdmCircGranted",
+        "NegDesc": "Admission Circuit Granted",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 621,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&1 - Create Cash Order Logging",
+        "NegButton": "btnSplitAmntNeg",
+        "NegDesc": "Split Cash Order Amount",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 668,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&2 - Cancel Cash Order Logging",
+        "NegButton": "btnCheck",
+        "NegDesc": "Check/Uncheck All",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 683,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&D- Update Allergies, Weight and Heights",
+        "NegButton": "BtnUpNeg",
+        "NegDesc": "Access Left & Invoiced Patients",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 690,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&I- Patient Summary File",
+        "NegButton": "chkSurplus",
+        "NegDesc": "Include Surplus",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 717,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&6 - Update Patient Invoiced && Locked",
+        "NegButton": "btnNegModifNat",
+        "NegDesc": "Modify Nationality",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 718,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&6 - Update Patient Invoiced && Locked",
+        "NegButton": "btnNegMaritalStat",
+        "NegDesc": "Modify Marital Status",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 719,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&D - Labels Printing",
+        "NegButton": "chkArc",
+        "NegDesc": "Print Archived Patient",
+        "Checked": true,
+        "Original": true
+    },
+    {
+        "ngd_RecID": 720,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&D - Labels Printing",
+        "NegButton": "chkInv",
+        "NegDesc": "Print Invoiced Patient",
+        "Checked": true,
+        "Original": true
+    },
+    {
+        "ngd_RecID": 721,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&D - Labels Printing",
+        "NegButton": "chkLeft",
+        "NegDesc": "Print Active-Left Patient",
+        "Checked": true,
+        "Original": true
+    },
+    {
+        "ngd_RecID": 722,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&D - Labels Printing",
+        "NegButton": "chkAct",
+        "NegDesc": "Print Active Patient",
+        "Checked": true,
+        "Original": true
+    },
+    {
+        "ngd_RecID": 811,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&6- Patient Archiving",
+        "NegButton": "BtnMoveFiles",
+        "NegDesc": "Transfer Files",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 812,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&6- Patient Archiving",
+        "NegButton": "btnNegOldArch",
+        "NegDesc": "Archiving Old Documents",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 813,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&6- Patient Archiving",
+        "NegButton": "CsChckBx",
+        "NegDesc": "Swapping Between Admissions",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 877,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&6- Patient Archiving",
+        "NegButton": "BtnNegAnnotate",
+        "NegDesc": "Annotate Documents",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 989,
+        "nAppl": "HIS-2",
+        "nModule": "Main",
+        "nStep": "&4- Group && Privilege",
+        "NegButton": "btnOverAllUsersPriv",
+        "NegDesc": "Override All Users Privileges",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 997,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&1 - Patient Admission",
+        "NegButton": "btnDenyBloodGroupAccess",
+        "NegDesc": "Deny Blood Group Access",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 998,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&2 - Babies Admission",
+        "NegButton": "btnDenyBloodGroupAccess",
+        "NegDesc": "Deny Blood Group Access",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 999,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&3- Patient Chart Deficiency Check List",
+        "NegButton": "BtnNegChartComp",
+        "NegDesc": "Authorization To Modify Chart Completion",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 1000,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&4 - Admission From Babies",
+        "NegButton": "btnDenyBloodGroupAccess",
+        "NegDesc": "Deny Blood Group Access",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 1001,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&4 - Admission From Babies",
+        "NegButton": "btnIntCnt",
+        "NegDesc": "Save Externals On Internal Counter",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 1002,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&4 - Admission From Babies",
+        "NegButton": "btnNegDisInfMod",
+        "NegDesc": "Discharge Info Modification",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 1003,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&4 - Admission From Babies",
+        "NegButton": "btnNegMF",
+        "NegDesc": "Change M/F # in Modify Mode",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 1004,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&A - Medical File",
+        "NegButton": "btnDenyBloodGroupAccess",
+        "NegDesc": "Deny Blood Group Access",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 1005,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&A - Medical File",
+        "NegButton": "btnMarkMFInfected",
+        "NegDesc": "Mark MF Infected",
+        "Checked": true,
+        "Original": true
+    },
+    {
+        "ngd_RecID": 1006,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&B - Exam's Approval / Patient",
+        "NegButton": "btnDenyRequestDeletion",
+        "NegDesc": "Deny Request Deletion",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 1007,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&D- Update Allergies, Weight and Heights",
+        "NegButton": "btnDenyBloodGroupAccess",
+        "NegDesc": "Deny Blood Group Access",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 1008,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&D - Labels Printing",
+        "NegButton": "btnDenyPrintLblMultPatients",
+        "NegDesc": "Deny Printing Labels for Multiple Patients",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 1009,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&G- Invoices Dues Per Medical File",
+        "NegButton": "BtnCheckAllMf",
+        "NegDesc": "Check All Medical Files",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 1010,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&K- M/F Closing Cycle",
+        "NegButton": "NegRetMFC",
+        "NegDesc": "Return MF Circuit",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 1011,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&K- M/F Closing Cycle",
+        "NegButton": "NegPrintTATReport",
+        "NegDesc": "Print TAT Report",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 1276,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&C- Lab Results WEB Access",
+        "NegButton": "btnActPat",
+        "NegDesc": "Authorization to Access Active Patients",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 1277,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&F- Rad Result Web Security",
+        "NegButton": "btnActPat",
+        "NegDesc": "Authorization to Access Active Patients",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 1281,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&5 - Change Bed Status",
+        "NegButton": "rbSetBedNonIsolated",
+        "NegDesc": "Set Bed Non Isolated",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 1282,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&5 - Change Bed Status",
+        "NegButton": "rbSetBedIsolated",
+        "NegDesc": "Set Bed Isolated",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 1283,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&6 - Managing Beds Plan Availability",
+        "NegButton": "rbIso",
+        "NegDesc": "Isolation Process On/Off",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 1305,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&6- Patient Archiving",
+        "NegButton": "btnNegScanForDupPat",
+        "NegDesc": "Scan for duplicate patients",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 1306,
+        "nAppl": "HIS-2",
+        "nModule": "ADM",
+        "nStep": "&1- Create Billing Estimation For Patient Case",
+        "NegButton": "btnSaveProforma",
+        "NegDesc": "Save Proforma",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 1307,
+        "nAppl": "HIS-2",
+        "nModule": "ADM",
+        "nStep": "&1- Create Billing Estimation For Patient Case",
+        "NegButton": "btnModifyPrices",
+        "NegDesc": "Modify Prices",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 1308,
+        "nAppl": "HIS-2",
+        "nModule": "ADM",
+        "nStep": "&1- Create Billing Estimation For Patient Case",
+        "NegButton": "btnModifySharePer",
+        "NegDesc": "Modify Share %",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 1309,
+        "nAppl": "HIS-2",
+        "nModule": "ADM",
+        "nStep": "&1- Create Billing Estimation For Patient Case",
+        "NegButton": "btnLabAccess",
+        "NegDesc": "Laboratory Access",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 1310,
+        "nAppl": "HIS-2",
+        "nModule": "ADM",
+        "nStep": "&1- Create Billing Estimation For Patient Case",
+        "NegButton": "btnRadAccess",
+        "NegDesc": "Radiology Access",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 1311,
+        "nAppl": "HIS-2",
+        "nModule": "ADM",
+        "nStep": "&1- Create Billing Estimation For Patient Case",
+        "NegButton": "btnGexAccess",
+        "NegDesc": "General Exams Access",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 1312,
+        "nAppl": "HIS-2",
+        "nModule": "ADM",
+        "nStep": "&1- Create Billing Estimation For Patient Case",
+        "NegButton": "btnStockAccess",
+        "NegDesc": "Stock Access",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 1313,
+        "nAppl": "HIS-2",
+        "nModule": "ADM",
+        "nStep": "&1- Create Billing Estimation For Patient Case",
+        "NegButton": "btnOperationsAccess",
+        "NegDesc": "Operations Access",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 1314,
+        "nAppl": "HIS-2",
+        "nModule": "ADM",
+        "nStep": "&1- Create Billing Estimation For Patient Case",
+        "NegButton": "btnDocFeesAccess",
+        "NegDesc": "Doctor Fees Access",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 1315,
+        "nAppl": "HIS-2",
+        "nModule": "ADM",
+        "nStep": "&1- Create Billing Estimation For Patient Case",
+        "NegButton": "btnResidenceAccess",
+        "NegDesc": "Residence Access",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 3751,
+        "nAppl": "HIS-2",
+        "nModule": "ADM",
+        "nStep": "&B - Exam's Approval / Patient",
+        "NegButton": "btnMail",
+        "NegDesc": "Send Orders by Mail",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 3752,
+        "nAppl": "HIS-2",
+        "nModule": "ADM",
+        "nStep": "&B - Exam's Approval / Patient",
+        "NegButton": "btnPrint",
+        "NegDesc": "Print Orders",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 3753,
+        "nAppl": "HIS-2",
+        "nModule": "ADM",
+        "nStep": "&B - Exam's Approval / Patient",
+        "NegButton": "btnSave",
+        "NegDesc": "Save Orders",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 3766,
+        "nAppl": "HIS-2",
+        "nModule": "ADM",
+        "nStep": "&E - Details Trs Per M/F",
+        "NegButton": "btnNegIncludeSurplus",
+        "NegDesc": "Include Surplus",
+        "Checked": true,
+        "Original": true
+    },
+    {
+        "ngd_RecID": 6638,
+        "nAppl": "HIS-2",
+        "nModule": "Adm",
+        "nStep": "&3 - Duplicate Patients",
+        "NegButton": "btnFreeDuplication",
+        "NegDesc": "Free Duplication",
+        "Checked": false,
+        "Original": false
+    },
+    {
+        "ngd_RecID": 23940,
+        "nAppl": "HIS-2",
+        "nModule": "Main",
+        "nStep": "&3- Coverage Definition",
+        "NegButton": "BtnAllowCopyCovRateToOtherCovs",
+        "NegDesc": "Allow User to Copy Coverage Rate To Other Coverages",
+        "Checked": false,
+        "Original": false
+    }
+]

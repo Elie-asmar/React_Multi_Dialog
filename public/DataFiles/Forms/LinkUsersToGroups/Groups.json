@@ -1,0 +1,222 @@
+[
+    {
+        "Grp_Code": "ACC",
+        "Grp_Name": "Accounting & Financial Dept."
+    },
+    {
+        "Grp_Code": "ADM",
+        "Grp_Name": "Administration Group"
+    },
+    {
+        "Grp_Code": "ADS",
+        "Grp_Name": "Admission Group"
+    },
+    {
+        "Grp_Code": "ARC",
+        "Grp_Name": "Archiving Group"
+    },
+    {
+        "Grp_Code": "BIL",
+        "Grp_Name": "Billing Group"
+    },
+    {
+        "Grp_Code": "BOP",
+        "Grp_Name": "Bloc Operatoire"
+    },
+    {
+        "Grp_Code": "CAR",
+        "Grp_Name": "Cardio"
+    },
+    {
+        "Grp_Code": "CCU",
+        "Grp_Name": "CCU"
+    },
+    {
+        "Grp_Code": "CHI",
+        "Grp_Name": "Chimio"
+    },
+    {
+        "Grp_Code": "CIR",
+        "Grp_Name": "Circuit"
+    },
+    {
+        "Grp_Code": "CLC",
+        "Grp_Name": "Clinic Cardio"
+    },
+    {
+        "Grp_Code": "COl",
+        "Grp_Name": "Collection Group"
+    },
+    {
+        "Grp_Code": "CS",
+        "Grp_Name": "Cardiac Surgery Group"
+    },
+    {
+        "Grp_Code": "DAS",
+        "Grp_Name": "Dir. des Aff.Scientifiques"
+    },
+    {
+        "Grp_Code": "DCTRS",
+        "Grp_Name": "Doctors Group"
+    },
+    {
+        "Grp_Code": "DE",
+        "Grp_Name": "Economic Department"
+    },
+    {
+        "Grp_Code": "DG",
+        "Grp_Name": "Direction Générale"
+    },
+    {
+        "Grp_Code": "DIA",
+        "Grp_Name": "Dialyse"
+    },
+    {
+        "Grp_Code": "DR",
+        "Grp_Name": "Doctors"
+    },
+    {
+        "Grp_Code": "DSI",
+        "Grp_Name": "DSI"
+    },
+    {
+        "Grp_Code": "FLR",
+        "Grp_Name": "Floors"
+    },
+    {
+        "Grp_Code": "HDJ",
+        "Grp_Name": "Hopital De Jour"
+    },
+    {
+        "Grp_Code": "HOP3",
+        "Grp_Name": "HOP3"
+    },
+    {
+        "Grp_Code": "HR",
+        "Grp_Name": "Human Ressources Department"
+    },
+    {
+        "Grp_Code": "ICU",
+        "Grp_Name": "ICU"
+    },
+    {
+        "Grp_Code": "INVI",
+        "Grp_Name": "Invoicing IN"
+    },
+    {
+        "Grp_Code": "INVO",
+        "Grp_Name": "Invoicing Out"
+    },
+    {
+        "Grp_Code": "IT",
+        "Grp_Name": "Information And Technology"
+    },
+    {
+        "Grp_Code": "KT",
+        "Grp_Name": "KT"
+    },
+    {
+        "Grp_Code": "LD",
+        "Grp_Name": "Laboratory Department"
+    },
+    {
+        "Grp_Code": "LN",
+        "Grp_Name": "laundry"
+    },
+    {
+        "Grp_Code": "MAT",
+        "Grp_Name": "Maternite"
+    },
+    {
+        "Grp_Code": "MCO",
+        "Grp_Name": "Medical Comitee Group"
+    },
+    {
+        "Grp_Code": "MI",
+        "Grp_Name": "Medical Imaging"
+    },
+    {
+        "Grp_Code": "MR",
+        "Grp_Name": "Medical Record Group"
+    },
+    {
+        "Grp_Code": "NEO",
+        "Grp_Name": "Neonat"
+    },
+    {
+        "Grp_Code": "NEU",
+        "Grp_Name": "Neurology Group"
+    },
+    {
+        "Grp_Code": "OR",
+        "Grp_Name": "Operating Room Group"
+    },
+    {
+        "Grp_Code": "PATH",
+        "Grp_Name": "Pathology Group"
+    },
+    {
+        "Grp_Code": "PED",
+        "Grp_Name": "Pediatrie"
+    },
+    {
+        "Grp_Code": "PH",
+        "Grp_Name": "Pharmacy Group"
+    },
+    {
+        "Grp_Code": "POU",
+        "Grp_Name": "Pouponiere"
+    },
+    {
+        "Grp_Code": "PRC",
+        "Grp_Name": "Procurment Group"
+    },
+    {
+        "Grp_Code": "PRE",
+        "Grp_Name": "Pre Op"
+    },
+    {
+        "Grp_Code": "QA",
+        "Grp_Name": "Qualité Administrative Group"
+    },
+    {
+        "Grp_Code": "REI",
+        "Grp_Name": "Reception & Information Group"
+    },
+    {
+        "Grp_Code": "RI",
+        "Grp_Name": "Residents and Interns"
+    },
+    {
+        "Grp_Code": "RX",
+        "Grp_Name": "Radiotherapy Group"
+    },
+    {
+        "Grp_Code": "SE",
+        "Grp_Name": "Secretaries"
+    },
+    {
+        "Grp_Code": "SER",
+        "Grp_Name": "Services"
+    },
+    {
+        "Grp_Code": "ST",
+        "Grp_Name": "Stock Group"
+    },
+    {
+        "Grp_Code": "STC",
+        "Grp_Name": "Stock Control Group"
+    },
+    {
+        "Grp_Code": "STE",
+        "Grp_Name": "Sterilisation"
+    },
+    {
+        "Grp_Code": "TRN",
+        "Grp_Name": "TRAINING USERS"
+    },
+    {
+        "Grp_Code": "URG",
+        "Grp_Name": "Urgences"
+    }
+]

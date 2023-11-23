@@ -1,0 +1,17 @@
+[
+    {
+        "user_code": "EA",
+        "user_name": "Elie Asmar",
+        "user_Pass": "dotnetserver"
+    },
+    {
+        "user_code": "BC",
+        "user_name": "Bassem Chedid",
+        "user_Pass": "1234"
+    },
+    {
+        "user_code": "YN",
+        "user_name": "Yara Nefaa",
+        "user_Pass": "1234"
+    }
+]

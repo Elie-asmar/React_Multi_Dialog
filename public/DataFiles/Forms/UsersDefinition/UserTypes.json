@@ -1,0 +1,143 @@
+[
+    {
+        "value": "D",
+        "label": "Doctor",
+        "subtypes": [
+            {
+                "value": "A",
+                "label": "Attending"
+            },
+            {
+                "value": "H",
+                "label": "Hospitalist"
+            },
+            {
+                "value": "M",
+                "label": "Moonlighter"
+            },
+            {
+                "value": "R1",
+                "label": "Resident PGY 1"
+            },
+            {
+                "value": "R2",
+                "label": "Resident PGY 2"
+            },
+            {
+                "value": "R3",
+                "label": "Resident PGY 3"
+            },
+            {
+                "value": "R4",
+                "label": "Resident PGY 4"
+            },
+            {
+                "value": "R5",
+                "label": "Resident PGY 5"
+            },
+            {
+                "value": "R6",
+                "label": "Resident PGY 6"
+            },
+            {
+                "value": "I",
+                "label": "Intern"
+            },
+            {
+                "value": "NA",
+                "label": "Not Applicable"
+            }
+        ]
+    },
+    {
+        "value": "U",
+        "label": "User",
+        "subtypes": []
+    },
+    {
+        "value": "N",
+        "label": "Nurse",
+        "subtypes": [
+            {
+                "value": "RN",
+                "label": "Registered Nurse"
+            },
+            {
+                "value": "PN",
+                "label": "Practical Nurse"
+            },
+            {
+                "value": "NA",
+                "label": "Not Applicable"
+            }
+        ]
+    },
+    {
+        "value": "C",
+        "label": "Coverage",
+        "subtypes": []
+    },
+    {
+        "value": "R",
+        "label": "Portal",
+        "subtypes": []
+    },
+    {
+        "value": "P",
+        "label": "Pharmacist",
+        "subtypes": [
+            {
+                "value": "CH",
+                "label": "Chief Pharmacist"
+            },
+            {
+                "value": "CP",
+                "label": "Clinical Pharmacist"
+            },
+            {
+                "value": "JC",
+                "label": "Junior Clinical Pharmacist"
+            },
+            {
+                "value": "IC",
+                "label": "Intermediate Clinical Pharmacist"
+            },
+            {
+                "value": "SC",
+                "label": "Senior Clinical Pharmacist"
+            },
+            {
+                "value": "PR1",
+                "label": "Pharmacy Resident Level 1"
+            },
+            {
+                "value": "PR2",
+                "label": "Pharmacy Resident Level 2"
+            },
+            {
+                "value": "PR3",
+                "label": "Pharmacy Resident Level 3"
+            },
+            {
+                "value": "PR4",
+                "label": "Pharmacy Resident Level 4"
+            },
+            {
+                "value": "PR5",
+                "label": "Pharmacy Resident Level 5"
+            },
+            {
+                "value": "PS",
+                "label": "Pharmacy Student"
+            },
+            {
+                "value": "PT",
+                "label": "Pharmacy Technician"
+            },
+            {
+                "value": "PP",
+                "label": "Pharmacy Porter"
+            }
+        ]
+    }
+]

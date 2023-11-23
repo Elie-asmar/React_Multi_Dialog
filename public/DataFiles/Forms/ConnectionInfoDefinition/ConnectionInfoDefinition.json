@@ -1,0 +1,102 @@
+[
+    {
+        "Con_DBCode": "Acc0001",
+        "Con_ServerName": "183.183.183.192\\Hammoud",
+        "Con_DBName": "accounting",
+        "Con_DBPwd": "dotnetserver",
+        "Con_Auth": "O",
+        "Con_Path": "",
+        "Con_Dstmp": "2010-03-29 10:48:58.920",
+        "Con_Ustmp": "1454"
+    },
+    {
+        "Con_DBCode": "Accounts",
+        "Con_ServerName": "183.183.183.192\\Hammoud",
+        "Con_DBName": "accounting",
+        "Con_DBPwd": "dotnetserver",
+        "Con_Auth": "O",
+        "Con_Path": "",
+        "Con_Dstmp": "2010-03-29 10:48:58.920",
+        "Con_Ustmp": "1454"
+    },
+    {
+        "Con_DBCode": "ARCHIVE",
+        "Con_ServerName": "183.183.183.192\\Hammoud",
+        "Con_DBName": "Hospital_Archive",
+        "Con_DBPwd": "dotnetserver",
+        "Con_Auth": "O",
+        "Con_Path": "",
+        "Con_Dstmp": "2021-11-25 09:06:10.207",
+        "Con_Ustmp": "SU"
+    },
+    {
+        "Con_DBCode": "BloodB",
+        "Con_ServerName": "183.183.183.192\\Hammoud",
+        "Con_DBName": "Hospital_BloodBank",
+        "Con_DBPwd": "dotnetserver",
+        "Con_Auth": "O",
+        "Con_Path": null,
+        "Con_Dstmp": "2014-08-06 10:24:56.750",
+        "Con_Ustmp": "SU"
+    },
+    {
+        "Con_DBCode": "Diet",
+        "Con_ServerName": "183.183.183.192\\Hammoud",
+        "Con_DBName": "Hospital_Diet",
+        "Con_DBPwd": "dotnetserver",
+        "Con_Auth": "O",
+        "Con_Path": null,
+        "Con_Dstmp": "2015-12-04 16:14:32.520",
+        "Con_Ustmp": "SU"
+    },
+    {
+        "Con_DBCode": "Floor",
+        "Con_ServerName": "183.183.183.192\\Hammoud",
+        "Con_DBName": "Hospital_LaboratoryResults",
+        "Con_DBPwd": "dotnetserver",
+        "Con_Auth": "O",
+        "Con_Path": null,
+        "Con_Dstmp": "2013-02-23 18:55:20.013",
+        "Con_Ustmp": "SU"
+    },
+    {
+        "Con_DBCode": "LaboR",
+        "Con_ServerName": "183.183.183.192\\Hammoud",
+        "Con_DBName": "Hospital_LaboratoryResults",
+        "Con_DBPwd": "dotnetserver",
+        "Con_Auth": "O",
+        "Con_Path": null,
+        "Con_Dstmp": null,
+        "Con_Ustmp": null
+    },
+    {
+        "Con_DBCode": "Laborat",
+        "Con_ServerName": "183.183.183.192\\Hammoud",
+        "Con_DBName": "hospital_laboratory",
+        "Con_DBPwd": "dotnetserver",
+        "Con_Auth": "O",
+        "Con_Path": null,
+        "Con_Dstmp": "2009-07-17 10:45:04.270",
+        "Con_Ustmp": "1454"
+    },
+    {
+        "Con_DBCode": "mcomm",
+        "Con_ServerName": "183.183.183.192\\Hammoud",
+        "Con_DBName": "accounting",
+        "Con_DBPwd": "dotnetserver",
+        "Con_Auth": "O",
+        "Con_Path": "",
+        "Con_Dstmp": "2010-11-26 13:36:52.793",
+        "Con_Ustmp": "CTS"
+    },
+    {
+        "Con_DBCode": "SMS",
+        "Con_ServerName": "183.183.183.192\\hammoud",
+        "Con_DBName": "SMS_DB",
+        "Con_DBPwd": "dotnetserver",
+        "Con_Auth": "O",
+        "Con_Path": "",
+        "Con_Dstmp": "2015-10-19 15:32:40.750",
+        "Con_Ustmp": "SU"
+    }
+]

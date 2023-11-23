@@ -1,0 +1,814 @@
+[
+    {
+        "uuid": "A596C86E-8B0C-4B3B-A86B-D677D284EB54",
+        "code": "&0- Modality Definition"
+    },
+    {
+        "uuid": "3B15BF22-66BB-44C5-9842-B7D82311AC5D",
+        "code": "&1- Apply On Multiple Coverages"
+    },
+    {
+        "uuid": "685B7B51-1FA8-4361-B0AC-884CD12C5933",
+        "code": "&1- Approval Groups Definition"
+    },
+    {
+        "uuid": "8EA73792-5748-446A-83BA-82A578103682",
+        "code": "&1- BI Group Definition"
+    },
+    {
+        "uuid": "645E89F9-67CD-494A-B4D1-404C24A99D47",
+        "code": "&1- Coverage Approvals / Exceptions"
+    },
+    {
+        "uuid": "C51DDD09-2243-4750-9163-81207AD968AC",
+        "code": "&1- Coverage Types"
+    },
+    {
+        "uuid": "E10A5594-BD9C-453E-9C69-16DC665A1B90",
+        "code": "&1- Define Combination Negation"
+    },
+    {
+        "uuid": "9ABE0278-74EC-491E-9B88-40C8FF4CCA02",
+        "code": "&1- Doctors Fees Accounts No"
+    },
+    {
+        "uuid": "EDD694F0-6C2A-4DBB-B2CF-28F8907FECF2",
+        "code": "&1- Doctors Fees Exams Table"
+    },
+    {
+        "uuid": "1C732C76-E52F-43F1-B3DA-A5CA1B50B37C",
+        "code": "&1- ER Rate Group Definition"
+    },
+    {
+        "uuid": "F6C0870C-EBBF-4051-9A81-EC8EF7285BFE",
+        "code": "&1- Floors Definition"
+    },
+    {
+        "uuid": "7FC1C9BD-F811-48A1-AD45-FE70FD3C72A5",
+        "code": "&1- Gen.Exams Preparation List"
+    },
+    {
+        "uuid": "963E9D34-C8AC-4B72-9F93-1235970A7907",
+        "code": "&1- General Diagnosis - ICD10"
+    },
+    {
+        "uuid": "E86F1D9A-9953-4070-A742-E37A12BB445A",
+        "code": "&1- General Exams Groups"
+    },
+    {
+        "uuid": "861295B4-A1B0-4E08-AB93-BEF419FFAE7C",
+        "code": "&1- General Exams Table"
+    },
+    {
+        "uuid": "27012387-A585-49CC-94A1-EE0D2BD8C20B",
+        "code": "&1- Generate Daily Rates"
+    },
+    {
+        "uuid": "37F34B2D-A195-47D2-9262-0A962951F64E",
+        "code": "&1- Groups Definition"
+    },
+    {
+        "uuid": "73EDF8A5-5A45-43C8-B654-FC2FDF794F73",
+        "code": "&1- Groups Of Unpaid Exams"
+    },
+    {
+        "uuid": "36851309-4A68-4370-B718-098B0222615F",
+        "code": "&1- Hospital Classes"
+    },
+    {
+        "uuid": "335BFBB3-6D98-4499-AED3-DB301319A339",
+        "code": "&1- Import Flat Rate Ministry"
+    },
+    {
+        "uuid": "EEF26FBE-7D80-49C1-BDE9-D901E132E35D",
+        "code": "&1- Laboratory Exams Table"
+    },
+    {
+        "uuid": "E9C77CBD-2613-4ADD-86A0-82A712CF2773",
+        "code": "&1- Laboratory Groups"
+    },
+    {
+        "uuid": "7ADE5629-B58D-4ED7-AF4C-CBB13EC00AA7",
+        "code": "&1- Laboratory Preparation List"
+    },
+    {
+        "uuid": "EF2FF93D-C3AF-40FC-8B3D-E54E755A13CB",
+        "code": "&1- Locking Management"
+    },
+    {
+        "uuid": "ACF28587-A077-4286-9918-0BEAD87E7C13",
+        "code": "&1- M/F Circuit Definition"
+    },
+    {
+        "uuid": "E9CE6A40-4642-45DB-82B5-AFAFB4807A31",
+        "code": "&1- Mouhafaza"
+    },
+    {
+        "uuid": "CD4BA13A-E9EC-46C7-A686-6D42C22C4328",
+        "code": "&1- Operating Medical Services"
+    },
+    {
+        "uuid": "B73C5138-225F-4609-BFE3-D10A6093BB29",
+        "code": "&1- Operations Exams Table"
+    },
+    {
+        "uuid": "B9DFE756-2C58-438D-ACAE-E18D65C32547",
+        "code": "&1- Operations Index"
+    },
+    {
+        "uuid": "776A1CA1-E677-4BA6-9573-03E17E0EDCF5",
+        "code": "&1- Operations Preparation Lists"
+    },
+    {
+        "uuid": "48C3A37A-200A-4071-BD79-A715D9BDC07D",
+        "code": "&1- Radiology Exams Table"
+    },
+    {
+        "uuid": "C210AF0B-C265-4F0C-B346-E2175D18999D",
+        "code": "&1- Radiology Groups"
+    },
+    {
+        "uuid": "CAFF5308-336C-4F06-84E8-02BD1922B162",
+        "code": "&1- Radiology PreparationLists"
+    },
+    {
+        "uuid": "61DFDCD3-AA02-40EF-8F2B-1F310FD6233C",
+        "code": "&1- Request Templates Definition"
+    },
+    {
+        "uuid": "FB598160-DA4A-481F-BE3C-33CE86F22016",
+        "code": "&1- Specialty Definition"
+    },
+    {
+        "uuid": "8A26134D-66C2-465C-8510-BA87668CB07F",
+        "code": "&1- Stock Groups"
+    },
+    {
+        "uuid": "36419C3F-0775-4DC4-B86A-074E7B7B60CC",
+        "code": "&1- Unpaid Exams Groups Definition"
+    },
+    {
+        "uuid": "BEAB32B5-3517-4589-A56D-BEDECE9F9204",
+        "code": "&1- Update Flat Rate Header"
+    },
+    {
+        "uuid": "6111EC78-E0FC-4EB6-AF75-97E4E321C90C",
+        "code": "&2- Activate/Inactivate Flat Rates"
+    },
+    {
+        "uuid": "F69CB13E-3B58-4CBF-8736-D8157C6B21B1",
+        "code": "&2- Apply On One Coverage"
+    },
+    {
+        "uuid": "A2278A3F-0A5A-4DB1-AA63-D491D0E44F08",
+        "code": "&2- Approval Exams / Group"
+    },
+    {
+        "uuid": "D8B01078-0B0E-4A86-B54E-B5B0ACFEAA5B",
+        "code": "&2- Beds Category"
+    },
+    {
+        "uuid": "4EBA3F43-923C-4C54-BC37-D53D7BFCC951",
+        "code": "&2- BI Group Details"
+    },
+    {
+        "uuid": "FF6A15EF-EE71-4136-8974-6A94D6A7B9C2",
+        "code": "&2- Cashier Circuit Authorization"
+    },
+    {
+        "uuid": "6F9B7D73-0185-49B6-87A6-8B86B522F74F",
+        "code": "&2- Coverage Groups"
+    },
+    {
+        "uuid": "B8F37315-C6DF-483A-A69C-674DAAB982B3",
+        "code": "&2- Define Current Usable Rates"
+    },
+    {
+        "uuid": "D608A0B7-7AA9-4EDF-B7FB-DCE2CD3349D3",
+        "code": "&2- Detailed Groups Of Unpaid Exams"
+    },
+    {
+        "uuid": "21BEC58A-CC47-48E4-88FB-8861E6268C2F",
+        "code": "&2- Detailed Operating Med.Services"
+    },
+    {
+        "uuid": "3CAC686C-68BD-4260-B43C-FEA6E0829E78",
+        "code": "&2- Diet Definitions"
+    },
+    {
+        "uuid": "C990C5EF-A39B-4A8D-9D68-47598FDC8B34",
+        "code": "&2- Doctors Fees Exceptions"
+    },
+    {
+        "uuid": "DB6BE29E-66BD-4463-BA40-75EBAC3C05FF",
+        "code": "&2- ER Rate Group Details"
+    },
+    {
+        "uuid": "EB5553AA-3603-4916-89C5-13C846933AAE",
+        "code": "&2- Gen.Exams Accounts No"
+    },
+    {
+        "uuid": "F6CAAB6A-8F76-44CF-9545-86803575A67E",
+        "code": "&2- General Exams Exceptions"
+    },
+    {
+        "uuid": "74879005-7852-4E1F-88AC-4B2CB3919A30",
+        "code": "&2- General Exams Groups Details"
+    },
+    {
+        "uuid": "C9F0F884-D461-4B90-BB8B-463DBA11F240",
+        "code": "&2- Import Flat Rate F.S.I"
+    },
+    {
+        "uuid": "D8F706A2-EDF5-48E2-A4A1-BF2D04FEBAF7",
+        "code": "&2- Invoicing Classes"
+    },
+    {
+        "uuid": "770562FD-3FA9-415A-B35C-70F04FDE8E18",
+        "code": "&2- Kaza"
+    },
+    {
+        "uuid": "97EBC3FD-025C-46A9-87E6-8BC204034DD0",
+        "code": "&2- Laboratory Exams Accounts No"
+    },
+    {
+        "uuid": "D61148E0-20E6-445C-8D58-D5C05AE794CF",
+        "code": "&2- Laboratory Exams Exceptions"
+    },
+    {
+        "uuid": "F2484A2F-5054-422A-B4C5-BC0D6272B140",
+        "code": "&2- Laboratory Groups Details"
+    },
+    {
+        "uuid": "229006DD-0169-44AE-95A0-FC6BD2BFAA00",
+        "code": "&2- List of P.L linked to Exceptions"
+    },
+    {
+        "uuid": "7880BB7A-E161-42B4-9ABB-90397C517FBA",
+        "code": "&2- Locking  Exceptions"
+    },
+    {
+        "uuid": "8BF50EF2-79E8-458F-9AFD-8E073DD8F2C5",
+        "code": "&2- Modify/Delete Combination Negation"
+    },
+    {
+        "uuid": "C1B7E3B5-B47B-461E-BC56-7C8D50349F4C",
+        "code": "&2- Operations Exams Accounts No"
+    },
+    {
+        "uuid": "330F65A2-8458-488B-A6C7-7DF534C45FD6",
+        "code": "&2- Operations Exams Exceptions"
+    },
+    {
+        "uuid": "1CD9D059-F28C-40A3-8513-47E691BFA68D",
+        "code": "&2- Operations Room Speciality"
+    },
+    {
+        "uuid": "2AE6E2B1-7EE6-4099-9144-60ABB8AE5F1B",
+        "code": "&2- Pool Doctors"
+    },
+    {
+        "uuid": "975F64B8-355D-4D63-A781-85B85719F1CE",
+        "code": "&2- Radiology Exams Accounts No"
+    },
+    {
+        "uuid": "797CC57C-8591-4A5C-8872-1EA16066380F",
+        "code": "&2- Radiology Exams Exceptions"
+    },
+    {
+        "uuid": "E6887258-3D06-440F-8997-202E98C3D0C1",
+        "code": "&2- Radiology Groups Details"
+    },
+    {
+        "uuid": "B0C45BEC-E516-418B-B347-171340D91EB9",
+        "code": "&2- Request Template Exams"
+    },
+    {
+        "uuid": "737098C0-970B-405E-A67B-F63401E333D1",
+        "code": "&2- Stock Groups Details"
+    },
+    {
+        "uuid": "E08E0CEA-5EB4-4824-B25F-83C0C765FFCC",
+        "code": "&2- Unpaid Exams / Group"
+    },
+    {
+        "uuid": "2CBDAB48-86AA-4459-AABD-8B675DC0099B",
+        "code": "&2- Users Definition"
+    },
+    {
+        "uuid": "1D363DAA-42DC-4B1E-A0A5-5DC4488F8748",
+        "code": "&3- Activity Definitions"
+    },
+    {
+        "uuid": "4A68E0EA-7CAF-4DA7-ACE5-789865447F1E",
+        "code": "&3- Authorized Trauma Cases"
+    },
+    {
+        "uuid": "ACB09974-E91A-4020-902D-C073AB232839",
+        "code": "&3- BI Sub Group Definition"
+    },
+    {
+        "uuid": "F4F8B5BD-E796-4ADE-9A28-FB4CF7B9966A",
+        "code": "&3- Coverage Definition"
+    },
+    {
+        "uuid": "102D18E7-2EB1-4609-A22D-2D4993870E5B",
+        "code": "&3- Coverages including Consultations in Hosp. Totals"
+    },
+    {
+        "uuid": "8303C642-7242-45E7-9969-5A7A56693A38",
+        "code": "&3- Doctors Definition"
+    },
+    {
+        "uuid": "C4DC4EC5-D5D5-4D3C-AD08-987F6E378C05",
+        "code": "&3- Doctors Fees Copy Exceptions From Coverage To Another"
+    },
+    {
+        "uuid": "8B0EA37A-81E3-412B-997E-00DEFAD7B42B",
+        "code": "&3- General Exams Copy Exceptions From Coverage To Another"
+    },
+    {
+        "uuid": "5461268D-E7E9-464A-95AF-414CF0BE9C17",
+        "code": "&3- Generate Market Rates"
+    },
+    {
+        "uuid": "F48D0D54-D610-4918-AC0D-343121F20C8A",
+        "code": "&3- Import Flat Rate Other Coverages"
+    },
+    {
+        "uuid": "CDA562AC-6EA2-4BD3-9877-11AFE5C1EB28",
+        "code": "&3- Invoicing Residence Types"
+    },
+    {
+        "uuid": "AF02515F-AAD9-404A-9032-A36EE1ACACCE",
+        "code": "&3- Link Coverage to ER Rate Groups"
+    },
+    {
+        "uuid": "DFB135E2-C09A-4C78-BEF1-A1B86C22DAA2",
+        "code": "&3- Link Coverage to Unpaid Group"
+    },
+    {
+        "uuid": "F02CB03C-768F-46E4-A7B6-DF36EC25D08B",
+        "code": "&3- Link Coverages to Approval Groups"
+    },
+    {
+        "uuid": "41407F5F-77EC-4DA8-B3AE-E9B9BC45975D",
+        "code": "&3- Link Users to Groups"
+    },
+    {
+        "uuid": "265B903A-07D0-442F-8A4A-09434F2138F5",
+        "code": "&3- Modify && Paste Laboratory Exams Exceptions"
+    },
+    {
+        "uuid": "8628E17A-5F7F-4265-9368-2068A1FB136D",
+        "code": "&3- Modify && Paste Operations Exams Exceptions"
+    },
+    {
+        "uuid": "CEFF1B05-0E7B-41CF-9848-53146F1782A1",
+        "code": "&3- Modify && Paste Radiology Exams Exceptions"
+    },
+    {
+        "uuid": "2AB32AD5-E88B-4C2C-8857-576EDA49BF20",
+        "code": "&3- Module Exceptions Linked to P.L"
+    },
+    {
+        "uuid": "9D35DCD7-BB28-4BBC-B43D-51D0EC1B91BF",
+        "code": "&3- Operating Rooms"
+    },
+    {
+        "uuid": "F4E396A6-F4AA-489B-A6EE-BE209BB4FBCB",
+        "code": "&3- Region Definition"
+    },
+    {
+        "uuid": "9C3F2363-A963-492D-927C-006BC6886FBB",
+        "code": "&3- Unpaid Exams && Price List Control Table"
+    },
+    {
+        "uuid": "96539FE6-C798-41AC-A3F7-55420B4660E3",
+        "code": "&4- Authorized Override Approval Users"
+    },
+    {
+        "uuid": "8E21FEA9-44DF-4CEA-B867-DC7BDFDBC135",
+        "code": "&4- Beds Plan"
+    },
+    {
+        "uuid": "44452F9F-33B2-4DE7-9D47-049780BEDAC0",
+        "code": "&4- Condition Definitions"
+    },
+    {
+        "uuid": "3222F9A2-F54A-4018-BA85-E67A23CB7EA7",
+        "code": "&4- Descriptive Operations Codes"
+    },
+    {
+        "uuid": "B70FBAA7-6FCC-4078-A098-B8F5DA022B9F",
+        "code": "&4- Doctors Pool Members"
+    },
+    {
+        "uuid": "0BC5CAA1-4F62-4503-881D-B6909C8BB897",
+        "code": "&4- Group && Privilege"
+    },
+    {
+        "uuid": "CB196191-327B-4FF5-AEA7-4210DBCC2112",
+        "code": "&4- Import Flat Rate - Free Format"
+    },
+    {
+        "uuid": "4938F06B-BA89-4D80-84D0-4977E4A29AD1",
+        "code": "&4- Laboratory Exams Copy Exceptions From Coverage To Another"
+    },
+    {
+        "uuid": "F361BBE1-ACD9-4ACF-9666-BF82FD3C287A",
+        "code": "&4- Missing Links To P.L And Cov"
+    },
+    {
+        "uuid": "32910AC2-3C9E-4C22-BD8E-90D18F36B693",
+        "code": "&4- Operations Exams Copy Exceptions From Coverage To Another"
+    },
+    {
+        "uuid": "E4D68616-CAFD-4411-AA45-337B26712ACC",
+        "code": "&4- Radiology Exams Copy Exceptions From Coverage To Another"
+    },
+    {
+        "uuid": "B95C0656-028D-4A02-B67A-951976DB7CE9",
+        "code": "&5- Authorized \"Surplus\" Users"
+    },
+    {
+        "uuid": "8EEFDEA7-2BDE-4149-94E6-B0347BCE7D53",
+        "code": "&5- Change General Exams Module"
+    },
+    {
+        "uuid": "717B2505-A53E-49D3-BD74-29788943674F",
+        "code": "&5- Consultation Reasons Definition"
+    },
+    {
+        "uuid": "2A61320A-07B9-473F-9FCF-868BCAFAC949",
+        "code": "&5- Copy Flat Rate From Coverage to Another"
+    },
+    {
+        "uuid": "44E7BF9F-85C5-4159-B5A1-E227ED05BF28",
+        "code": "&5- Doctors Quote Part % Share"
+    },
+    {
+        "uuid": "15055125-F99A-46B0-9926-20F6A91D1156",
+        "code": "&5- Floors Medical Service"
+    },
+    {
+        "uuid": "C5D0F15E-975F-4E23-AF06-07541EF3A7D6",
+        "code": "&5- Precaution Definitions"
+    },
+    {
+        "uuid": "071CF892-5D72-4055-8007-15BFA1DEB551",
+        "code": "&5- Type of Anesthesia"
+    },
+    {
+        "uuid": "ED5246D9-D8A2-4A00-9354-3836AD7482D7",
+        "code": "&5- User && Privilege"
+    },
+    {
+        "uuid": "E75DAFDF-39C8-4F28-8BD7-8943540F774D",
+        "code": "&5- Web Portal Log In User Logging"
+    },
+    {
+        "uuid": "AE6A18CB-EFA9-4156-B500-73F0EE9F16B4",
+        "code": "&6- Apply Quote Part / Requesting Doctors Share"
+    },
+    {
+        "uuid": "66DEAD8B-15A0-4E0A-B82C-513E6655E89C",
+        "code": "&6- Copying Privileges from One Group To Others"
+    },
+    {
+        "uuid": "FE8F6058-3A83-45D3-A805-555CA325F285",
+        "code": "&6- Coverage Quota"
+    },
+    {
+        "uuid": "63BE7A34-DD36-438D-AB06-4E5B81FB1D7B",
+        "code": "&6- Floor Users Privileges"
+    },
+    {
+        "uuid": "415D4F77-42ED-4FE3-83DD-E19AA45E1BBC",
+        "code": "&6- Patient Summary File View Definition"
+    },
+    {
+        "uuid": "1F406770-BBBD-48E7-9E83-A84BE94FA68D",
+        "code": "&6- Requesting Doctors % Share"
+    },
+    {
+        "uuid": "DABE0BFE-97D8-472F-B3FC-22A002265025",
+        "code": "&6- Time Frame Definitions"
+    },
+    {
+        "uuid": "E144E3B7-59C5-436F-8402-FAB76C8AB65E",
+        "code": "&7- Copying Privileges From One User To Others"
+    },
+    {
+        "uuid": "E005F963-F2B1-4FFD-8214-DB4CC66E5C2D",
+        "code": "&7- Coverage Approval Exams"
+    },
+    {
+        "uuid": "595E66A3-6BA9-4707-9FDA-C8C6D0A8870D",
+        "code": "&7- Department Users Privileges"
+    },
+    {
+        "uuid": "2CBBC120-F93A-43A8-A460-18190274A914",
+        "code": "&7- Doctors Quote Part Fixed Share"
+    },
+    {
+        "uuid": "730C21CB-DF7C-4CDA-8C6B-B59188B3C8D3",
+        "code": "&7- Linked Stock Items / Exams"
+    },
+    {
+        "uuid": "EB537852-D0E4-467B-9491-B203E0101D0C",
+        "code": "&7- Ointment / Drop Remark Definitions"
+    },
+    {
+        "uuid": "E745D72B-F93E-47F3-A39B-A4D4813FA4B0",
+        "code": "&8- Emergency Priority Level"
+    },
+    {
+        "uuid": "DAD483A3-74AE-4DCA-9844-38EC03859E2E",
+        "code": "&8- Infection Reason"
+    },
+    {
+        "uuid": "AAEB7068-24FC-467B-8D7E-81A697757B49",
+        "code": "&8- Privileges Group Listing"
+    },
+    {
+        "uuid": "55116080-23B1-4894-9FC1-E487CB42A7FE",
+        "code": "&8- Requesting Doctors Fixed Share"
+    },
+    {
+        "uuid": "4AE5F674-F88B-42AE-84C0-CF37AC10BA74",
+        "code": "&9- Doctors Collection Groups Definition"
+    },
+    {
+        "uuid": "BA3382BA-3516-452C-A640-999FC49820EC",
+        "code": "&9- Policy Type Definition"
+    },
+    {
+        "uuid": "F2F6F8ED-ECEE-4733-A1F7-419BD361F1AB",
+        "code": "&9- Privileges Users Listing"
+    },
+    {
+        "uuid": "0FDE375A-6CAF-4F99-9453-CCE514E7D87E",
+        "code": "&9- Reservation Priority Level"
+    },
+    {
+        "uuid": "8C8E8C44-563A-4AFB-8263-AB3C9E814012",
+        "code": "&A- Acute Respiratory Infection Diagnosis"
+    },
+    {
+        "uuid": "32A185F9-2D66-4D70-8659-7C9E2D7B3D25",
+        "code": "&A- Generate Steps"
+    },
+    {
+        "uuid": "A57951A2-126C-44F0-900B-8BAA17BD678B",
+        "code": "&A- Hospital Rooms Definition"
+    },
+    {
+        "uuid": "9AB10856-3E92-4BB9-B803-3E0FD54E98DD",
+        "code": "&A- Link Doctors to Doctors Collection Groups"
+    },
+    {
+        "uuid": "0D864F7A-7717-4DAD-8784-1FDC9E2C14F3",
+        "code": "&A- Price Lists Definition"
+    },
+    {
+        "uuid": "814E757B-D315-422D-88EA-559EDCFE4381",
+        "code": "&A- Sample ID Sections"
+    },
+    {
+        "uuid": "70BF77EE-1539-476E-8332-6054CE07B0B0",
+        "code": "&A- Serial Modifications on Coverage table"
+    },
+    {
+        "uuid": "D665B8B8-91E0-4FB0-8082-6B5ED1AF5943",
+        "code": "&A- System File"
+    },
+    {
+        "uuid": "6C74DB5F-212E-4966-9022-034195910649",
+        "code": "&A- System Table"
+    },
+    {
+        "uuid": "BD9421C2-515B-4914-BF95-B24CAB5A772D",
+        "code": "&A- Users Monitoring"
+    },
+    {
+        "uuid": "FB35B6A3-BFB0-4112-B7A5-C3AA031DE257",
+        "code": "&A- View/Print New Exams Alerts"
+    },
+    {
+        "uuid": "76AB0B00-4FB2-4161-93C7-F62FF226D4A7",
+        "code": "&A- View/Print Users Steps"
+    },
+    {
+        "uuid": "1A0DF8DD-2B29-4510-AA04-F919073D5C97",
+        "code": "&B- Connection Info"
+    },
+    {
+        "uuid": "BB70A2B1-9950-4808-8485-7F744F15E74C",
+        "code": "&B- Controlling Privilege On Negation Buttons"
+    },
+    {
+        "uuid": "14BEC79A-52DE-4627-ACAF-BEE5EC9CD940",
+        "code": "&B- Directives Table"
+    },
+    {
+        "uuid": "C295A524-A23C-41A1-ADF4-B57004B2439D",
+        "code": "&B- Hide/Un-Hide New Exams Alerts"
+    },
+    {
+        "uuid": "8B4B4F6C-A45A-4271-A97D-4ACC2E20291D",
+        "code": "&B- Laboratory Tube Types"
+    },
+    {
+        "uuid": "1B637C36-36BF-4498-B740-19C9D4F0BEA3",
+        "code": "&B- Link Beds To Rooms"
+    },
+    {
+        "uuid": "2B4548EF-C49B-4272-AF17-A4AE04C0E72F",
+        "code": "&B- Modules/Exams Prices Definition"
+    },
+    {
+        "uuid": "B095AF71-F767-4E8C-A532-ACC5B0CBEAF7",
+        "code": "&B- Reports Sent by Mail Table"
+    },
+    {
+        "uuid": "7D01111A-1099-4301-848B-615EA2F13A2F",
+        "code": "&B- Synchronize with Active Directory"
+    },
+    {
+        "uuid": "13DBC4D7-FD63-454D-878A-902EA1C086FB",
+        "code": "&C- Copy Price List To Other"
+    },
+    {
+        "uuid": "864DFFC8-7FA5-4E39-AC1C-BEEAF5D702E8",
+        "code": "&C- Create Work Flow"
+    },
+    {
+        "uuid": "69DE03C7-3EF5-4AFD-800A-F1204BA4F9E9",
+        "code": "&C- Flat Rate Paramedical Stock Items"
+    },
+    {
+        "uuid": "9D17FADD-FC5C-41CC-99D1-A8AD02E41138",
+        "code": "&C- Group Negation Privileges"
+    },
+    {
+        "uuid": "9E472A27-EAE9-4510-97C6-D9F81D4EFD90",
+        "code": "&C- Hospital Approvals && Paid By Patient"
+    },
+    {
+        "uuid": "0DBCF780-3EDC-4B85-AF53-D38815F67B90",
+        "code": "&C- Invoicing Directives"
+    },
+    {
+        "uuid": "4A3E7AC9-8F3B-4753-8AA1-5AEEA1DC227B",
+        "code": "&C- Laboratory Extraction Types"
+    },
+    {
+        "uuid": "CDD8919D-8A7E-4993-ADA5-2D50E314C96F",
+        "code": "&C- Menu Background"
+    },
+    {
+        "uuid": "E8F94775-66A1-41EB-A206-829290C1C532",
+        "code": "&D- Hospital Paid By Patient As Difference"
+    },
+    {
+        "uuid": "86C6D5E1-A54E-4281-A150-737489FF93F0",
+        "code": "&D- Link Coverage To Price List"
+    },
+    {
+        "uuid": "1FC38341-9210-43CE-B5DF-96045F44522B",
+        "code": "&D- Link Laboratory Exams to Results Parameters"
+    },
+    {
+        "uuid": "B10B203F-7B11-492F-8DFF-49C01535B176",
+        "code": "&D- Nationality Definition"
+    },
+    {
+        "uuid": "FDF365EF-BB46-4A5A-AF63-B55364D211CB",
+        "code": "&D- User Negation Privileges"
+    },
+    {
+        "uuid": "73AA759A-5BBF-4267-A19D-888F132FE51A",
+        "code": "&D - Authorized \"Printing Results\""
+    },
+    {
+        "uuid": "C7877597-7B26-4763-803C-34342E00BBA5",
+        "code": "&E- Hide Dr. Share % to Users"
+    },
+    {
+        "uuid": "516E970B-2BA3-446D-A680-6510700AFA89",
+        "code": "&E- Link Price List To Coverages"
+    },
+    {
+        "uuid": "6819BC14-680E-451B-8225-155E2B6BB47F",
+        "code": "&E- Missing Exams Links between HIS && LIS"
+    },
+    {
+        "uuid": "60A84467-1A54-4A0F-806A-9952D32C30D1",
+        "code": "&E- Religion Definition"
+    },
+    {
+        "uuid": "E0A54D30-093D-4235-B81E-719646F895D6",
+        "code": "&F- External Lab Definition"
+    },
+    {
+        "uuid": "94A5BE09-A4D8-42F0-801E-D264BEF6C7D9",
+        "code": "&F- Mandatory Pathology to be Invoiced"
+    },
+    {
+        "uuid": "DB724A97-ECC0-401A-BCBB-EBBEF1DD9416",
+        "code": "&F- View/Print Coverage Contract"
+    },
+    {
+        "uuid": "60A8F5C6-7E2B-44A3-B1FA-6405A8D4DA64",
+        "code": "&G- Change Prices on Multiple Price List"
+    },
+    {
+        "uuid": "054C061B-3A52-4125-9335-40E08CEB10D2",
+        "code": "&G- Coverage Exam Exception Share"
+    },
+    {
+        "uuid": "9FE67785-42B9-4BE4-B9F7-C9CAD975C73F",
+        "code": "&G- Password Policy"
+    },
+    {
+        "uuid": "548C207B-8AEA-4DB4-A0D3-631212BAF3F1",
+        "code": "&G- Professions Definition"
+    },
+    {
+        "uuid": "CB3F7990-1034-4EB5-B251-EE2DBB8A0AEC",
+        "code": "&H- Copy Price Exams to Other Price Lists"
+    },
+    {
+        "uuid": "69521CA9-F576-41EF-9776-9D0738355D37",
+        "code": "&H- Coverage Sub Group Definition"
+    },
+    {
+        "uuid": "BED50DB9-90E6-4C32-8EDC-65E196C9C733",
+        "code": "&H- Denied P.L by User"
+    },
+    {
+        "uuid": "E13F2FAD-C96F-4082-A07B-3F4C58CBA669",
+        "code": "&H- Hospitals Definition"
+    },
+    {
+        "uuid": "58F73FC4-07D3-4AA1-8CBE-68B570E5DF28",
+        "code": "&I- Coverage Exam Price Upgrade Exceptions"
+    },
+    {
+        "uuid": "0E015340-B098-4A30-BD1F-EE89791B156D",
+        "code": "&I- Denied Users on Controllable Exams"
+    },
+    {
+        "uuid": "133259F9-20D9-479E-B650-DE2E3CB048B3",
+        "code": "&I- Departments Definition"
+    },
+    {
+        "uuid": "BD9E9584-D754-4F9C-B336-AC21F1B1C9B0",
+        "code": "&I- Mandatory Items/Exams to be Invoiced"
+    },
+    {
+        "uuid": "CEE7DC60-780D-415A-AE1B-CD8AB5ED4ED3",
+        "code": "&J- Mandatory Exams Or Items Per Any Exams or Items to be invoiced"
+    },
+    {
+        "uuid": "0C9BB9BA-23CF-4FBA-AFD2-43C9D246718B",
+        "code": "&J- Users Authorizations"
+    },
+    {
+        "uuid": "FEAE3B19-D2EC-4A77-B423-BCABAA295C5A",
+        "code": "&K- Invoicing Modules"
+    },
+    {
+        "uuid": "8DE7B7D1-2D75-4B00-897F-1E680C05B7F0",
+        "code": "&K- SMS Sent To Doctors"
+    },
+    {
+        "uuid": "F675CFF3-DE92-4668-9645-7776F7DD0DA4",
+        "code": "&L- Unlock Web Accounts"
+    },
+    {
+        "uuid": "C5B01501-9C98-4D6F-BCC4-D393A308E669",
+        "code": "&S- Nurses Definition"
+    },
+    {
+        "uuid": "3F96229A-EBB6-425C-9043-4DD081D277C2",
+        "code": "&T- Assistants Definition"
+    },
+    {
+        "uuid": "476083B5-B484-4A70-9D41-AD2DABAFF5F1",
+        "code": "&U- Holidays"
+    },
+    {
+        "uuid": "0BAC273D-E7A7-4ABB-8AB3-5A184563F27A",
+        "code": "&W- Holidays && Off Days / Ms - Dep"
+    },
+    {
+        "uuid": "A63E6FAD-B762-48E2-AE17-ABB4B983E064",
+        "code": "&X- Patient Identifier Definition"
+    },
+    {
+        "uuid": "09840A7B-EA7E-44B7-8FBD-A44E0F98F347",
+        "code": "&Z- Prime Authorized Users"
+    }
+]

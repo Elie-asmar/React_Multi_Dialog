@@ -1,0 +1,6002 @@
+[
+    {
+        "UsrExp_UserCode": "098",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "098",
+        "Chk": true,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "098",
+        "Chk": true,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "098",
+        "Chk": true,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "098",
+        "Chk": true,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "098",
+        "Chk": true,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "098",
+        "Chk": true,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "098",
+        "Chk": true,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "098",
+        "Chk": true,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "098",
+        "Chk": true,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "098",
+        "Chk": true,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "098",
+        "Chk": true,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "098",
+        "Chk": true,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "098",
+        "Chk": true,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "098",
+        "Chk": true,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "098",
+        "Chk": true,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "098",
+        "Chk": true,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "098",
+        "Chk": true,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "098",
+        "Chk": true,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "098",
+        "Chk": true,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "098",
+        "Chk": true,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "098",
+        "Chk": true,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "098",
+        "Chk": true,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "098",
+        "Chk": true,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "0b",
+        "Chk": false,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "0b",
+        "Chk": false,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "0b",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "0b",
+        "Chk": true,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "0b",
+        "Chk": true,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "0b",
+        "Chk": true,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "0b",
+        "Chk": true,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "0b",
+        "Chk": true,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "0b",
+        "Chk": true,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "0b",
+        "Chk": true,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "0b",
+        "Chk": true,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "0b",
+        "Chk": true,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "0b",
+        "Chk": true,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "0b",
+        "Chk": true,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "0b",
+        "Chk": true,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "0b",
+        "Chk": true,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "0b",
+        "Chk": true,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "0b",
+        "Chk": true,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "0b",
+        "Chk": true,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "0b",
+        "Chk": true,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "0b",
+        "Chk": true,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "0b",
+        "Chk": true,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "0b",
+        "Chk": true,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "0b",
+        "Chk": true,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "1067",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "1067",
+        "Chk": true,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "1067",
+        "Chk": true,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "1067",
+        "Chk": true,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "1067",
+        "Chk": true,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "1067",
+        "Chk": true,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "1067",
+        "Chk": true,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "1067",
+        "Chk": true,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "1067",
+        "Chk": true,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "1067",
+        "Chk": true,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "1067",
+        "Chk": true,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "1067",
+        "Chk": true,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "1067",
+        "Chk": true,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "1067",
+        "Chk": true,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "1067",
+        "Chk": true,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "1067",
+        "Chk": true,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "1067",
+        "Chk": true,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "1067",
+        "Chk": true,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "1067",
+        "Chk": true,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "1067",
+        "Chk": true,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "1067",
+        "Chk": true,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "1067",
+        "Chk": true,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "1067",
+        "Chk": true,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "1067",
+        "Chk": true,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "5",
+        "Chk": false,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "5",
+        "Chk": false,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "5",
+        "Chk": false,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "5",
+        "Chk": false,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "5",
+        "Chk": false,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "5",
+        "Chk": false,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "5",
+        "Chk": false,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "5",
+        "Chk": false,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "5",
+        "Chk": false,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "5",
+        "Chk": false,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "5",
+        "Chk": false,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "5",
+        "Chk": false,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "5",
+        "Chk": false,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "5",
+        "Chk": false,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "5",
+        "Chk": false,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "5",
+        "Chk": false,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "5",
+        "Chk": false,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "5",
+        "Chk": false,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "5",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "5",
+        "Chk": false,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "5",
+        "Chk": false,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "5",
+        "Chk": false,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "5",
+        "Chk": false,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "5",
+        "Chk": false,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "5l",
+        "Chk": false,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "5l",
+        "Chk": false,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "5l",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "5l",
+        "Chk": true,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "5l",
+        "Chk": true,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "5l",
+        "Chk": true,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "5l",
+        "Chk": true,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "5l",
+        "Chk": true,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "5l",
+        "Chk": true,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "5l",
+        "Chk": true,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "5l",
+        "Chk": true,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "5l",
+        "Chk": true,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "5l",
+        "Chk": true,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "5l",
+        "Chk": true,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "5l",
+        "Chk": true,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "5l",
+        "Chk": true,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "5l",
+        "Chk": true,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "5l",
+        "Chk": true,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "5l",
+        "Chk": true,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "5l",
+        "Chk": true,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "5l",
+        "Chk": true,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "5l",
+        "Chk": true,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "5l",
+        "Chk": true,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "5l",
+        "Chk": true,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "AA",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "AA",
+        "Chk": true,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "AA",
+        "Chk": true,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "AA",
+        "Chk": true,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "AA",
+        "Chk": true,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "AA",
+        "Chk": true,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "AA",
+        "Chk": true,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "AA",
+        "Chk": true,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "AA",
+        "Chk": true,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "AA",
+        "Chk": true,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "AA",
+        "Chk": true,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "AA",
+        "Chk": true,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "AA",
+        "Chk": true,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "AA",
+        "Chk": true,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "AA",
+        "Chk": true,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "AA",
+        "Chk": true,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "AA",
+        "Chk": true,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "AA",
+        "Chk": true,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "AA",
+        "Chk": true,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "AA",
+        "Chk": true,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "AA",
+        "Chk": true,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "AA",
+        "Chk": true,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "AA",
+        "Chk": true,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "AA",
+        "Chk": true,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "ABAD",
+        "Chk": false,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "ABAD",
+        "Chk": false,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "ABAD",
+        "Chk": false,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "ABAD",
+        "Chk": false,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "ABAD",
+        "Chk": false,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "ABAD",
+        "Chk": false,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "ABAD",
+        "Chk": false,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "ABAD",
+        "Chk": false,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "ABAD",
+        "Chk": false,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "ABAD",
+        "Chk": false,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "ABAD",
+        "Chk": false,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "ABAD",
+        "Chk": false,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "ABAD",
+        "Chk": false,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "ABAD",
+        "Chk": false,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "ABAD",
+        "Chk": false,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "ABAD",
+        "Chk": false,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "ABAD",
+        "Chk": false,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "ABAD",
+        "Chk": false,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "ABAD",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "ABAD",
+        "Chk": false,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "ABAD",
+        "Chk": false,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "ABAD",
+        "Chk": false,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "ABAD",
+        "Chk": false,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "ABAD",
+        "Chk": false,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "ABCK",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "ABCK",
+        "Chk": true,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "ABCK",
+        "Chk": true,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "ABCK",
+        "Chk": true,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "ABCK",
+        "Chk": true,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "ABCK",
+        "Chk": true,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "ABCK",
+        "Chk": true,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "ABCK",
+        "Chk": true,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "ABCK",
+        "Chk": true,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "ABCK",
+        "Chk": true,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "ABCK",
+        "Chk": true,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "ABCK",
+        "Chk": true,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "ABCK",
+        "Chk": true,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "ABCK",
+        "Chk": true,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "ABCK",
+        "Chk": true,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "ABCK",
+        "Chk": true,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "ABCK",
+        "Chk": true,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "ABCK",
+        "Chk": true,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "ABCK",
+        "Chk": true,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "ABCK",
+        "Chk": true,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "ABCK",
+        "Chk": true,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "ABCK",
+        "Chk": true,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "ABCK",
+        "Chk": true,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "ABCK",
+        "Chk": true,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "ABDA",
+        "Chk": false,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "ABDA",
+        "Chk": false,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "ABDA",
+        "Chk": false,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "ABDA",
+        "Chk": false,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "ABDA",
+        "Chk": false,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "ABDA",
+        "Chk": false,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "ABDA",
+        "Chk": false,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "ABDA",
+        "Chk": false,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "ABDA",
+        "Chk": false,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "ABDA",
+        "Chk": false,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "ABDA",
+        "Chk": false,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "ABDA",
+        "Chk": false,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "ABDA",
+        "Chk": false,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "ABDA",
+        "Chk": false,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "ABDA",
+        "Chk": false,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "ABDA",
+        "Chk": false,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "ABDA",
+        "Chk": false,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "ABDA",
+        "Chk": false,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "ABDA",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "ABDA",
+        "Chk": false,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "ABDA",
+        "Chk": false,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "ABDA",
+        "Chk": false,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "ABDA",
+        "Chk": false,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "ABDA",
+        "Chk": false,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "ABDL",
+        "Chk": false,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "ABDL",
+        "Chk": false,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "ABDL",
+        "Chk": false,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "ABDL",
+        "Chk": false,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "ABDL",
+        "Chk": false,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "ABDL",
+        "Chk": false,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "ABDL",
+        "Chk": false,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "ABDL",
+        "Chk": false,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "ABDL",
+        "Chk": false,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "ABDL",
+        "Chk": false,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "ABDL",
+        "Chk": false,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "ABDL",
+        "Chk": false,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "ABDL",
+        "Chk": false,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "ABDL",
+        "Chk": false,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "ABDL",
+        "Chk": false,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "ABDL",
+        "Chk": false,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "ABDL",
+        "Chk": false,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "ABDL",
+        "Chk": false,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "ABDL",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "ABDL",
+        "Chk": false,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "ABDL",
+        "Chk": false,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "ABDL",
+        "Chk": false,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "ABDL",
+        "Chk": false,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "ABDL",
+        "Chk": false,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "ABGH",
+        "Chk": false,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "ABGH",
+        "Chk": false,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "ABGH",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "ABGH",
+        "Chk": true,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "ABGH",
+        "Chk": true,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "ABGH",
+        "Chk": true,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "ABGH",
+        "Chk": true,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "ABGH",
+        "Chk": true,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "ABGH",
+        "Chk": true,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "ABGH",
+        "Chk": true,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "ABGH",
+        "Chk": true,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "ABGH",
+        "Chk": true,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "ABGH",
+        "Chk": true,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "ABGH",
+        "Chk": true,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "ABGH",
+        "Chk": true,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "ABGH",
+        "Chk": true,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "ABGH",
+        "Chk": true,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "ABGH",
+        "Chk": true,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "ABGH",
+        "Chk": true,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "ABGH",
+        "Chk": true,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "ABGH",
+        "Chk": true,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "ABGH",
+        "Chk": true,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "ABGH",
+        "Chk": true,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "ABGH",
+        "Chk": true,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "ABHI",
+        "Chk": false,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "ABHI",
+        "Chk": false,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "ABHI",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "ABHI",
+        "Chk": true,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "ABHI",
+        "Chk": true,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "ABHI",
+        "Chk": true,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "ABHI",
+        "Chk": true,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "ABHI",
+        "Chk": true,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "ABHI",
+        "Chk": true,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "ABHI",
+        "Chk": true,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "ABHI",
+        "Chk": true,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "ABHI",
+        "Chk": true,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "ABHI",
+        "Chk": true,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "ABHI",
+        "Chk": true,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "ABHI",
+        "Chk": true,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "ABHI",
+        "Chk": true,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "ABHI",
+        "Chk": true,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "ABHI",
+        "Chk": true,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "ABHI",
+        "Chk": true,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "ABHI",
+        "Chk": true,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "ABHI",
+        "Chk": true,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "ABHI",
+        "Chk": true,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "ABHI",
+        "Chk": true,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "ABHI",
+        "Chk": true,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "ABHS",
+        "Chk": false,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "ABHS",
+        "Chk": false,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "ABHS",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "ABHS",
+        "Chk": true,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "ABHS",
+        "Chk": true,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "ABHS",
+        "Chk": true,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "ABHS",
+        "Chk": true,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "ABHS",
+        "Chk": true,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "ABHS",
+        "Chk": true,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "ABHS",
+        "Chk": true,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "ABHS",
+        "Chk": true,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "ABHS",
+        "Chk": true,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "ABHS",
+        "Chk": true,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "ABHS",
+        "Chk": true,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "ABHS",
+        "Chk": true,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "ABHS",
+        "Chk": true,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "ABHS",
+        "Chk": true,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "ABHS",
+        "Chk": true,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "ABHS",
+        "Chk": true,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "ABHS",
+        "Chk": true,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "ABHS",
+        "Chk": true,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "ABHS",
+        "Chk": true,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "ABHS",
+        "Chk": true,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "ABHS",
+        "Chk": true,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "ABIR",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "ABIR",
+        "Chk": true,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "ABIR",
+        "Chk": true,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "ABIR",
+        "Chk": true,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "ABIR",
+        "Chk": true,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "ABIR",
+        "Chk": true,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "ABIR",
+        "Chk": true,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "ABIR",
+        "Chk": true,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "ABIR",
+        "Chk": true,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "ABIR",
+        "Chk": true,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "ABIR",
+        "Chk": true,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "ABIR",
+        "Chk": true,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "ABIR",
+        "Chk": true,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "ABIR",
+        "Chk": true,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "ABIR",
+        "Chk": true,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "ABIR",
+        "Chk": true,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "ABIR",
+        "Chk": true,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "ABIR",
+        "Chk": true,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "ABIR",
+        "Chk": true,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "ABIR",
+        "Chk": true,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "ABIR",
+        "Chk": true,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "ABIR",
+        "Chk": true,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "ABIR",
+        "Chk": true,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "ABIR",
+        "Chk": true,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "ABMJ",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "ABMJ",
+        "Chk": true,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "ABMJ",
+        "Chk": true,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "ABMJ",
+        "Chk": true,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "ABMJ",
+        "Chk": true,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "ABMJ",
+        "Chk": true,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "ABMJ",
+        "Chk": true,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "ABMJ",
+        "Chk": true,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "ABMJ",
+        "Chk": true,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "ABMJ",
+        "Chk": true,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "ABMJ",
+        "Chk": true,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "ABMJ",
+        "Chk": true,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "ABMJ",
+        "Chk": true,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "ABMJ",
+        "Chk": true,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "ABMJ",
+        "Chk": true,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "ABMJ",
+        "Chk": true,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "ABMJ",
+        "Chk": true,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "ABMJ",
+        "Chk": true,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "ABMJ",
+        "Chk": true,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "ABMJ",
+        "Chk": true,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "ABMJ",
+        "Chk": true,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "ABMJ",
+        "Chk": true,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "ABMJ",
+        "Chk": true,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "ABMJ",
+        "Chk": true,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "ABMO",
+        "Chk": false,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "ABMO",
+        "Chk": false,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "ABMO",
+        "Chk": false,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "ABMO",
+        "Chk": false,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "ABMO",
+        "Chk": false,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "ABMO",
+        "Chk": false,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "ABMO",
+        "Chk": false,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "ABMO",
+        "Chk": false,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "ABMO",
+        "Chk": false,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "ABMO",
+        "Chk": false,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "ABMO",
+        "Chk": false,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "ABMO",
+        "Chk": false,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "ABMO",
+        "Chk": false,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "ABMO",
+        "Chk": false,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "ABMO",
+        "Chk": false,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "ABMO",
+        "Chk": false,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "ABMO",
+        "Chk": false,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "ABMO",
+        "Chk": false,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "ABMO",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "ABMO",
+        "Chk": false,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "ABMO",
+        "Chk": false,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "ABMO",
+        "Chk": false,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "ABMO",
+        "Chk": false,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "ABMO",
+        "Chk": false,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "ABMR",
+        "Chk": false,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "ABMR",
+        "Chk": false,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "ABMR",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "ABMR",
+        "Chk": true,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "ABMR",
+        "Chk": true,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "ABMR",
+        "Chk": true,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "ABMR",
+        "Chk": true,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "ABMR",
+        "Chk": true,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "ABMR",
+        "Chk": true,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "ABMR",
+        "Chk": true,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "ABMR",
+        "Chk": true,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "ABMR",
+        "Chk": true,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "ABMR",
+        "Chk": true,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "ABMR",
+        "Chk": true,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "ABMR",
+        "Chk": true,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "ABMR",
+        "Chk": true,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "ABMR",
+        "Chk": true,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "ABMR",
+        "Chk": true,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "ABMR",
+        "Chk": true,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "ABMR",
+        "Chk": true,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "ABMR",
+        "Chk": true,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "ABMR",
+        "Chk": true,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "ABMR",
+        "Chk": true,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "ABMR",
+        "Chk": true,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "ABMZ",
+        "Chk": false,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "ABMZ",
+        "Chk": false,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "ABMZ",
+        "Chk": false,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "ABMZ",
+        "Chk": false,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "ABMZ",
+        "Chk": false,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "ABMZ",
+        "Chk": false,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "ABMZ",
+        "Chk": false,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "ABMZ",
+        "Chk": false,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "ABMZ",
+        "Chk": false,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "ABMZ",
+        "Chk": false,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "ABMZ",
+        "Chk": false,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "ABMZ",
+        "Chk": false,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "ABMZ",
+        "Chk": false,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "ABMZ",
+        "Chk": false,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "ABMZ",
+        "Chk": false,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "ABMZ",
+        "Chk": false,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "ABMZ",
+        "Chk": false,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "ABMZ",
+        "Chk": false,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "ABMZ",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "ABMZ",
+        "Chk": false,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "ABMZ",
+        "Chk": false,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "ABMZ",
+        "Chk": false,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "ABMZ",
+        "Chk": false,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "ABMZ",
+        "Chk": false,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "ABSO",
+        "Chk": false,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "ABSO",
+        "Chk": false,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "ABSO",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "ABSO",
+        "Chk": true,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "ABSO",
+        "Chk": true,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "ABSO",
+        "Chk": true,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "ABSO",
+        "Chk": true,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "ABSO",
+        "Chk": true,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "ABSO",
+        "Chk": true,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "ABSO",
+        "Chk": true,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "ABSO",
+        "Chk": true,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "ABSO",
+        "Chk": true,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "ABSO",
+        "Chk": true,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "ABSO",
+        "Chk": true,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "ABSO",
+        "Chk": true,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "ABSO",
+        "Chk": true,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "ABSO",
+        "Chk": true,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "ABSO",
+        "Chk": true,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "ABSO",
+        "Chk": true,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "ABSO",
+        "Chk": true,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "ABSO",
+        "Chk": true,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "ABSO",
+        "Chk": true,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "ABSO",
+        "Chk": true,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "ABSO",
+        "Chk": true,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "ac",
+        "Chk": false,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "ac",
+        "Chk": false,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "ac",
+        "Chk": false,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "ac",
+        "Chk": false,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "ac",
+        "Chk": false,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "ac",
+        "Chk": false,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "ac",
+        "Chk": false,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "ac",
+        "Chk": false,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "ac",
+        "Chk": false,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "ac",
+        "Chk": false,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "ac",
+        "Chk": false,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "ac",
+        "Chk": false,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "ac",
+        "Chk": false,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "ac",
+        "Chk": false,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "ac",
+        "Chk": false,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "ac",
+        "Chk": false,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "ac",
+        "Chk": false,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "ac",
+        "Chk": false,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "ac",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "ac",
+        "Chk": false,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "ac",
+        "Chk": false,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "ac",
+        "Chk": false,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "ac",
+        "Chk": false,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "ac",
+        "Chk": false,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "ADBI",
+        "Chk": false,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "ADBI",
+        "Chk": false,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "ADBI",
+        "Chk": false,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "ADBI",
+        "Chk": false,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "ADBI",
+        "Chk": false,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "ADBI",
+        "Chk": false,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "ADBI",
+        "Chk": false,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "ADBI",
+        "Chk": false,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "ADBI",
+        "Chk": false,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "ADBI",
+        "Chk": false,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "ADBI",
+        "Chk": false,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "ADBI",
+        "Chk": false,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "ADBI",
+        "Chk": false,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "ADBI",
+        "Chk": false,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "ADBI",
+        "Chk": false,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "ADBI",
+        "Chk": false,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "ADBI",
+        "Chk": false,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "ADBI",
+        "Chk": false,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "ADBI",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "ADBI",
+        "Chk": false,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "ADBI",
+        "Chk": false,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "ADBI",
+        "Chk": false,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "ADBI",
+        "Chk": false,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "ADBI",
+        "Chk": false,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "ADKH",
+        "Chk": false,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "ADKH",
+        "Chk": false,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "ADKH",
+        "Chk": false,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "ADKH",
+        "Chk": false,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "ADKH",
+        "Chk": false,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "ADKH",
+        "Chk": false,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "ADKH",
+        "Chk": false,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "ADKH",
+        "Chk": false,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "ADKH",
+        "Chk": false,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "ADKH",
+        "Chk": false,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "ADKH",
+        "Chk": false,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "ADKH",
+        "Chk": false,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "ADKH",
+        "Chk": false,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "ADKH",
+        "Chk": false,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "ADKH",
+        "Chk": false,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "ADKH",
+        "Chk": false,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "ADKH",
+        "Chk": false,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "ADKH",
+        "Chk": false,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "ADKH",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "ADKH",
+        "Chk": false,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "ADKH",
+        "Chk": false,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "ADKH",
+        "Chk": false,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "ADKH",
+        "Chk": false,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "ADKH",
+        "Chk": false,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "ag",
+        "Chk": false,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "ag",
+        "Chk": false,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "ag",
+        "Chk": false,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "ag",
+        "Chk": false,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "ag",
+        "Chk": false,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "ag",
+        "Chk": false,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "ag",
+        "Chk": false,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "ag",
+        "Chk": false,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "ag",
+        "Chk": false,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "ag",
+        "Chk": false,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "ag",
+        "Chk": false,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "ag",
+        "Chk": false,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "ag",
+        "Chk": false,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "ag",
+        "Chk": false,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "ag",
+        "Chk": false,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "ag",
+        "Chk": false,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "ag",
+        "Chk": false,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "ag",
+        "Chk": false,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "ag",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "ag",
+        "Chk": false,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "ag",
+        "Chk": false,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "ag",
+        "Chk": false,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "ag",
+        "Chk": false,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "ag",
+        "Chk": false,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "AHDA",
+        "Chk": false,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "AHDA",
+        "Chk": false,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "AHDA",
+        "Chk": false,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "AHDA",
+        "Chk": false,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "AHDA",
+        "Chk": false,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "AHDA",
+        "Chk": false,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "AHDA",
+        "Chk": false,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "AHDA",
+        "Chk": false,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "AHDA",
+        "Chk": false,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "AHDA",
+        "Chk": false,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "AHDA",
+        "Chk": false,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "AHDA",
+        "Chk": false,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "AHDA",
+        "Chk": false,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "AHDA",
+        "Chk": false,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "AHDA",
+        "Chk": false,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "AHDA",
+        "Chk": false,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "AHDA",
+        "Chk": false,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "AHDA",
+        "Chk": false,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "AHDA",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "AHDA",
+        "Chk": false,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "AHDA",
+        "Chk": false,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "AHDA",
+        "Chk": false,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "AHDA",
+        "Chk": false,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "AHDA",
+        "Chk": false,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "AHHS",
+        "Chk": false,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "AHHS",
+        "Chk": false,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "AHHS",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "AHHS",
+        "Chk": true,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "AHHS",
+        "Chk": true,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "AHHS",
+        "Chk": true,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "AHHS",
+        "Chk": true,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "AHHS",
+        "Chk": true,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "AHHS",
+        "Chk": true,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "AHHS",
+        "Chk": true,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "AHHS",
+        "Chk": true,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "AHHS",
+        "Chk": true,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "AHHS",
+        "Chk": true,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "AHHS",
+        "Chk": true,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "AHHS",
+        "Chk": true,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "AHHS",
+        "Chk": true,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "AHHS",
+        "Chk": true,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "AHHS",
+        "Chk": true,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "AHHS",
+        "Chk": true,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "AHHS",
+        "Chk": true,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "AHHS",
+        "Chk": true,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "AHHS",
+        "Chk": true,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "AHHS",
+        "Chk": true,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "AHHS",
+        "Chk": true,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "AHMK",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "AHMK",
+        "Chk": true,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "AHMK",
+        "Chk": true,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "AHMK",
+        "Chk": true,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "AHMK",
+        "Chk": true,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "AHMK",
+        "Chk": true,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "AHMK",
+        "Chk": true,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "AHMK",
+        "Chk": true,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "AHMK",
+        "Chk": true,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "AHMK",
+        "Chk": true,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "AHMK",
+        "Chk": true,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "AHMK",
+        "Chk": true,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "AHMK",
+        "Chk": true,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "AHMK",
+        "Chk": true,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "AHMK",
+        "Chk": true,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "AHMK",
+        "Chk": true,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "AHMK",
+        "Chk": true,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "AHMK",
+        "Chk": true,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "AHMK",
+        "Chk": true,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "AHMK",
+        "Chk": true,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "AHMK",
+        "Chk": true,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "AHMK",
+        "Chk": true,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "AHMK",
+        "Chk": true,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "AHMK",
+        "Chk": true,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "AHMM",
+        "Chk": false,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "AHMM",
+        "Chk": false,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "AHMM",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "AHMM",
+        "Chk": true,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "AHMM",
+        "Chk": true,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "AHMM",
+        "Chk": true,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "AHMM",
+        "Chk": true,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "AHMM",
+        "Chk": true,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "AHMM",
+        "Chk": true,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "AHMM",
+        "Chk": true,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "AHMM",
+        "Chk": true,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "AHMM",
+        "Chk": true,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "AHMM",
+        "Chk": true,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "AHMM",
+        "Chk": true,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "AHMM",
+        "Chk": true,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "AHMM",
+        "Chk": true,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "AHMM",
+        "Chk": true,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "AHMM",
+        "Chk": true,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "AHMM",
+        "Chk": true,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "AHMM",
+        "Chk": true,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "AHMM",
+        "Chk": true,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "AHMM",
+        "Chk": true,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "AHMM",
+        "Chk": true,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "AHMM",
+        "Chk": true,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "AHMS",
+        "Chk": false,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "AHMS",
+        "Chk": false,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "AHMS",
+        "Chk": false,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "AHMS",
+        "Chk": false,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "AHMS",
+        "Chk": false,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "AHMS",
+        "Chk": false,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "AHMS",
+        "Chk": false,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "AHMS",
+        "Chk": false,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "AHMS",
+        "Chk": false,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "AHMS",
+        "Chk": false,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "AHMS",
+        "Chk": false,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "AHMS",
+        "Chk": false,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "AHMS",
+        "Chk": false,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "AHMS",
+        "Chk": false,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "AHMS",
+        "Chk": false,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "AHMS",
+        "Chk": false,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "AHMS",
+        "Chk": false,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "AHMS",
+        "Chk": false,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "AHMS",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "AHMS",
+        "Chk": false,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "AHMS",
+        "Chk": false,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "AHMS",
+        "Chk": false,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "AHMS",
+        "Chk": false,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "AHMS",
+        "Chk": false,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "AHMT",
+        "Chk": false,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "AHMT",
+        "Chk": false,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "AHMT",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "AHMT",
+        "Chk": true,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "AHMT",
+        "Chk": true,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "AHMT",
+        "Chk": true,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "AHMT",
+        "Chk": true,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "AHMT",
+        "Chk": true,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "AHMT",
+        "Chk": true,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "AHMT",
+        "Chk": true,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "AHMT",
+        "Chk": true,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "AHMT",
+        "Chk": true,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "AHMT",
+        "Chk": true,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "AHMT",
+        "Chk": true,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "AHMT",
+        "Chk": true,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "AHMT",
+        "Chk": true,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "AHMT",
+        "Chk": true,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "AHMT",
+        "Chk": true,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "AHMT",
+        "Chk": true,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "AHMT",
+        "Chk": true,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "AHMT",
+        "Chk": true,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "AHMT",
+        "Chk": true,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "AHMT",
+        "Chk": true,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "AHMT",
+        "Chk": true,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "AHRC",
+        "Chk": false,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "AHRC",
+        "Chk": false,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "AHRC",
+        "Chk": false,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "AHRC",
+        "Chk": false,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "AHRC",
+        "Chk": false,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "AHRC",
+        "Chk": false,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "AHRC",
+        "Chk": false,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "AHRC",
+        "Chk": false,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "AHRC",
+        "Chk": false,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "AHRC",
+        "Chk": false,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "AHRC",
+        "Chk": false,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "AHRC",
+        "Chk": false,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "AHRC",
+        "Chk": false,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "AHRC",
+        "Chk": false,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "AHRC",
+        "Chk": false,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "AHRC",
+        "Chk": false,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "AHRC",
+        "Chk": false,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "AHRC",
+        "Chk": false,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "AHRC",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "AHRC",
+        "Chk": false,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "AHRC",
+        "Chk": false,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "AHRC",
+        "Chk": false,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "AHRC",
+        "Chk": false,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "AHRC",
+        "Chk": false,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "AHTE",
+        "Chk": false,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "AHTE",
+        "Chk": false,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "AHTE",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "AHTE",
+        "Chk": true,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "AHTE",
+        "Chk": true,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "AHTE",
+        "Chk": true,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "AHTE",
+        "Chk": true,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "AHTE",
+        "Chk": true,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "AHTE",
+        "Chk": true,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "AHTE",
+        "Chk": true,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "AHTE",
+        "Chk": true,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "AHTE",
+        "Chk": true,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "AHTE",
+        "Chk": true,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "AHTE",
+        "Chk": true,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "AHTE",
+        "Chk": true,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "AHTE",
+        "Chk": true,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "AHTE",
+        "Chk": true,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "AHTE",
+        "Chk": true,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "AHTE",
+        "Chk": true,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "AHTE",
+        "Chk": true,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "AHTE",
+        "Chk": true,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "AHTE",
+        "Chk": true,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "AHTE",
+        "Chk": true,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "AHTE",
+        "Chk": true,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "AICH",
+        "Chk": false,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "AICH",
+        "Chk": false,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "AICH",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "AICH",
+        "Chk": true,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "AICH",
+        "Chk": true,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "AICH",
+        "Chk": true,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "AICH",
+        "Chk": true,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "AICH",
+        "Chk": true,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "AICH",
+        "Chk": true,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "AICH",
+        "Chk": true,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "AICH",
+        "Chk": true,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "AICH",
+        "Chk": true,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "AICH",
+        "Chk": true,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "AICH",
+        "Chk": true,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "AICH",
+        "Chk": true,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "AICH",
+        "Chk": true,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "AICH",
+        "Chk": true,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "AICH",
+        "Chk": true,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "AICH",
+        "Chk": true,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "AICH",
+        "Chk": true,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "AICH",
+        "Chk": true,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "AICH",
+        "Chk": true,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "AICH",
+        "Chk": true,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "AICH",
+        "Chk": true,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "AIDA",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "AIDA",
+        "Chk": true,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "AIDA",
+        "Chk": true,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "AIDA",
+        "Chk": true,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "AIDA",
+        "Chk": true,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "AIDA",
+        "Chk": true,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "AIDA",
+        "Chk": true,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "AIDA",
+        "Chk": true,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "AIDA",
+        "Chk": true,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "AIDA",
+        "Chk": true,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "AIDA",
+        "Chk": true,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "AIDA",
+        "Chk": true,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "AIDA",
+        "Chk": true,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "AIDA",
+        "Chk": true,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "AIDA",
+        "Chk": true,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "AIDA",
+        "Chk": true,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "AIDA",
+        "Chk": true,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "AIDA",
+        "Chk": true,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "AIDA",
+        "Chk": true,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "AIDA",
+        "Chk": true,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "AIDA",
+        "Chk": true,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "AIDA",
+        "Chk": true,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "AIDA",
+        "Chk": true,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "AIDA",
+        "Chk": true,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "AIHA",
+        "Chk": false,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "AIHA",
+        "Chk": false,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "AIHA",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "AIHA",
+        "Chk": true,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "AIHA",
+        "Chk": true,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "AIHA",
+        "Chk": true,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "AIHA",
+        "Chk": true,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "AIHA",
+        "Chk": true,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "AIHA",
+        "Chk": true,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "AIHA",
+        "Chk": true,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "AIHA",
+        "Chk": true,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "AIHA",
+        "Chk": true,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "AIHA",
+        "Chk": true,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "AIHA",
+        "Chk": true,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "AIHA",
+        "Chk": true,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "AIHA",
+        "Chk": true,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "AIHA",
+        "Chk": true,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "AIHA",
+        "Chk": true,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "AIHA",
+        "Chk": true,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "AIHA",
+        "Chk": true,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "AIHA",
+        "Chk": true,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "AIHA",
+        "Chk": true,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "AIHA",
+        "Chk": true,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "AIHA",
+        "Chk": true,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "AINA",
+        "Chk": false,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "AINA",
+        "Chk": false,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "AINA",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "AINA",
+        "Chk": true,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "AINA",
+        "Chk": true,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "AINA",
+        "Chk": true,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "AINA",
+        "Chk": true,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "AINA",
+        "Chk": true,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "AINA",
+        "Chk": true,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "AINA",
+        "Chk": true,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "AINA",
+        "Chk": true,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "AINA",
+        "Chk": true,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "AINA",
+        "Chk": true,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "AINA",
+        "Chk": true,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "AINA",
+        "Chk": true,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "AINA",
+        "Chk": true,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "AINA",
+        "Chk": true,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "AINA",
+        "Chk": true,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "AINA",
+        "Chk": true,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "AINA",
+        "Chk": true,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "AINA",
+        "Chk": true,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "AINA",
+        "Chk": true,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "AINA",
+        "Chk": true,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "AINA",
+        "Chk": true,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "AKDA",
+        "Chk": false,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "AKDA",
+        "Chk": false,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "AKDA",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "AKDA",
+        "Chk": true,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "AKDA",
+        "Chk": true,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "AKDA",
+        "Chk": true,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "AKDA",
+        "Chk": true,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "AKDA",
+        "Chk": true,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "AKDA",
+        "Chk": true,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "AKDA",
+        "Chk": true,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "AKDA",
+        "Chk": true,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "AKDA",
+        "Chk": true,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "AKDA",
+        "Chk": true,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "AKDA",
+        "Chk": true,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "AKDA",
+        "Chk": true,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "AKDA",
+        "Chk": true,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "AKDA",
+        "Chk": true,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "AKDA",
+        "Chk": true,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "AKDA",
+        "Chk": true,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "AKDA",
+        "Chk": true,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "AKDA",
+        "Chk": true,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "AKDA",
+        "Chk": true,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "AKDA",
+        "Chk": true,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "AKDA",
+        "Chk": true,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "ALCH",
+        "Chk": false,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "ALCH",
+        "Chk": false,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "ALCH",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "ALCH",
+        "Chk": true,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "ALCH",
+        "Chk": true,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "ALCH",
+        "Chk": true,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "ALCH",
+        "Chk": true,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "ALCH",
+        "Chk": true,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "ALCH",
+        "Chk": true,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "ALCH",
+        "Chk": true,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "ALCH",
+        "Chk": true,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "ALCH",
+        "Chk": true,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "ALCH",
+        "Chk": true,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "ALCH",
+        "Chk": true,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "ALCH",
+        "Chk": true,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "ALCH",
+        "Chk": true,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "ALCH",
+        "Chk": true,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "ALCH",
+        "Chk": true,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "ALCH",
+        "Chk": true,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "ALCH",
+        "Chk": true,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "ALCH",
+        "Chk": true,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "ALCH",
+        "Chk": true,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "ALCH",
+        "Chk": true,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "ALCH",
+        "Chk": true,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "ALDA",
+        "Chk": false,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "ALDA",
+        "Chk": false,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "ALDA",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "ALDA",
+        "Chk": true,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "ALDA",
+        "Chk": true,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "ALDA",
+        "Chk": true,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "ALDA",
+        "Chk": true,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "ALDA",
+        "Chk": true,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "ALDA",
+        "Chk": true,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "ALDA",
+        "Chk": true,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "ALDA",
+        "Chk": true,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "ALDA",
+        "Chk": true,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "ALDA",
+        "Chk": true,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "ALDA",
+        "Chk": true,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "ALDA",
+        "Chk": true,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "ALDA",
+        "Chk": true,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "ALDA",
+        "Chk": true,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "ALDA",
+        "Chk": true,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "ALDA",
+        "Chk": true,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "ALDA",
+        "Chk": true,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "ALDA",
+        "Chk": true,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "ALDA",
+        "Chk": true,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "ALDA",
+        "Chk": true,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "ALDA",
+        "Chk": true,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "ALHL",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "ALHL",
+        "Chk": true,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "ALHL",
+        "Chk": true,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "ALHL",
+        "Chk": true,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "ALHL",
+        "Chk": true,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "ALHL",
+        "Chk": true,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "ALHL",
+        "Chk": true,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "ALHL",
+        "Chk": true,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "ALHL",
+        "Chk": true,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "ALHL",
+        "Chk": true,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "ALHL",
+        "Chk": true,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "ALHL",
+        "Chk": true,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "ALHL",
+        "Chk": true,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "ALHL",
+        "Chk": true,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "ALHL",
+        "Chk": true,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "ALHL",
+        "Chk": true,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "ALHL",
+        "Chk": true,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "ALHL",
+        "Chk": true,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "ALHL",
+        "Chk": true,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "ALHL",
+        "Chk": true,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "ALHL",
+        "Chk": true,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "ALHL",
+        "Chk": true,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "ALHL",
+        "Chk": true,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "ALHL",
+        "Chk": true,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "ALHS",
+        "Chk": false,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "ALHS",
+        "Chk": false,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "ALHS",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "ALHS",
+        "Chk": true,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "ALHS",
+        "Chk": true,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "ALHS",
+        "Chk": true,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "ALHS",
+        "Chk": true,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "ALHS",
+        "Chk": true,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "ALHS",
+        "Chk": true,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "ALHS",
+        "Chk": true,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "ALHS",
+        "Chk": true,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "ALHS",
+        "Chk": true,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "ALHS",
+        "Chk": true,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "ALHS",
+        "Chk": true,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "ALHS",
+        "Chk": true,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "ALHS",
+        "Chk": true,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "ALHS",
+        "Chk": true,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "ALHS",
+        "Chk": true,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "ALHS",
+        "Chk": true,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "ALHS",
+        "Chk": true,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "ALHS",
+        "Chk": true,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "ALHS",
+        "Chk": true,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "ALHS",
+        "Chk": true,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "ALHS",
+        "Chk": true,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "ALIN",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "ALIN",
+        "Chk": true,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "ALIN",
+        "Chk": true,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "ALIN",
+        "Chk": true,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "ALIN",
+        "Chk": true,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "ALIN",
+        "Chk": true,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "ALIN",
+        "Chk": true,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "ALIN",
+        "Chk": true,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "ALIN",
+        "Chk": true,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "ALIN",
+        "Chk": true,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "ALIN",
+        "Chk": true,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "ALIN",
+        "Chk": true,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "ALIN",
+        "Chk": true,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "ALIN",
+        "Chk": true,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "ALIN",
+        "Chk": true,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "ALIN",
+        "Chk": true,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "ALIN",
+        "Chk": true,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "ALIN",
+        "Chk": true,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "ALIN",
+        "Chk": true,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "ALIN",
+        "Chk": true,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "ALIN",
+        "Chk": true,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "ALIN",
+        "Chk": true,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "ALIN",
+        "Chk": true,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "ALIN",
+        "Chk": true,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "ALNK",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "ALNK",
+        "Chk": true,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "ALNK",
+        "Chk": true,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "ALNK",
+        "Chk": true,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "ALNK",
+        "Chk": true,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "ALNK",
+        "Chk": true,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "ALNK",
+        "Chk": true,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "ALNK",
+        "Chk": true,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "ALNK",
+        "Chk": true,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "ALNK",
+        "Chk": true,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "ALNK",
+        "Chk": true,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "ALNK",
+        "Chk": true,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "ALNK",
+        "Chk": true,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "ALNK",
+        "Chk": true,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "ALNK",
+        "Chk": true,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "ALNK",
+        "Chk": true,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "ALNK",
+        "Chk": true,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "ALNK",
+        "Chk": true,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "ALNK",
+        "Chk": true,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "ALNK",
+        "Chk": true,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "ALNK",
+        "Chk": true,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "ALNK",
+        "Chk": true,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "ALNK",
+        "Chk": true,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "ALNK",
+        "Chk": true,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "AMAL",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "AMAL",
+        "Chk": true,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "AMAL",
+        "Chk": true,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "AMAL",
+        "Chk": true,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "AMAL",
+        "Chk": true,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "AMAL",
+        "Chk": true,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "AMAL",
+        "Chk": true,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "AMAL",
+        "Chk": true,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "AMAL",
+        "Chk": true,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "AMAL",
+        "Chk": true,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "AMAL",
+        "Chk": true,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "AMAL",
+        "Chk": true,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "AMAL",
+        "Chk": true,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "AMAL",
+        "Chk": true,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "AMAL",
+        "Chk": true,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "AMAL",
+        "Chk": true,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "AMAL",
+        "Chk": true,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "AMAL",
+        "Chk": true,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "AMAL",
+        "Chk": true,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "AMAL",
+        "Chk": true,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "AMAL",
+        "Chk": true,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "AMAL",
+        "Chk": true,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "AMAL",
+        "Chk": true,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "AMAL",
+        "Chk": true,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "AMAR",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "AMAR",
+        "Chk": true,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "AMAR",
+        "Chk": true,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "AMAR",
+        "Chk": true,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "AMAR",
+        "Chk": true,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "AMAR",
+        "Chk": true,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "AMAR",
+        "Chk": true,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "AMAR",
+        "Chk": true,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "AMAR",
+        "Chk": true,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "AMAR",
+        "Chk": true,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "AMAR",
+        "Chk": true,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "AMAR",
+        "Chk": true,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "AMAR",
+        "Chk": true,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "AMAR",
+        "Chk": true,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "AMAR",
+        "Chk": true,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "AMAR",
+        "Chk": true,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "AMAR",
+        "Chk": true,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "AMAR",
+        "Chk": true,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "AMAR",
+        "Chk": true,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "AMAR",
+        "Chk": true,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "AMAR",
+        "Chk": true,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "AMAR",
+        "Chk": true,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "AMAR",
+        "Chk": true,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "AMAR",
+        "Chk": true,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "AMAW",
+        "Chk": false,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "AMAW",
+        "Chk": false,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "AMAW",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "AMAW",
+        "Chk": true,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "AMAW",
+        "Chk": true,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "AMAW",
+        "Chk": true,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "AMAW",
+        "Chk": true,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "AMAW",
+        "Chk": true,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "AMAW",
+        "Chk": true,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "AMAW",
+        "Chk": true,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "AMAW",
+        "Chk": true,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "AMAW",
+        "Chk": true,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "AMAW",
+        "Chk": true,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "AMAW",
+        "Chk": true,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "AMAW",
+        "Chk": true,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "AMAW",
+        "Chk": true,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "AMAW",
+        "Chk": true,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "AMAW",
+        "Chk": true,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "AMAW",
+        "Chk": true,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "AMAW",
+        "Chk": true,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "AMAW",
+        "Chk": true,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "AMAW",
+        "Chk": true,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "AMAW",
+        "Chk": true,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "AMAW",
+        "Chk": true,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "AMAY",
+        "Chk": false,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "AMAY",
+        "Chk": false,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "AMAY",
+        "Chk": false,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "AMAY",
+        "Chk": false,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "AMAY",
+        "Chk": false,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "AMAY",
+        "Chk": false,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "AMAY",
+        "Chk": false,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "AMAY",
+        "Chk": false,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "AMAY",
+        "Chk": false,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "AMAY",
+        "Chk": false,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "AMAY",
+        "Chk": false,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "AMAY",
+        "Chk": false,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "AMAY",
+        "Chk": false,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "AMAY",
+        "Chk": false,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "AMAY",
+        "Chk": false,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "AMAY",
+        "Chk": false,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "AMAY",
+        "Chk": false,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "AMAY",
+        "Chk": false,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "AMAY",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "AMAY",
+        "Chk": false,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "AMAY",
+        "Chk": false,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "AMAY",
+        "Chk": false,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "AMAY",
+        "Chk": false,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "AMAY",
+        "Chk": false,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "AMBK",
+        "Chk": false,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "AMBK",
+        "Chk": false,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "AMBK",
+        "Chk": false,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "AMBK",
+        "Chk": false,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "AMBK",
+        "Chk": false,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "AMBK",
+        "Chk": false,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "AMBK",
+        "Chk": false,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "AMBK",
+        "Chk": false,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "AMBK",
+        "Chk": false,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "AMBK",
+        "Chk": false,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "AMBK",
+        "Chk": false,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "AMBK",
+        "Chk": false,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "AMBK",
+        "Chk": false,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "AMBK",
+        "Chk": false,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "AMBK",
+        "Chk": false,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "AMBK",
+        "Chk": false,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "AMBK",
+        "Chk": false,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "AMBK",
+        "Chk": false,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "AMBK",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "AMBK",
+        "Chk": false,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "AMBK",
+        "Chk": false,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "AMBK",
+        "Chk": false,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "AMBK",
+        "Chk": false,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "AMBK",
+        "Chk": false,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "AMCH",
+        "Chk": false,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "AMCH",
+        "Chk": false,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "AMCH",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "AMCH",
+        "Chk": true,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "AMCH",
+        "Chk": true,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "AMCH",
+        "Chk": true,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "AMCH",
+        "Chk": true,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "AMCH",
+        "Chk": true,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "AMCH",
+        "Chk": true,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "AMCH",
+        "Chk": true,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "AMCH",
+        "Chk": true,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "AMCH",
+        "Chk": true,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "AMCH",
+        "Chk": true,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "AMCH",
+        "Chk": true,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "AMCH",
+        "Chk": true,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "AMCH",
+        "Chk": true,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "AMCH",
+        "Chk": true,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "AMCH",
+        "Chk": true,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "AMCH",
+        "Chk": true,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "AMCH",
+        "Chk": true,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "AMCH",
+        "Chk": true,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "AMCH",
+        "Chk": true,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "AMCH",
+        "Chk": true,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "AMCH",
+        "Chk": true,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "AMGH",
+        "Chk": false,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "AMGH",
+        "Chk": false,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "AMGH",
+        "Chk": false,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "AMGH",
+        "Chk": false,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "AMGH",
+        "Chk": false,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "AMGH",
+        "Chk": false,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "AMGH",
+        "Chk": false,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "AMGH",
+        "Chk": false,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "AMGH",
+        "Chk": false,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "AMGH",
+        "Chk": false,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "AMGH",
+        "Chk": false,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "AMGH",
+        "Chk": false,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "AMGH",
+        "Chk": false,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "AMGH",
+        "Chk": false,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "AMGH",
+        "Chk": false,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "AMGH",
+        "Chk": false,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "AMGH",
+        "Chk": false,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "AMGH",
+        "Chk": false,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "AMGH",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "AMGH",
+        "Chk": false,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "AMGH",
+        "Chk": false,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "AMGH",
+        "Chk": false,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "AMGH",
+        "Chk": false,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "AMGH",
+        "Chk": false,
+        "ModDesc": "Stock"
+    },
+    {
+        "UsrExp_UserCode": "AMLM",
+        "Chk": false,
+        "ModDesc": "Accounting"
+    },
+    {
+        "UsrExp_UserCode": "AMLM",
+        "Chk": false,
+        "ModDesc": "Admission"
+    },
+    {
+        "UsrExp_UserCode": "AMLM",
+        "Chk": false,
+        "ModDesc": "Cashiers"
+    },
+    {
+        "UsrExp_UserCode": "AMLM",
+        "Chk": false,
+        "ModDesc": "Collection"
+    },
+    {
+        "UsrExp_UserCode": "AMLM",
+        "Chk": false,
+        "ModDesc": "Diet"
+    },
+    {
+        "UsrExp_UserCode": "AMLM",
+        "Chk": false,
+        "ModDesc": "Doctors"
+    },
+    {
+        "UsrExp_UserCode": "AMLM",
+        "Chk": false,
+        "ModDesc": "Export Data"
+    },
+    {
+        "UsrExp_UserCode": "AMLM",
+        "Chk": false,
+        "ModDesc": "Externals"
+    },
+    {
+        "UsrExp_UserCode": "AMLM",
+        "Chk": false,
+        "ModDesc": "Floor Request"
+    },
+    {
+        "UsrExp_UserCode": "AMLM",
+        "Chk": false,
+        "ModDesc": "Gen.Exams"
+    },
+    {
+        "UsrExp_UserCode": "AMLM",
+        "Chk": false,
+        "ModDesc": "Invoicing"
+    },
+    {
+        "UsrExp_UserCode": "AMLM",
+        "Chk": false,
+        "ModDesc": "Lab Results"
+    },
+    {
+        "UsrExp_UserCode": "AMLM",
+        "Chk": false,
+        "ModDesc": "Labo"
+    },
+    {
+        "UsrExp_UserCode": "AMLM",
+        "Chk": false,
+        "ModDesc": "Main"
+    },
+    {
+        "UsrExp_UserCode": "AMLM",
+        "Chk": false,
+        "ModDesc": "Medical Committee"
+    },
+    {
+        "UsrExp_UserCode": "AMLM",
+        "Chk": false,
+        "ModDesc": "Medical Records"
+    },
+    {
+        "UsrExp_UserCode": "AMLM",
+        "Chk": false,
+        "ModDesc": "Operating Room"
+    },
+    {
+        "UsrExp_UserCode": "AMLM",
+        "Chk": false,
+        "ModDesc": "Operations"
+    },
+    {
+        "UsrExp_UserCode": "AMLM",
+        "Chk": false,
+        "ModDesc": "Patient Electronic Archiving"
+    },
+    {
+        "UsrExp_UserCode": "AMLM",
+        "Chk": false,
+        "ModDesc": "Radio"
+    },
+    {
+        "UsrExp_UserCode": "AMLM",
+        "Chk": false,
+        "ModDesc": "Radio Results"
+    },
+    {
+        "UsrExp_UserCode": "AMLM",
+        "Chk": false,
+        "ModDesc": "Residence"
+    },
+    {
+        "UsrExp_UserCode": "AMLM",
+        "Chk": false,
+        "ModDesc": "Statistics"
+    },
+    {
+        "UsrExp_UserCode": "AMLM",
+        "Chk": false,
+        "ModDesc": "Stock"
+    }
+]

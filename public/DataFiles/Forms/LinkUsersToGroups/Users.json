@@ -1,0 +1,3836 @@
+[
+    {
+        "user_code": "098",
+        "User_Group": "DR",
+        "User_Name": "DR.   CARLOS SAADEH",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "0b",
+        "User_Group": "CCU",
+        "User_Name": "DR. RAMZI HILAL",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "1067",
+        "User_Group": "ADM",
+        "User_Name": "DR. EDMOND SUKKAR",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "5",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    GEORGES NAAMAN",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "5l",
+        "User_Group": "CCU",
+        "User_Name": "DR. RABIH BOU NASSIF",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "AA",
+        "User_Group": "CAR",
+        "User_Name": "Dr. Abdo Arwadi",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ABAD",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    ABDALLAH ADRA",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ABCK",
+        "User_Group": "INVO",
+        "User_Name": "Abir Cheikh",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ABDA",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    ANTOUN ABDEL AHAD",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ABDL",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    ABDEL WAHAB AL ALY",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ABGH",
+        "User_Group": "INVO",
+        "User_Name": "Abdel Ghani Mikati",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ABHI",
+        "User_Group": "BOP",
+        "User_Name": "Abir Hijazi",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ABHS",
+        "User_Group": "ICU",
+        "User_Name": "Abir EL Hassan",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ABIR",
+        "User_Group": "COl",
+        "User_Name": "Abir Issa",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ABMJ",
+        "User_Group": "LD",
+        "User_Name": "Abed El Rahmen Majdalani",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ABMO",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    ABDALLAH MOALLEM",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ABMR",
+        "User_Group": "POU",
+        "User_Name": "Abir Mohamad",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ABMZ",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    ABDEL SETTAR MAJZOUB",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ABSO",
+        "User_Group": "BOP",
+        "User_Name": "Abdel Salam Soufi",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ac",
+        "User_Group": "SE",
+        "User_Name": "charbel azar",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ADBI",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    ABDALLAH BISSAR",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ADKH",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    ADLETTE INATY",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ag",
+        "User_Group": "SE",
+        "User_Name": "Afif Gebara",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "AHDA",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    AHMAD DABBAGH",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "AHHS",
+        "User_Group": "CCU",
+        "User_Name": "Ahmad Hassoun",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "AHMK",
+        "User_Group": "INVI",
+        "User_Name": "Ahmad Khorbatly",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "AHMM",
+        "User_Group": "URG",
+        "User_Name": "Ahmad el Mel",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "AHMS",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    AHMAD MALAS",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "AHMT",
+        "User_Group": "PH",
+        "User_Name": "Ahmad Moustafa",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "AHRC",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    AHMAD RACHID AL AYOUBI",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "AHTE",
+        "User_Group": "ST",
+        "User_Name": "Ahmad Attieh",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "AICH",
+        "User_Group": "CAR",
+        "User_Name": "Aicha Chiti",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "AIDA",
+        "User_Group": "ACC",
+        "User_Name": "Aida Mohamad",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "AIHA",
+        "User_Group": "NEO",
+        "User_Name": "Aïcha Hamzé",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "AINA",
+        "User_Group": "HOP3",
+        "User_Name": "Aicha Nachar",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "AKDA",
+        "User_Group": "ICU",
+        "User_Name": "Akram Daher",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ALCH",
+        "User_Group": "PED",
+        "User_Name": "Alaa Chrayteh",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ALDA",
+        "User_Group": "HOP3",
+        "User_Name": "Alaa DAKAK",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ALHL",
+        "User_Group": "BOP",
+        "User_Name": "Ala'a Halabi",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "ALHS",
+        "User_Group": "BOP",
+        "User_Name": "Ali Hassoun",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "ALIN",
+        "User_Group": "ADS",
+        "User_Name": "Aline Awad",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ALNK",
+        "User_Group": "ADS",
+        "User_Name": "Aline Kaawi",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "AMAL",
+        "User_Group": "INVI",
+        "User_Name": "Amal Tanos",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "AMAR",
+        "User_Group": "ST",
+        "User_Name": "Amar Ibrahim",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "AMAW",
+        "User_Group": "CLC",
+        "User_Name": "Amanie Awik",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "AMAY",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    AHMAD AYOUBI",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "AMBK",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    AMER BARAKEH",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "AMCH",
+        "User_Group": "URG",
+        "User_Name": "Amanie Chami",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "AMGH",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    AMER GHAOUCHE",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "AMLM",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    AMAL MELHEM",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "AMRA",
+        "User_Group": "LD",
+        "User_Name": "Amira Doueihi",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "AMRJ",
+        "User_Group": "CAR",
+        "User_Name": "Amar Arja",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ANAB",
+        "User_Group": "DR",
+        "User_Name": "ANWAR AYOUBI",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ANAY",
+        "User_Group": "ADS",
+        "User_Name": "Antonio Ayrout",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "ANGY",
+        "User_Group": "ADS",
+        "User_Name": "Angy Hayek",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ANHK",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    ANTOINE HAYEK",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ANIT",
+        "User_Group": "SER",
+        "User_Name": "Anita Hamati",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ANNA",
+        "User_Group": "SER",
+        "User_Name": "Anna Maria",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ARLT",
+        "User_Group": "LD",
+        "User_Name": "Arlette Bou Sleiman",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "AS",
+        "User_Group": "DCTRS",
+        "User_Name": "Dr. Alain Saab",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ASMA",
+        "User_Group": "INVI",
+        "User_Name": "Asmahane Sassine",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "AWSY",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    ABDEL WAHAB SAYADI",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "AYAM",
+        "User_Group": "NEO",
+        "User_Name": "Aya Amoudi",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "AYAW",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    AYMAN AWAD",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "AYBO",
+        "User_Group": "NEO",
+        "User_Name": "Ayda Borghol",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "AYCH",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    AYMAN CHAKIK",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "AYKO",
+        "User_Group": "KT",
+        "User_Name": "Ayman Khodor",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "AYMO",
+        "User_Group": "DSI",
+        "User_Name": "Ayman Mohamad",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "AYMR",
+        "User_Group": "CCU",
+        "User_Name": "Ayman Merhi",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "az",
+        "User_Group": "SE",
+        "User_Name": "Aya Zakaria",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "AZAR",
+        "User_Group": "DR",
+        "User_Name": "Ahlam Azar",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "AZBK",
+        "User_Group": "LN",
+        "User_Name": "Azzam Bakkour",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "AZCH",
+        "User_Group": "DIA",
+        "User_Name": "Azza Chneine",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "AZDN",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    AZZAM DANDACHI",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "AZZA",
+        "User_Group": "INVO",
+        "User_Name": "Azza Kayal",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "AZZD",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    MOHAMAD AZZAM FAROUK ZI",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "bacb",
+        "User_Group": "DR",
+        "User_Name": "Dr Bachar chbib",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "BACH",
+        "User_Group": "BOP",
+        "User_Name": "Bachar Chemali",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "BADC",
+        "User_Group": "CAR",
+        "User_Name": "Badwi Chakti",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "BAHO",
+        "User_Group": "LD",
+        "User_Name": "Bahiya Farah",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "BAKR",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    BASSEM KORAALY",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "BASA",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    BASSAM SAMAD",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "bc",
+        "User_Group": "DR",
+        "User_Name": "Dr Dr Bassem Chdid",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "BEAB",
+        "User_Group": "CAR",
+        "User_Name": "Berna Abboud",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "BIDA",
+        "User_Group": "URG",
+        "User_Name": "Bilal Dakramanji",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "big",
+        "User_Group": "BOP",
+        "User_Name": "Big Screen",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "BILA",
+        "User_Group": "URG",
+        "User_Name": "Bilal Bodon",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "BLOC",
+        "User_Group": "SER",
+        "User_Name": "BLOC",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "boak",
+        "User_Group": "SER",
+        "User_Name": "Bouchra Akoumi",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "BOJA",
+        "User_Group": "HOP3",
+        "User_Name": "Bouchra Jawad",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "BRIS",
+        "User_Group": "HDJ",
+        "User_Name": "Brigida Issa",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "CAKL",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    CAMILLE AKEL",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "CARD",
+        "User_Group": "SER",
+        "User_Name": "Cardio",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "CARL",
+        "User_Group": "ACC",
+        "User_Name": "Carla Fadlallah",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "CARM",
+        "User_Group": "DR",
+        "User_Name": "Carmen Joukhadar",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "CB",
+        "User_Group": "ADS",
+        "User_Name": "Carlos B",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "CCU",
+        "User_Group": "SER",
+        "User_Name": "CCU",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "CHAN",
+        "User_Group": "DSI",
+        "User_Name": "Christine Andary",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "CHAR",
+        "User_Group": "IT",
+        "User_Name": "Charbel Nahra",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "CHBS",
+        "User_Group": "BOP",
+        "User_Name": "Chadia Abbas",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "CHCH",
+        "User_Group": "INVO",
+        "User_Name": "Chantal Chahda",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "CHHM",
+        "User_Group": "KT",
+        "User_Name": "Chadi Hmayri",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "CHIM",
+        "User_Group": "SER",
+        "User_Name": "Chimio",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "CHKO",
+        "User_Group": "URG",
+        "User_Name": "Chaza Koubaytari",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "CHMS",
+        "User_Group": "PH",
+        "User_Name": "Chams Ibrahim",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "CLAR",
+        "User_Group": "INVO",
+        "User_Name": "Clara Issa",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "CLCR",
+        "User_Group": "SER",
+        "User_Name": "Clinic Cardio",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "CLGF",
+        "User_Group": "INVO",
+        "User_Name": "Clinic GF",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "CLIN",
+        "User_Group": "SER",
+        "User_Name": "CLIN",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "CLRZ",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    CLAUDE RIZK",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "crd2",
+        "User_Group": "SER",
+        "User_Name": "Cardio2",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "cs",
+        "User_Group": "DCTRS",
+        "User_Name": "CARLOS SAADEH",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "CSU",
+        "User_Group": "SER",
+        "User_Name": "CSU",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "cts",
+        "User_Group": "ADM",
+        "User_Name": "ctserv",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "cts1",
+        "User_Group": "ADM",
+        "User_Name": "CTS User",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "cts2",
+        "User_Group": "ADM",
+        "User_Name": "CTS User",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "DA",
+        "User_Group": "DCTRS",
+        "User_Name": "DR. DANI ALAM",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "DAAD",
+        "User_Group": "COl",
+        "User_Name": "Daad Nicolas",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "DABO",
+        "User_Group": "URG",
+        "User_Name": "Darine El Bouty",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "DAHJ",
+        "User_Group": "CHI",
+        "User_Name": "Dany Hjeij",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "DANO",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    HAYTHAM MOBAYED",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "DB",
+        "User_Group": "ADM",
+        "User_Name": "Diana Bechara",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "DBA",
+        "User_Group": "ACC",
+        "User_Name": "DAAD BALKIS ALLAM",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "der",
+        "User_Group": "DR",
+        "User_Name": "DR. Elie Rahal",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "DGK",
+        "User_Group": "DR",
+        "User_Name": "DR Gerges Karam",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "DHZI",
+        "User_Group": "INVO",
+        "User_Name": "Doha Zohbi",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "DIAL",
+        "User_Group": "ADS",
+        "User_Name": "Diala Kik",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "DIGH",
+        "User_Group": "HOP3",
+        "User_Name": "Dima Ghazzawi",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "DIMA",
+        "User_Group": "INVI",
+        "User_Name": "Dima Ghanem",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "DINA",
+        "User_Group": "BOP",
+        "User_Name": "Dina Khoury",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "DISA",
+        "User_Group": "MAT",
+        "User_Name": "Dima Saleh Eddine",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "DLYS",
+        "User_Group": "SER",
+        "User_Name": "Dialyses",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "DOKD",
+        "User_Group": "HOP3",
+        "User_Name": "Douni KADDOUR",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "DOKH",
+        "User_Group": "HOP3",
+        "User_Name": "Doumou' Khodor",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "DONY",
+        "User_Group": "ACC",
+        "User_Name": "Donya Chamma",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "DORI",
+        "User_Group": "ACC",
+        "User_Name": "Dorine Breir",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "DOUK",
+        "User_Group": "HOP3",
+        "User_Name": "Dounia Kabbara",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "drm",
+        "User_Group": "ADM",
+        "User_Name": "Doctor rita merheb",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "DSI",
+        "User_Group": "SER",
+        "User_Name": "DSI",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "DT",
+        "User_Group": "CHI",
+        "User_Name": "Dr dany Tobiya",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "EA",
+        "User_Group": "DG",
+        "User_Name": "Dr. Elie Asmar",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ea1",
+        "User_Group": "DR",
+        "User_Name": "Dr Eddy Asmar",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ELBA",
+        "User_Group": "ST",
+        "User_Name": "Elie Saba",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ELBI",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    ELIAS BITAR",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ELDB",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    ELIE DIB",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ELHB",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    ELIE HABIB",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ELIA",
+        "User_Group": "PH",
+        "User_Name": "Elia Khalil",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ELIE",
+        "User_Group": "PH",
+        "User_Name": "Dr Elie Nehme",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ER",
+        "User_Group": "DR",
+        "User_Name": "Elie Rahal",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ERA",
+        "User_Group": "ADM",
+        "User_Name": "Elie Rahal",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ES",
+        "User_Group": "ACC",
+        "User_Name": "DR.    EDMOND SUKKAR",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "EVA",
+        "User_Group": "MI",
+        "User_Name": "Eva Jabra",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "FACH",
+        "User_Group": "MAT",
+        "User_Name": "Farah Charif",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "FAD",
+        "User_Group": "MI",
+        "User_Name": "Fatat Dayoub",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "FADI",
+        "User_Group": "LD",
+        "User_Name": "Fadi El Kadi",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "FADL",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    FADEL EL HASSAN",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "FAEL",
+        "User_Group": "PED",
+        "User_Name": "Fadia El Ess",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "FAES",
+        "User_Group": "SER",
+        "User_Name": "Fadia ELSS",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "FAGH",
+        "User_Group": "ACC",
+        "User_Name": "Farah Ghareeb",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "FAHA",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    FAYCAL HADDAD",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "FAKD",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    FARES AL KADIRI",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "FALG",
+        "User_Group": "PED",
+        "User_Name": "Fatme lagha",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "FALM",
+        "User_Group": "CAR",
+        "User_Name": "Fatme Alameddine",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "FAME",
+        "User_Group": "URG",
+        "User_Name": "Farouk Merehbi",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "FARO",
+        "User_Group": "LD",
+        "User_Name": "Farouk Omar",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "FATL",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    FAYCAL TLEISS",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "FATR",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    FAYCAL TRAD",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "FDKS",
+        "User_Group": "HOP3",
+        "User_Name": "Fida Kassas",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "FIBH",
+        "User_Group": "SER",
+        "User_Name": "Fida Ibrahim",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "FIBR",
+        "User_Group": "DSI",
+        "User_Name": "Fida Ibrahim",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "FITH",
+        "User_Group": "MAT",
+        "User_Name": "Fida Taha",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "FM",
+        "User_Group": "CAR",
+        "User_Name": "Fady Moukawem",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "FRTB",
+        "User_Group": "BOP",
+        "User_Name": "Ferdaous Tarabay",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "FTHA",
+        "User_Group": "HOP3",
+        "User_Name": "Fatme Hadba",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "GABD",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    GABY DIB",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "GEAB",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    GEORGES ABDALLAH",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "GEAZ",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    GEORGES AZAR",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "GEBA",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    GEORGES BACHAWATY",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "GEDB",
+        "User_Group": "BOP",
+        "User_Name": "Georeges Dib",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "GENI",
+        "User_Group": "PH",
+        "User_Name": "Georges Nicolas",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "GHAH",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    GHASSAN SEMAAN HANNA",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "GHAM",
+        "User_Group": "HOP3",
+        "User_Name": "Ghinwa Amoun",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "GHAR",
+        "User_Group": "ICU",
+        "User_Name": "Ghiwa Harmouche",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "GHAS",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    GHASSAN RHAYEM",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "GHAZ",
+        "User_Group": "SER",
+        "User_Name": "Ghazwa Barakat",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "GHCH",
+        "User_Group": "CAR",
+        "User_Name": "Ghina Cheikh",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "GHGH",
+        "User_Group": "INVI",
+        "User_Name": "Ghada Ghazal",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "GHGW",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    GHASSAN GHAOUCHE",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "GHKH",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    GHASSAN KHOURY",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "GHMN",
+        "User_Group": "SER",
+        "User_Name": "Ghinwa Ammoun",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "GHSA",
+        "User_Group": "POU",
+        "User_Name": "Ghiwa Sawah",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "GHTA",
+        "User_Group": "MAT",
+        "User_Name": "Ghina Taychouri",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "GHTN",
+        "User_Group": "DR",
+        "User_Name": "Dr Ghassan Antoun",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "GIKA",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    GILBERT KARAYAKOPOUGLOU",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "GISE",
+        "User_Group": "QA",
+        "User_Name": "Gisele Mikhael",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "GRAC",
+        "User_Group": "ACC",
+        "User_Name": "Grace Arwadi",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "HA",
+        "User_Group": "DR",
+        "User_Name": "HELEN ABYAD",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "HADI",
+        "User_Group": "PRC",
+        "User_Name": "Hadi el Jamal",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "HADN",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    HABIB DONA",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "HADR",
+        "User_Group": "URG",
+        "User_Name": "Hassan Hadar",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "HAEI",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    HASSAN EID",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "HAGS",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    HANNA GERGES",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "HAHR",
+        "User_Group": "ICU",
+        "User_Name": "Hanadi Harmouch",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "HAIF",
+        "User_Group": "ARC",
+        "User_Name": "Haifa Farah",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "HAJI",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    HASSAN AJI",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "HAKH",
+        "User_Group": "URG",
+        "User_Name": "Hassan El Khatib",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "HAKT",
+        "User_Group": "MAT",
+        "User_Name": "Hanadi Khatib",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "HALD",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    HANI ALI SAMIR LEBDE",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "HAMA",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    HAYTHAM MAAZ",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "HAMK",
+        "User_Group": "URG",
+        "User_Name": "Hassan Mikati",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "HAML",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    HASSAN MALLAT",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "HAMN",
+        "User_Group": "LD",
+        "User_Name": "Hadi El Amine",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "HAMO",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    HATEM MONLA",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "HANA",
+        "User_Group": "PRC",
+        "User_Name": "Hanan Hajar",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "HANM",
+        "User_Group": "URG",
+        "User_Name": "Hana Masri",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "HAOB",
+        "User_Group": "CAR",
+        "User_Name": "Hadia Obeid",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "HART",
+        "User_Group": "ST",
+        "User_Name": "Harout",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "HATR",
+        "User_Group": "NEO",
+        "User_Name": "Hajar Trad",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "HIBA",
+        "User_Group": "LD",
+        "User_Name": "Hiba Saitary",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "HICH",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    HICHAM DIB",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "HILA",
+        "User_Group": "INVO",
+        "User_Name": "Hilal Kanj",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "HIND",
+        "User_Group": "INVO",
+        "User_Name": "Hind Bodon",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "hk",
+        "User_Group": "SE",
+        "User_Name": "Hanady Karam",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "HKH",
+        "User_Group": "BOP",
+        "User_Name": "Hassan Khatib",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "HOTA",
+        "User_Group": "PRE",
+        "User_Name": "Hoda Taleb",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "hs",
+        "User_Group": "DR",
+        "User_Name": "Dr Hadi Salemeh",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "HSHS",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    HUSSEIN HUSSEIN",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "HSKH",
+        "User_Group": "LD",
+        "User_Name": "Hussein Khouja",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "HUAG",
+        "User_Group": "HOP3",
+        "User_Name": "Hussein Abdul Ghani",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "IB",
+        "User_Group": "ACC",
+        "User_Name": "DR.   IHAB  IBRAHIM",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "IBSB",
+        "User_Group": "HOP3",
+        "User_Name": "Ibtissam Sbat",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "IBTB",
+        "User_Group": "BOP",
+        "User_Name": "Ibrahim Tayba",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "IBTH",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    IBTIHAL AL KASSAM",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "IBZK",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    IBRAHIM ZAKHEM",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ICU",
+        "User_Group": "SER",
+        "User_Name": "ICU",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "IHAB",
+        "User_Group": "INVO",
+        "User_Name": "Ihab Matari",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "IHHD",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    IHAB HAMMOUD",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "IMBR",
+        "User_Group": "INVO",
+        "User_Name": "Imad Berzghal",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "INTS",
+        "User_Group": "LD",
+        "User_Name": "Intissar Diab",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ISNA",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    ISSAM NAJI",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "JACK",
+        "User_Group": "LD",
+        "User_Name": "Jack Bendali",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "JACQ",
+        "User_Group": "QA",
+        "User_Name": "Jaqueline Nehme",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "JAFG",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    JAWAD FEGHALI",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "JAMA",
+        "User_Group": "RX",
+        "User_Name": "Jamal Mouawad",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "JANH",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    JAMIL NACHAR",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "JHWD",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    JIHAD AL WARD",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "JIBH",
+        "User_Group": "MAT",
+        "User_Name": "Jihane Bayeh",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "JIHA",
+        "User_Group": "INVI",
+        "User_Name": "Jihane Saleh",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "JIHM",
+        "User_Group": "MAT",
+        "User_Name": "Jinane Hamoui",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "JIMO",
+        "User_Group": "KT",
+        "User_Name": "Jihad Moh",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "JISA",
+        "User_Group": "DCTRS",
+        "User_Name": "Jinan Al Sayad",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "JIY",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    JIHAD YOUSSEF",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "JIYF",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    JIHAD YOUSSEF",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "JMAB",
+        "User_Group": "PH",
+        "User_Name": "Jamal Abboud",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "JMAK",
+        "User_Group": "DR",
+        "User_Name": "Jamil Akkari",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "JODR",
+        "User_Group": "PRE",
+        "User_Name": "Joumana Darwiche",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "JOE",
+        "User_Group": "ACC",
+        "User_Name": "Joe Yaacoub",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "JOFR",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    JOSEPH FRANGIEH",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "JOGH",
+        "User_Group": "INVI",
+        "User_Name": "Joice Ghanem",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "JOKD",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    JOSEPH RACHKIDI",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "JOSE",
+        "User_Group": "INVI",
+        "User_Name": "Josette El Tansi",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "JOSK",
+        "User_Group": "LD",
+        "User_Name": "Joseph Keirouz",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "JOSN",
+        "User_Group": "LD",
+        "User_Name": "Josephine Chaar",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "JOUM",
+        "User_Group": "INVO",
+        "User_Name": "Joumana Freifer",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "JOWD",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    JOSEPH AWADA",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "JOYC",
+        "User_Group": "HR",
+        "User_Name": "Joyce Freiji",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "js",
+        "User_Group": "ADM",
+        "User_Name": "JS",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "JULI",
+        "User_Group": "ACC",
+        "User_Name": "Juliette Berzghal",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "JULM",
+        "User_Group": "ACC",
+        "User_Name": "Juliette Manoukian",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "KABH",
+        "User_Group": "BOP",
+        "User_Name": "Kayed Bahloul",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "KAMA",
+        "User_Group": "INVO",
+        "User_Name": "Kamar Mostafa",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "KAML",
+        "User_Group": "LD",
+        "User_Name": "Kamle Ibrahim",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "KASI",
+        "User_Group": "LD",
+        "User_Name": "Kassia Taraby",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "kd",
+        "User_Group": "SE",
+        "User_Name": "khalil Dannaoui",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "KHAL",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    KHALED AL AIT",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "KHAM",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    KHALIL ARMACHE",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "KHHN",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    KHALED HUSSEIN",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "KHKA",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    KHALED KASSEM",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "KK",
+        "User_Group": "DCTRS",
+        "User_Name": "Khaled Kasser",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "kS",
+        "User_Group": "DCTRS",
+        "User_Name": "Dr. Katie Salih",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "KT",
+        "User_Group": "SER",
+        "User_Name": "KT",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "KT1",
+        "User_Group": "SER",
+        "User_Name": "KT",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "LABK",
+        "User_Group": "NEO",
+        "User_Name": "Layla BAKKOUR",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "LABR",
+        "User_Group": "CCU",
+        "User_Name": "Layal Badra",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "LADE",
+        "User_Group": "HOP3",
+        "User_Name": "Layla dergham",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "LAHA",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.   LAYAL HANNA",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "LAHJ",
+        "User_Group": "NEO",
+        "User_Name": "Layale El Hajj",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "LAHK",
+        "User_Group": "HOP3",
+        "User_Name": "Layal Hayek",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "LAMA",
+        "User_Group": "INVO",
+        "User_Name": "Lama Alameddine",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "LAMD",
+        "User_Group": "LD",
+        "User_Name": "Layal Ahmad",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "LANA",
+        "User_Group": "NEO",
+        "User_Name": "Layale Najib",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "LANS",
+        "User_Group": "STE",
+        "User_Name": "Lama Nasser",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "LAUR",
+        "User_Group": "ACC",
+        "User_Name": "Laure Nehme",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "LAYA",
+        "User_Group": "ACC",
+        "User_Name": "Layal Dawra",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "LEAY",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    LENA AYOUBI",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "LEJA",
+        "User_Group": "CAR",
+        "User_Name": "Leila Al Jamm",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "LELA",
+        "User_Group": "MI",
+        "User_Name": "Leyla Abs",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "LIND",
+        "User_Group": "INVI",
+        "User_Name": "Linda Sabbouh",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "LMNS",
+        "User_Group": "BOP",
+        "User_Name": "Lama Nasser",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "LOUS",
+        "User_Group": "INVO",
+        "User_Name": "Lousiana Ghoson",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "LUCY",
+        "User_Group": "INVO",
+        "User_Name": "Lucie Zeidan",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "MAAN",
+        "User_Group": "MAT",
+        "User_Name": "Marie Antoine Andary",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MAAW",
+        "User_Group": "PED",
+        "User_Name": "Manal Awik",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MAAY",
+        "User_Group": "HOP3",
+        "User_Name": "Mariame Al Ayoubi",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MABC",
+        "User_Group": "SER",
+        "User_Name": "Maternity Bloc",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "MABL",
+        "User_Group": "SER",
+        "User_Name": "Maternity Bloc",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MADH",
+        "User_Group": "PED",
+        "User_Name": "Malak Hamad",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MADN",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    MAHA DENNAOUI",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MAEL",
+        "User_Group": "HOP3",
+        "User_Name": "Marwa El Ejel",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MAFL",
+        "User_Group": "MAT",
+        "User_Name": "Mariame Falou",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MAFT",
+        "User_Group": "HOP3",
+        "User_Name": "Mariame Fattouh",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MAGD",
+        "User_Group": "ADS",
+        "User_Name": "Maria Gedoun",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MAHA",
+        "User_Group": "DR",
+        "User_Name": "Maha Naja",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MAHD",
+        "User_Group": "BOP",
+        "User_Name": "Maamoun Ahmad",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MAHR",
+        "User_Group": "LD",
+        "User_Name": "Maher Masri",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MAHW",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    MARCEL HAWY",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MAIS",
+        "User_Group": "SER",
+        "User_Name": "Mariam Issa",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MAJD",
+        "User_Group": "LD",
+        "User_Name": "Majeddine Mouzawak",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MAJE",
+        "User_Group": "DIA",
+        "User_Name": "Malak Jenzarli",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MAKA",
+        "User_Group": "CHI",
+        "User_Name": "Mayada Karim",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MAKB",
+        "User_Group": "BOP",
+        "User_Name": "Mariam Kabour",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MAKH",
+        "User_Group": "ST",
+        "User_Name": "Marwa Khamir",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MAKL",
+        "User_Group": "HDJ",
+        "User_Name": "Marwa Khawla",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MAKR",
+        "User_Group": "NEO",
+        "User_Name": "Marwa Koraali",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MAMG",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    MAZEN MOGHRABI",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MAMS",
+        "User_Group": "PRE",
+        "User_Name": "Manal Masri",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MANH",
+        "User_Group": "CAR",
+        "User_Name": "Manar Hadari",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MAOS",
+        "User_Group": "ICU",
+        "User_Name": "Manal Osman",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MARA",
+        "User_Group": "HR",
+        "User_Name": "Maria Daher",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MARC",
+        "User_Group": "LD",
+        "User_Name": "Marcel Achkar",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MARH",
+        "User_Group": "CLC",
+        "User_Name": "Marwa Harmouche",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MARN",
+        "User_Group": "LD",
+        "User_Name": "Marian Ecco",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "maro",
+        "User_Group": "ST",
+        "User_Name": "Marwa Khamir",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MASA",
+        "User_Group": "URG",
+        "User_Name": "Mariam Issa",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MASD",
+        "User_Group": "SER",
+        "User_Name": "Massouda Abed El Fattah",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "MASI",
+        "User_Group": "PED",
+        "User_Name": "Madeleine Said",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MASL",
+        "User_Group": "POU",
+        "User_Name": "Majida Salhani",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MASW",
+        "User_Group": "SER",
+        "User_Name": "Maternity South-West",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "Mat1",
+        "User_Group": "SER",
+        "User_Name": "Maternity1",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MATA",
+        "User_Group": "SER",
+        "User_Name": "Bloc Maternite",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MATB",
+        "User_Group": "SER",
+        "User_Name": "Maternity Bloc",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MATC",
+        "User_Group": "SER",
+        "User_Name": "Maternity Bloc2",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MATE",
+        "User_Group": "SER",
+        "User_Name": "Maternity",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MATL",
+        "User_Group": "DR",
+        "User_Name": "MATL",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MATR",
+        "User_Group": "CCU",
+        "User_Name": "Maha Tartousi",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MAZM",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    MAZEN MOKADDEM",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MBA",
+        "User_Group": "CAR",
+        "User_Name": "Maria Bou Aoun",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MC",
+        "User_Group": "DR",
+        "User_Name": "Dr  Maria Chalhoub",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MCKH",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    MICHEL KHOURY",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "med",
+        "User_Group": "SER",
+        "User_Name": "Medecin Intern",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "med2",
+        "User_Group": "SER",
+        "User_Name": "Medecin Chirugie2",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MED3",
+        "User_Group": "SER",
+        "User_Name": "Medcin chrugie3",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MEDC",
+        "User_Group": "SER",
+        "User_Name": "Medcine Chirugie",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "mh",
+        "User_Group": "DR",
+        "User_Name": "Dr. Mounir Hajjar",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MHAB",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.   MOHAMAD ABDALLAH",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MHAL",
+        "User_Group": "BOP",
+        "User_Name": "Mohamad Ali",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MHAS",
+        "User_Group": "BOP",
+        "User_Name": "Mohamad Assad",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MHBD",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    AHMAD MAHER BODON",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MHBH",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    MOHAMAD BATHICHE",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MHBK",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    MOHAMAD ABOU BAKR",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MHFZ",
+        "User_Group": "INVO",
+        "User_Name": "Mohamad Hafez",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MHHB",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    MOHAMAD HARB",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MHHM",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    MOHAMAD HAMZEH",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MHMD",
+        "User_Group": "ARC",
+        "User_Name": "Mohamad Hamzeh",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MHMK",
+        "User_Group": "DR",
+        "User_Name": "Dr  Mahmoud Mamlouk",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MHNA",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    NAJIB MOHAMAD",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MHTR",
+        "User_Group": "LN",
+        "User_Name": "Mohamad Tartousi",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MIAB",
+        "User_Group": "BOP",
+        "User_Name": "Michel Abboud",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MIAN",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    MICHEL ANTOUN",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MIBA",
+        "User_Group": "ICU",
+        "User_Name": "Mirna Abbas",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MICH",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    MICHEL JAMAL",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MICL",
+        "User_Group": "LD",
+        "User_Name": "Michel Kassab",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MIGE",
+        "User_Group": "PRE",
+        "User_Name": "Mira Gerges",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MILD",
+        "User_Group": "PRC",
+        "User_Name": "Milad Azar",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MIME",
+        "User_Group": "INVO",
+        "User_Name": "Mira Melki",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MIMH",
+        "User_Group": "ST",
+        "User_Name": "Michel Mahfoud",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MIMR",
+        "User_Group": "STE",
+        "User_Name": "Mirna Merhi",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MIRA",
+        "User_Group": "ARC",
+        "User_Name": "Mira Gergis",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MIRG",
+        "User_Group": "CS",
+        "User_Name": "Mira Gergis",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "MIRN",
+        "User_Group": "PH",
+        "User_Name": "Mirna Wehbe",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "MIRV",
+        "User_Group": "INVO",
+        "User_Name": "Mirvat Jamal",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "MIST",
+        "User_Group": "INVO",
+        "User_Name": "Mouhamad Misto",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MIZA",
+        "User_Group": "DIA",
+        "User_Name": "Mirvat Zarif",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MO09",
+        "User_Group": "DR",
+        "User_Name": "DR MAHMOUD OSSMAN",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MOAI",
+        "User_Group": "DIA",
+        "User_Name": "Mouna Ayoubi",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MOAL",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    MOUSTAPHA ALLOUCHE",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MOAW",
+        "User_Group": "DSI",
+        "User_Name": "Mohamad Awik",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MOAY",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    MONA AYOUBI",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MOCH",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    MOHAMAD CHAABAN",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MODR",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    MONA ADRA",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MOFR",
+        "User_Group": "DIA",
+        "User_Name": "Mona Farhat",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MOHA",
+        "User_Group": "BOP",
+        "User_Name": "Mona Harmouche",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MOHM",
+        "User_Group": "BOP",
+        "User_Name": "Mohsen Mahmoud",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MOHO",
+        "User_Group": "BOP",
+        "User_Name": "Mona Hossni",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MOHS",
+        "User_Group": "MAT",
+        "User_Name": "Mona Hosni",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MOKO",
+        "User_Group": "URG",
+        "User_Name": "Mona Korhani",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MOND",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    MONZER DENNAOUI",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MONH",
+        "User_Group": "LD",
+        "User_Name": "Dr Monzer Hamzeh",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MONJ",
+        "User_Group": "NEO",
+        "User_Name": "Mona Naja",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MONT",
+        "User_Group": "BOP",
+        "User_Name": "Mona Zaytoun",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "MONZ",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    MONZER BITAR",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MORB",
+        "User_Group": "URG",
+        "User_Name": "Mouhamad Rabah",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MOSM",
+        "User_Group": "DCTRS",
+        "User_Name": "DR  Mohamad Osman",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MOST",
+        "User_Group": "ICU",
+        "User_Name": "Mostapha El Abed",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MOTA",
+        "User_Group": "LD",
+        "User_Name": "Moura Tannous",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MOUC",
+        "User_Group": "HOP3",
+        "User_Name": "Mounira Al Choumi",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "MOUS",
+        "User_Group": "URG",
+        "User_Name": "Moustapha Mitlej",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "MRMS",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    MARWAN MALAS",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "NABL",
+        "User_Group": "PRC",
+        "User_Name": "Nabil Tizani",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "NACH",
+        "User_Group": "INVO",
+        "User_Name": "Nagham Chami",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "NADA",
+        "User_Group": "ACC",
+        "User_Name": "Nada Katrib",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "NADH",
+        "User_Group": "ICU",
+        "User_Name": "Nadia Chiti",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "NADI",
+        "User_Group": "INVI",
+        "User_Name": "Nadine Eid",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "NADK",
+        "User_Group": "ADS",
+        "User_Name": "Nadia Kabbara",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "NAHA",
+        "User_Group": "BOP",
+        "User_Name": "Nahawad AL ali",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "NAHT",
+        "User_Group": "SER",
+        "User_Name": "Nadia el Chitti",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "NAIB",
+        "User_Group": "CAR",
+        "User_Name": "Naiima Baroudi",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "NAJB",
+        "User_Group": "STC",
+        "User_Name": "Najib Karam",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "NAJK",
+        "User_Group": "PED",
+        "User_Name": "Najah El Kabou",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "NAKB",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    NABIL AHMAD KABBARA",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "NAKH",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    NASSIM KHORIATY",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "NAKS",
+        "User_Group": "INVO",
+        "User_Name": "Nadia Kassir",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "NAKT",
+        "User_Group": "URG",
+        "User_Name": "Nahia Kattoub",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "NAMH",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    NABIL ISSAM MOHSSEN",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "NARC",
+        "User_Group": "QA",
+        "User_Name": "Nancy Riachy",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "NARH",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    RAHAL NASRALLAH",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "NASB",
+        "User_Group": "PED",
+        "User_Name": "Nada Sabeh",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "NASE",
+        "User_Group": "CHI",
+        "User_Name": "Nazira Semaan",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "NASM",
+        "User_Group": "PH",
+        "User_Name": "Nassim Hajj Hussein",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "NBC",
+        "User_Group": "NEO",
+        "User_Name": "Nurse Bassem Chdid",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "nbkb",
+        "User_Group": "DR",
+        "User_Name": "Nabil kabbara",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "NCHA",
+        "User_Group": "HOP3",
+        "User_Name": "Nassim Chami",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "NEO",
+        "User_Group": "SER",
+        "User_Name": "Neonat",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ner",
+        "User_Group": "ADM",
+        "User_Name": "Nurse Elie Rahal",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "NERM",
+        "User_Group": "MAT",
+        "User_Name": "Nermine Kassem",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "NICL",
+        "User_Group": "ST",
+        "User_Name": "Nicolas Abdo",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "NIMH",
+        "User_Group": "INVO",
+        "User_Name": "Nicole Mchaham",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "NINB",
+        "User_Group": "DIA",
+        "User_Name": "Nisrine Naboulsi",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "NISR",
+        "User_Group": "PH",
+        "User_Name": "Nisrine Fayad",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "noda",
+        "User_Group": "BOP",
+        "User_Name": "Noura Dawra",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "NOFJ",
+        "User_Group": "CHI",
+        "User_Name": "Nouha Fajloun",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "NOGH",
+        "User_Group": "HOP3",
+        "User_Name": "Nourhan Ghandour",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "NOUH",
+        "User_Group": "HDJ",
+        "User_Name": "Nour El Houda Hassoun",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "NSKN",
+        "User_Group": "BOP",
+        "User_Name": "Nissrine Kanaan",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "NUTR",
+        "User_Group": "SER",
+        "User_Name": "Nutri Train",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ODET",
+        "User_Group": "INVO",
+        "User_Name": "Odet Mouawad",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "om",
+        "User_Group": "DR",
+        "User_Name": "DR Omar Matar",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "omhi",
+        "User_Group": "PH",
+        "User_Name": "Omar Hijazi",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "OMLW",
+        "User_Group": "BOP",
+        "User_Name": "Omar Lawzi",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "OMMA",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    OMAR MAWLAWI",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ONED",
+        "User_Group": "SER",
+        "User_Name": "Oneday",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "OSOM",
+        "User_Group": "URG",
+        "User_Name": "Osama Omran",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "OUBA",
+        "User_Group": "DSI",
+        "User_Name": "Oula Bayeh",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "OUSM",
+        "User_Group": "LD",
+        "User_Name": "Oussama Bakir",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "PA",
+        "User_Group": "DR",
+        "User_Name": "Perla Asaad",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "PADB",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    PAUL G.DIB",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "PAJW",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    PAULINE ABOU JAWDE",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "PAM",
+        "User_Group": "PH",
+        "User_Name": "Pamela Al-Kaddissi",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "PASC",
+        "User_Group": "MI",
+        "User_Name": "Pascale Sanyour",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "PAT",
+        "User_Group": "INVO",
+        "User_Name": "Patricia Yammine",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "PED",
+        "User_Group": "SER",
+        "User_Name": "Pediatrics",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "Ped1",
+        "User_Group": "SER",
+        "User_Name": "Pediatrics1",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "PED2",
+        "User_Group": "SER",
+        "User_Name": "Pediatrie 2",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "PHRW",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    PHILIPPE RWADI",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "pm",
+        "User_Group": "DR",
+        "User_Name": "Dr Patricia Maalouf",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "POUP",
+        "User_Group": "SER",
+        "User_Name": "Pouponiere",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "PREO",
+        "User_Group": "SER",
+        "User_Name": "Preop",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "PSFT",
+        "User_Group": "SER",
+        "User_Name": "Patient Safety",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "QLTY",
+        "User_Group": "QA",
+        "User_Name": "Quality",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "RAAB",
+        "User_Group": "DSI",
+        "User_Name": "Raafat Abou Naag",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "RAAK",
+        "User_Group": "HOP3",
+        "User_Name": "Rahil Akkouche",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "RAAL",
+        "User_Group": "ICU",
+        "User_Name": "Rania Al Ali",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "RABD",
+        "User_Group": "BOP",
+        "User_Name": "Raghdan Abdallah",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "RACH",
+        "User_Group": "DSI",
+        "User_Name": "Rasha Chaker",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "RADA",
+        "User_Group": "POU",
+        "User_Name": "Rana Bou Daher",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "RADI",
+        "User_Group": "URG",
+        "User_Name": "Ramez Dib",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "RAED",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    RAED OSMAN",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "RAFA",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    RAWAA FASSIH",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "RAHA",
+        "User_Group": "PED",
+        "User_Name": "Rajaa Hassoun",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "RAHR",
+        "User_Group": "ICU",
+        "User_Name": "Rabab Harmouche",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "RAIS",
+        "User_Group": "BOP",
+        "User_Name": "Rayan Islambouli",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "RAMO",
+        "User_Group": "ACC",
+        "User_Name": "Ramona Gedoun",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "RANC",
+        "User_Group": "INVI",
+        "User_Name": "Rania Chamssine",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "RAND",
+        "User_Group": "COl",
+        "User_Name": "Randa el Zakhem",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "RANH",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    RAED NEHME",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "RANZ",
+        "User_Group": "INVO",
+        "User_Name": "Rania el Zoghbi",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "RARK",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    RAMI RACHKIDI",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "RAZN",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    RACHAD ZAYNI",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "RECE",
+        "User_Group": "REI",
+        "User_Name": "Reception",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "REIN",
+        "User_Group": "INVO",
+        "User_Name": "Reina Kalajieh",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "RIBM",
+        "User_Group": "SER",
+        "User_Name": "Rima Ibrahim",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "RICA",
+        "User_Group": "NEO",
+        "User_Name": "Rita Chamma",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "RICH",
+        "User_Group": "LD",
+        "User_Name": "Richard Mourad",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "RIHA",
+        "User_Group": "HOP3",
+        "User_Name": "Riham Hassoun",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "RIMA",
+        "User_Group": "SER",
+        "User_Name": "Rima Tabbal",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "RIMH",
+        "User_Group": "HOP3",
+        "User_Name": "Rim Mheiche",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "RiMN",
+        "User_Group": "INVO",
+        "User_Name": "Rima Nahra",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "RIMS",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    RIDA MASRI",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "RIST",
+        "User_Group": "BOP",
+        "User_Name": "Rayan Istanbouli",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "RITA",
+        "User_Group": "INVO",
+        "User_Name": "Rita Chaar",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "RIZA",
+        "User_Group": "DSI",
+        "User_Name": "Rita Zakhem",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "RM",
+        "User_Group": "ADM",
+        "User_Name": "rita",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "RMRS",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    REEM ABU RUSTUM",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "RNSF",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.  RANA YOUSSSEF",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ROAB",
+        "User_Group": "ICU",
+        "User_Name": "Rouba Ayoubi",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ROAW",
+        "User_Group": "URG",
+        "User_Name": "rouba Awik",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ROAY",
+        "User_Group": "URG",
+        "User_Name": "Roukaya Ayoubi",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ROCH",
+        "User_Group": "INVO",
+        "User_Name": "Rokayna Chehada",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "RODB",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    ROGER DIB",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ROIS",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    ROGER ISSA",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "RONZ",
+        "User_Group": "LD",
+        "User_Name": "Ronza Alam",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ROSF",
+        "User_Group": "DIA",
+        "User_Name": "Rony Safatly",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ROTN",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    ROLAND TANNOUS",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "RS",
+        "User_Group": "DR",
+        "User_Name": "Ramy Sassin",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "rt",
+        "User_Group": "DR",
+        "User_Name": "Rami Toufic",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "RUAA",
+        "User_Group": "DSI",
+        "User_Name": "Rudy Arayji",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "rw",
+        "User_Group": "DR",
+        "User_Name": "Dr Rawad S Wansa",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "RWDA",
+        "User_Group": "BOP",
+        "User_Name": "Rowayda Hayek",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SA",
+        "User_Group": "ADM",
+        "User_Name": "System Administrator",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SAAR",
+        "User_Group": "LN",
+        "User_Name": "Safinaz Arnaout",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SABA",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    SAHAR SABA",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SABI",
+        "User_Group": "INVO",
+        "User_Name": "Sabiha Issa",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SABT",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    SAMAR AL BITAR",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SACH",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    SAMAR CHAKER SAMAD",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SADA",
+        "User_Group": "KT",
+        "User_Name": "Sara' Diab",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SADB",
+        "User_Group": "ACC",
+        "User_Name": "Sally Daaboul",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SADG",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    SAMER DOMLOGE",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SAHA",
+        "User_Group": "INVO",
+        "User_Name": "Saly Hawat",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SAKA",
+        "User_Group": "PED",
+        "User_Name": "Sara Kayelou",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SAKF",
+        "User_Group": "MAT",
+        "User_Name": "Sarah Skaff",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SALA",
+        "User_Group": "PED",
+        "User_Name": "Sawssan Lagha",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SALM",
+        "User_Group": "BOP",
+        "User_Name": "Salam Sayour",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SALY",
+        "User_Group": "INVI",
+        "User_Name": "Sally Sadek",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SAME",
+        "User_Group": "ADS",
+        "User_Name": "Samer Sobba",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "SAMH",
+        "User_Group": "BOP",
+        "User_Name": "Samar Mhanna",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "SAMR",
+        "User_Group": "INVI",
+        "User_Name": "Samar Mouhamad",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SAMS",
+        "User_Group": "INVO",
+        "User_Name": "Sara Mansour",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "SAR",
+        "User_Group": "DCTRS",
+        "User_Name": "Dr Sara Youssef",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SARA",
+        "User_Group": "INVO",
+        "User_Name": "Sara Sabagh",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SARI",
+        "User_Group": "QA",
+        "User_Name": "Sari Mazloum",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SARM",
+        "User_Group": "BOP",
+        "User_Name": "Saraa Ramayhi",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SARS",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    SAMIR ABU RUSTUM",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SARU",
+        "User_Group": "PED",
+        "User_Name": "Sara Rustum",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SARY",
+        "User_Group": "DR",
+        "User_Name": "Dr Sara Youssef",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "SASA",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    SALAM SAMAD",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SASE",
+        "User_Group": "PED",
+        "User_Name": "Sahar Seddik",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SASK",
+        "User_Group": "DIA",
+        "User_Name": "Salam Cherkawi",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SAYA",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.   SAMER YAACOUB",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SAYD",
+        "User_Group": "INVI",
+        "User_Name": "Saydeh Kheir",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SAZW",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    SAMAR ZAWDE",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SBOP",
+        "User_Group": "SER",
+        "User_Name": "Store BOP",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SBOU",
+        "User_Group": "LD",
+        "User_Name": "Salma Boustani",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SHNO",
+        "User_Group": "CAR",
+        "User_Name": "Shahinaz Nouaman",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SHZD",
+        "User_Group": "BOP",
+        "User_Name": "Shadi Zeid",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SIHA",
+        "User_Group": "CAR",
+        "User_Name": "Siba Hammoud",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SISR",
+        "User_Group": "INVO",
+        "User_Name": "Siham serhal",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SITR",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    SIBA EL ETER",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SKDJ",
+        "User_Group": "PH",
+        "User_Name": "Sarkis Derjani",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SLHA",
+        "User_Group": "BOP",
+        "User_Name": "Sleiman El Hassan",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SLMD",
+        "User_Group": "BOP",
+        "User_Name": "Sleiman Dib",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "SLRA",
+        "User_Group": "ICU",
+        "User_Name": "Sleiman A. Rahim",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SLTR",
+        "User_Group": "CCU",
+        "User_Name": "Sleiman El-Eter",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SMCH",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    SIMON CHALHOUB",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "sna",
+        "User_Group": "ADM",
+        "User_Name": "SNA",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SOBH",
+        "User_Group": "SER",
+        "User_Name": "Souad Bou Habib",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SOHR",
+        "User_Group": "ICU",
+        "User_Name": "Souheir Harmouch",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SOKA",
+        "User_Group": "MAT",
+        "User_Name": "Souha Kanawaty",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SOLA",
+        "User_Group": "ACC",
+        "User_Name": "Solange Askanian",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SOMA",
+        "User_Group": "ADS",
+        "User_Name": "Somaya Fakher Eddine",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SOMU",
+        "User_Group": "NEO",
+        "User_Name": "Souhad Mouhajar",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SONI",
+        "User_Group": "INVI",
+        "User_Name": "Sonia Lebos",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SOU",
+        "User_Group": "BOP",
+        "User_Name": "Souraya Zein",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SOUH",
+        "User_Group": "BOP",
+        "User_Name": "Souad Hosni",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SS",
+        "User_Group": "SE",
+        "User_Name": "Sabin Saloum",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SS00",
+        "User_Group": "DCTRS",
+        "User_Name": "Dr Simon Semaan",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SS1",
+        "User_Group": "SE",
+        "User_Name": "SS1",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "sss",
+        "User_Group": "ACC",
+        "User_Name": "sss",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ST",
+        "User_Group": "SE",
+        "User_Name": "Sabin Tabet",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "STAB",
+        "User_Group": "IT",
+        "User_Name": "Mohamad Tabikh",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "STAG",
+        "User_Group": "ACC",
+        "User_Name": "Stagiere",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "STEK",
+        "User_Group": "DIA",
+        "User_Name": "Stephanie El Khoury",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "STG",
+        "User_Group": "ACC",
+        "User_Name": "Stagiere1",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SU",
+        "User_Group": "ADM",
+        "User_Name": "Super User",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SUJA",
+        "User_Group": "DSI",
+        "User_Name": "Suzy Jabbour",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SUMR",
+        "User_Group": "LD",
+        "User_Name": "Suzane Mrad",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SUSL",
+        "User_Group": "CAR",
+        "User_Name": "Suzanne Salma",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SUZI",
+        "User_Group": "INVO",
+        "User_Name": "Suzane Yaacoub",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SWAJ",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    SAWSSAN AJAJE",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SYBR",
+        "User_Group": "URG",
+        "User_Name": "Sayed Ibrahim",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "SZNA",
+        "User_Group": "ICU",
+        "User_Name": "Suzanne Nafeh",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "t",
+        "User_Group": "ACC",
+        "User_Name": "t",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "TA",
+        "User_Group": "DR",
+        "User_Name": "Dr Tarik Alaily",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "TAJB",
+        "User_Group": "URG",
+        "User_Name": "Tarek Jabakhanji",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "TANF",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    TANIA NASSIF",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "TAOS",
+        "User_Group": "BOP",
+        "User_Name": "Taha Osmam",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "TEDY",
+        "User_Group": "ST",
+        "User_Name": "Tedy Maroun",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "TIMA",
+        "User_Group": "ARC",
+        "User_Name": "Fatima Kabbout",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "TM",
+        "User_Group": "ACC",
+        "User_Name": "Tania Murr",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "TNLS",
+        "User_Group": "BOP",
+        "User_Name": "Tania Elias",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "TOHW",
+        "User_Group": "INVO",
+        "User_Name": "Tony Hawilo",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "TONB",
+        "User_Group": "ST",
+        "User_Name": "Toni Bou Rizk",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "tt",
+        "User_Group": "DR",
+        "User_Name": "Dr Tony Tanous",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ty",
+        "User_Group": "DR",
+        "User_Name": "Dr Toufic Youssef",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "USR1",
+        "User_Group": "TRN",
+        "User_Name": "USER 1",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "USR2",
+        "User_Group": "TRN",
+        "User_Name": "USER2",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "USR3",
+        "User_Group": "TRN",
+        "User_Name": "USER 3",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "USR4",
+        "User_Group": "TRN",
+        "User_Name": "USER 4",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "USR5",
+        "User_Group": "TRN",
+        "User_Name": "USER 5",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "VEBT",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    VERONIQUE BATACHE",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "VENU",
+        "User_Group": "ARC",
+        "User_Name": "Venus Dib",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "w1",
+        "User_Group": "ACC",
+        "User_Name": "Wadih Maksoud",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "WADH",
+        "User_Group": "MAT",
+        "User_Name": "Waad Dhaybi",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "WAGR",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    WASSIM GREIGE",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "wakh",
+        "User_Group": "FLR",
+        "User_Name": "Wafa Khoury",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "WALD",
+        "User_Group": "LD",
+        "User_Name": "Walid Abou Richeh",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "WAMK",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    WALID MOKADDEM",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "WARY",
+        "User_Group": "HOP3",
+        "User_Name": "Wafaa Khoury",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "WASW",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    WALID SAWALHI",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "WAWT",
+        "User_Group": "LN",
+        "User_Name": "Walid Wattar",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "WIRD",
+        "User_Group": "BOP",
+        "User_Name": "Wiaam Radwan",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "wm",
+        "User_Group": "ACC",
+        "User_Name": "Wadih Maksoud",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "XENA",
+        "User_Group": "QA",
+        "User_Name": "Zeina Tabar",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "YAAH",
+        "User_Group": "URG",
+        "User_Name": "Yasser Ahmad",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "YEHY",
+        "User_Group": "ST",
+        "User_Name": "Yehya Iwaza",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "YEMN",
+        "User_Group": "MI",
+        "User_Name": "Yemen Hammoud",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "YOHL",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    YOUSSRA HAWLY",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "YOHW",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    YOUSEF HAWLY",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "YSS",
+        "User_Group": "BOP",
+        "User_Name": "Yossef Yassine",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "YT",
+        "User_Group": "DR",
+        "User_Name": "Yasmine Toubia",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "za",
+        "User_Group": "ACC",
+        "User_Name": "ziad alam",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ZACH",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    ZAHIA CHAHINE",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ZAHS",
+        "User_Group": "NEO",
+        "User_Name": "Zahra El Oula El Hassan",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ZEID",
+        "User_Group": "INVI",
+        "User_Name": "Zeina Debs",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ZEIK",
+        "User_Group": "INVI",
+        "User_Name": "Zeina Khoudeir",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ZEIN",
+        "User_Group": "COl",
+        "User_Name": "Zeina Soufi",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "zh",
+        "User_Group": "ACC",
+        "User_Name": "Zahraa Hasan",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ZIMS",
+        "User_Group": "DCTRS",
+        "User_Name": "DR.    ZIAD MASSOUH",
+        "User_Status": "A"
+    },
+    {
+        "user_code": "ZOUH",
+        "User_Group": "INVO",
+        "User_Name": "Zouhour Ibrahim",
+        "User_Status": "I"
+    },
+    {
+        "user_code": "ZS",
+        "User_Group": "DCTRS",
+        "User_Name": "DR Zaher Sabbagh",
+        "User_Status": "A"
+    }
+]

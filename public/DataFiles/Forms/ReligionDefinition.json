@@ -1,0 +1,200 @@
+[
+    {
+        "Rel_RecId": 0,
+        "Rel_Code": "hh",
+        "Rel_Section": "F",
+        "Rel_Desc": "TEST",
+        "Rel_Status": "A",
+        "Rel_Ustmp": "RA",
+        "Rel_Dstmp": "2022-04-05 08:05:42.977",
+        "Rel_CrUstmp": "RA",
+        "Rel_CrDstmp": "2022-04-05 08:05:43.937"
+    },
+    {
+        "Rel_RecId": 1,
+        "Rel_Code": "NA",
+        "Rel_Section": "h",
+        "Rel_Desc": "hhhhh",
+        "Rel_Status": "A",
+        "Rel_Ustmp": "u",
+        "Rel_Dstmp": "2022-04-04 16:43:15.053",
+        "Rel_CrUstmp": "u",
+        "Rel_CrDstmp": "2022-04-04 16:43:15.403"
+    },
+    {
+        "Rel_RecId": 2,
+        "Rel_Code": "01",
+        "Rel_Section": "C",
+        "Rel_Desc": "MARONITE",
+        "Rel_Status": "A",
+        "Rel_Ustmp": "sa",
+        "Rel_Dstmp": "2009-01-12 10:09:42.793",
+        "Rel_CrUstmp": "sa",
+        "Rel_CrDstmp": "2009-01-12 10:09:42.793"
+    },
+    {
+        "Rel_RecId": 3,
+        "Rel_Code": "02",
+        "Rel_Section": "C",
+        "Rel_Desc": "GREC CATHOLIQUE",
+        "Rel_Status": "A",
+        "Rel_Ustmp": "SA",
+        "Rel_Dstmp": "2009-06-26 13:12:46.160",
+        "Rel_CrUstmp": "SA",
+        "Rel_CrDstmp": "2009-06-26 13:12:46.160"
+    },
+    {
+        "Rel_RecId": 4,
+        "Rel_Code": "03",
+        "Rel_Section": "C",
+        "Rel_Desc": "ARMENIAN CATHOLIQUE",
+        "Rel_Status": "A",
+        "Rel_Ustmp": "sa",
+        "Rel_Dstmp": "2009-06-23 14:32:38.987",
+        "Rel_CrUstmp": "sa",
+        "Rel_CrDstmp": "2009-06-23 14:32:38.987"
+    },
+    {
+        "Rel_RecId": 5,
+        "Rel_Code": "04",
+        "Rel_Section": "C",
+        "Rel_Desc": "GREC ORTHODOXE",
+        "Rel_Status": "A",
+        "Rel_Ustmp": "sa",
+        "Rel_Dstmp": "2009-06-23 14:30:20.753",
+        "Rel_CrUstmp": "sa",
+        "Rel_CrDstmp": "2009-06-23 14:30:20.753"
+    },
+    {
+        "Rel_RecId": 6,
+        "Rel_Code": "05",
+        "Rel_Section": "C",
+        "Rel_Desc": "ARMENIAN ORTHODOXE",
+        "Rel_Status": "A",
+        "Rel_Ustmp": "sa",
+        "Rel_Dstmp": "2009-06-23 14:32:54.023",
+        "Rel_CrUstmp": "sa",
+        "Rel_CrDstmp": "2009-06-23 14:32:54.023"
+    },
+    {
+        "Rel_RecId": 7,
+        "Rel_Code": "06",
+        "Rel_Section": "C",
+        "Rel_Desc": "LATINE",
+        "Rel_Status": "A",
+        "Rel_Ustmp": "sa",
+        "Rel_Dstmp": "2009-01-12 10:12:11.157",
+        "Rel_CrUstmp": "sa",
+        "Rel_CrDstmp": "2009-01-12 10:12:11.157"
+    },
+    {
+        "Rel_RecId": 8,
+        "Rel_Code": "07",
+        "Rel_Section": "C",
+        "Rel_Desc": "PROTESTANTE",
+        "Rel_Status": "A",
+        "Rel_Ustmp": "sa",
+        "Rel_Dstmp": "2009-01-12 10:12:25.690",
+        "Rel_CrUstmp": "sa",
+        "Rel_CrDstmp": "2009-01-12 10:12:25.690"
+    },
+    {
+        "Rel_RecId": 10,
+        "Rel_Code": "08",
+        "Rel_Section": "M",
+        "Rel_Desc": "MUSULMAN CHIITE",
+        "Rel_Status": "A",
+        "Rel_Ustmp": "sa",
+        "Rel_Dstmp": "2009-06-23 14:32:01.687",
+        "Rel_CrUstmp": "sa",
+        "Rel_CrDstmp": "2009-06-23 14:32:01.687"
+    },
+    {
+        "Rel_RecId": 11,
+        "Rel_Code": "09",
+        "Rel_Section": "M",
+        "Rel_Desc": "MUSULMAN ALAWIT",
+        "Rel_Status": "A",
+        "Rel_Ustmp": "sa",
+        "Rel_Dstmp": "2009-06-23 14:32:13.790",
+        "Rel_CrUstmp": "sa",
+        "Rel_CrDstmp": "2009-06-23 14:32:13.790"
+    },
+    {
+        "Rel_RecId": 12,
+        "Rel_Code": "10",
+        "Rel_Section": "M",
+        "Rel_Desc": "DRUZE",
+        "Rel_Status": "A",
+        "Rel_Ustmp": "sa",
+        "Rel_Dstmp": "2009-01-12 10:22:38.310",
+        "Rel_CrUstmp": "sa",
+        "Rel_CrDstmp": "2009-01-12 10:22:38.310"
+    },
+    {
+        "Rel_RecId": 13,
+        "Rel_Code": "11",
+        "Rel_Section": "M",
+        "Rel_Desc": "MUSULMAN SUNNITE",
+        "Rel_Status": "A",
+        "Rel_Ustmp": "sa",
+        "Rel_Dstmp": "2009-06-23 14:32:26.757",
+        "Rel_CrUstmp": "sa",
+        "Rel_CrDstmp": "2009-06-23 14:32:26.757"
+    },
+    {
+        "Rel_RecId": 14,
+        "Rel_Code": "12",
+        "Rel_Section": "C",
+        "Rel_Desc": "SERIEN CATHOLIQUE",
+        "Rel_Status": "A",
+        "Rel_Ustmp": "sa",
+        "Rel_Dstmp": "2009-01-12 10:23:46.280",
+        "Rel_CrUstmp": "sa",
+        "Rel_CrDstmp": "2009-01-12 10:23:46.280"
+    },
+    {
+        "Rel_RecId": 15,
+        "Rel_Code": "13",
+        "Rel_Section": "C",
+        "Rel_Desc": "SERIEN ORTHODOXE",
+        "Rel_Status": "A",
+        "Rel_Ustmp": "sa",
+        "Rel_Dstmp": "2009-01-12 10:24:01.187",
+        "Rel_CrUstmp": "sa",
+        "Rel_CrDstmp": "2009-01-12 10:24:01.187"
+    },
+    {
+        "Rel_RecId": 16,
+        "Rel_Code": "14",
+        "Rel_Section": "X",
+        "Rel_Desc": "MASSOUNIT",
+        "Rel_Status": "A",
+        "Rel_Ustmp": "sa",
+        "Rel_Dstmp": "2009-01-12 10:29:00.940",
+        "Rel_CrUstmp": "sa",
+        "Rel_CrDstmp": "2009-01-12 10:29:00.940"
+    },
+    {
+        "Rel_RecId": 17,
+        "Rel_Code": "15",
+        "Rel_Section": "C",
+        "Rel_Desc": "CHRISTIAN",
+        "Rel_Status": "A",
+        "Rel_Ustmp": "sa",
+        "Rel_Dstmp": "2009-03-19 12:57:30.037",
+        "Rel_CrUstmp": "sa",
+        "Rel_CrDstmp": "2009-03-19 12:57:30.037"
+    },
+    {
+        "Rel_RecId": 18,
+        "Rel_Code": "16",
+        "Rel_Section": "M",
+        "Rel_Desc": "MUSLIM",
+        "Rel_Status": "A",
+        "Rel_Ustmp": "SA",
+        "Rel_Dstmp": "2009-06-26 13:15:48.317",
+        "Rel_CrUstmp": "SA",
+        "Rel_CrDstmp": "2009-06-26 13:15:48.317"
+    }
+]

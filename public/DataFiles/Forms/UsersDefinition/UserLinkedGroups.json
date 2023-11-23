@@ -1,0 +1,277 @@
+[
+    {
+        "Chk": true,
+        "Grp_Code": "ACC",
+        "Grp_Name": "Accounting & Financial Dept."
+    },
+    {
+        "Chk": true,
+        "Grp_Code": "ADM",
+        "Grp_Name": "Administration Group"
+    },
+    {
+        "Chk": true,
+        "Grp_Code": "ADS",
+        "Grp_Name": "Admission Group"
+    },
+    {
+        "Chk": true,
+        "Grp_Code": "ARC",
+        "Grp_Name": "Archiving Group"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "BIL",
+        "Grp_Name": "Billing Group"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "BOP",
+        "Grp_Name": "Bloc Operatoire"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "CAR",
+        "Grp_Name": "Cardio"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "CCU",
+        "Grp_Name": "CCU"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "CHI",
+        "Grp_Name": "Chimio"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "CIR",
+        "Grp_Name": "Circuit"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "CLC",
+        "Grp_Name": "Clinic Cardio"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "COl",
+        "Grp_Name": "Collection Group"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "CS",
+        "Grp_Name": "Cardiac Surgery Group"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "DAS",
+        "Grp_Name": "Dir. des Aff.Scientifiques"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "DCTRS",
+        "Grp_Name": "Doctors Group"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "DE",
+        "Grp_Name": "Economic Department"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "DG",
+        "Grp_Name": "Direction Générale"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "DIA",
+        "Grp_Name": "Dialyse"
+    },
+    {
+        "Chk": true,
+        "Grp_Code": "DR",
+        "Grp_Name": "Doctors"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "DSI",
+        "Grp_Name": "DSI"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "FLR",
+        "Grp_Name": "Floors"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "HDJ",
+        "Grp_Name": "Hopital De Jour"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "HOP3",
+        "Grp_Name": "HOP3"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "HR",
+        "Grp_Name": "Human Ressources Department"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "ICU",
+        "Grp_Name": "ICU"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "INVI",
+        "Grp_Name": "Invoicing IN"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "INVO",
+        "Grp_Name": "Invoicing Out"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "IT",
+        "Grp_Name": "Information And Technology"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "KT",
+        "Grp_Name": "KT"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "LD",
+        "Grp_Name": "Laboratory Department"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "LN",
+        "Grp_Name": "laundry"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "MAT",
+        "Grp_Name": "Maternite"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "MCO",
+        "Grp_Name": "Medical Comitee Group"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "MI",
+        "Grp_Name": "Medical Imaging"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "MR",
+        "Grp_Name": "Medical Record Group"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "NEO",
+        "Grp_Name": "Neonat"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "NEU",
+        "Grp_Name": "Neurology Group"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "OR",
+        "Grp_Name": "Operating Room Group"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "PATH",
+        "Grp_Name": "Pathology Group"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "PED",
+        "Grp_Name": "Pediatrie"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "PH",
+        "Grp_Name": "Pharmacy Group"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "POU",
+        "Grp_Name": "Pouponiere"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "PRC",
+        "Grp_Name": "Procurment Group"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "PRE",
+        "Grp_Name": "Pre Op"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "QA",
+        "Grp_Name": "Qualité Administrative Group"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "REI",
+        "Grp_Name": "Reception & Information Group"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "RI",
+        "Grp_Name": "Residents and Interns"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "RX",
+        "Grp_Name": "Radiotherapy Group"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "SE",
+        "Grp_Name": "Secretaries"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "SER",
+        "Grp_Name": "Services"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "ST",
+        "Grp_Name": "Stock Group"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "STC",
+        "Grp_Name": "Stock Control Group"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "STE",
+        "Grp_Name": "Sterilisation"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "TRN",
+        "Grp_Name": "TRAINING USERS"
+    },
+    {
+        "Chk": false,
+        "Grp_Code": "URG",
+        "Grp_Name": "Urgences"
+    }
+]

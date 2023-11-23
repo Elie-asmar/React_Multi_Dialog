@@ -1,0 +1,177 @@
+[
+    {
+        "Checked": false,
+        "Module": "Accounting",
+        "ModCode": "ACC"
+    },
+    {
+        "Checked": false,
+        "Module": "Admission",
+        "ModCode": "ADM"
+    },
+    {
+        "Checked": false,
+        "Module": "Cashiers",
+        "ModCode": "CASH"
+    },
+    {
+        "Checked": false,
+        "Module": "Collection",
+        "ModCode": "COLL"
+    },
+    {
+        "Checked": false,
+        "Module": "Doctors",
+        "ModCode": "DOCS"
+    },
+    {
+        "Checked": false,
+        "Module": "Export Data",
+        "ModCode": "EXPD"
+    },
+    {
+        "Checked": false,
+        "Module": "Externals",
+        "ModCode": "EXTR"
+    },
+    {
+        "Checked": false,
+        "Module": "Floor Request",
+        "ModCode": "FLR"
+    },
+    {
+        "Checked": false,
+        "Module": "General Exam",
+        "ModCode": "GEXM"
+    },
+    {
+        "Checked": false,
+        "Module": "Invoicing",
+        "ModCode": "INV"
+    },
+    {
+        "Checked": false,
+        "Module": "Laboratory",
+        "ModCode": "LABO"
+    },
+    {
+        "Checked": false,
+        "Module": "Laboratory Results",
+        "ModCode": "RESL"
+    },
+    {
+        "Checked": true,
+        "Module": "Main",
+        "ModCode": "MAIN"
+    },
+    {
+        "Checked": false,
+        "Module": "Medical Committee",
+        "ModCode": "MCOM"
+    },
+    {
+        "Checked": false,
+        "Module": "Medical Record",
+        "ModCode": "MDR"
+    },
+    {
+        "Checked": false,
+        "Module": "Operations",
+        "ModCode": "BLC"
+    },
+    {
+        "Checked": false,
+        "Module": "Stock",
+        "ModCode": "PHAR"
+    },
+    {
+        "Checked": false,
+        "Module": "Radiology",
+        "ModCode": "RADIO"
+    },
+    {
+        "Checked": false,
+        "Module": "Radiology Results",
+        "ModCode": "RARES"
+    },
+    {
+        "Checked": false,
+        "Module": "Residence",
+        "ModCode": "RSD"
+    },
+    {
+        "Checked": false,
+        "Module": "Statistics",
+        "ModCode": "STAT"
+    },
+    {
+        "Checked": false,
+        "Module": "GlobeMed",
+        "ModCode": "MED"
+    },
+    {
+        "Checked": false,
+        "Module": "Cooperative",
+        "ModCode": "COP"
+    },
+    {
+        "Checked": false,
+        "Module": "N.S.S.F",
+        "ModCode": "NFS"
+    },
+    {
+        "Checked": false,
+        "Module": "F.S.I",
+        "ModCode": "FSI"
+    },
+    {
+        "Checked": false,
+        "Module": "Army",
+        "ModCode": "ARM"
+    },
+    {
+        "Checked": false,
+        "Module": "M.O.H",
+        "ModCode": "MOH"
+    },
+    {
+        "Checked": false,
+        "Module": "Best Assistance",
+        "ModCode": "BNK"
+    },
+    {
+        "Checked": false,
+        "Module": "General Security",
+        "ModCode": "GS"
+    },
+    {
+        "Checked": false,
+        "Module": "Municipality",
+        "ModCode": "MUN"
+    },
+    {
+        "Checked": false,
+        "Module": "Diet",
+        "ModCode": "DIET"
+    },
+    {
+        "Checked": false,
+        "Module": "Operating Room",
+        "ModCode": "OPRR"
+    },
+    {
+        "Checked": false,
+        "Module": "TCL",
+        "ModCode": "TCL"
+    },
+    {
+        "Checked": false,
+        "Module": "Next Care",
+        "ModCode": "NC"
+    },
+    {
+        "Checked": false,
+        "Module": "Patient Electronic Archiving",
+        "ModCode": "PEA"
+    }
+]
