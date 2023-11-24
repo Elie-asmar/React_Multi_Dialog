@@ -19,8 +19,8 @@ import useDialog from '../CustomHooks/useDialog';
 
 
 export function Login() {
-    const { setDialogs } = useContext(DialogContext)
-    const [showDialog] = useDialog()
+
+    const { showDialog } = useDialog()
 
 
 
@@ -32,26 +32,8 @@ export function Login() {
                 <div className="row">
                     <div className="col-12">
                         <button type="button" className="btn btn-custom btn-block px-2 pointer" onClick={() => {
-                            // setDialogs(prv => {
-                            //     return [
-                            //         ...prv, {
-                            //             Body: DialogBodyForm,
-                            //             BodyProps: {},
-                            //             onOk: (payload) => {
-                            //                 console.log(payload)
-                            //             },
-                            //             onCancel: (paylaod) => {
-                            //                 console.log(paylaod)
-                            //             }
-
-
-                            //         }
-                            //     ]
-
-
-                            // })
-                            console.log(showDialog())
-                            showDialog(DialogBodyForm).onOk(() => {
+                            console.log(showDialog().onOk)
+                            showDialog(DialogBodyForm, { title: '1' }).onOk(() => {
                                 console.log('Ok Clicked')
                             }).onCancel(() => {
                                 console.log('Cancel Clicked')

@@ -14,8 +14,9 @@ import { LoadingContext } from '../../ContextProvider/LoadingContext';
 import SelectComp from '../../ReusableComponents/Other/SelectComponent/SelectComponent';
 import { useFetchData } from '../../CustomHooks/APIs/useFetchData';
 import moment from 'moment';
-export function DialogBodyForm({ uuid, useInModal, routing, ...props }) {
-    console.log('props', props)
+import useDialog from '../../CustomHooks/useDialog';
+export function DialogBodyForm(props) {
+    // console.log('props', props)
 
 
     const STATE = {
@@ -56,27 +57,8 @@ export function DialogBodyForm({ uuid, useInModal, routing, ...props }) {
     const { userData, getUserPrivs } = useContext(AuthContext);
     const { setisLoading } = useContext(LoadingContext);
     const navigate = useNavigate();
+    const { showDialog } = useDialog()
 
-
-    const [mouhafazaOptions, mouhafazaOptionsError] = useFetchData(`${urlPath}/Mouhafaza/getMouhafaza`, 'get');
-    const [kazaOptions, kazaOptionsError] = useFetchData(`${urlPath}/Kaza/getKaza`, 'get');
-
-
-    const mouhafazaDropdown = useMemo(() => {
-        const mouhafazaOptionsArray = [];
-        mouhafazaOptions.forEach(eachElement => {
-            mouhafazaOptionsArray.push({ label: eachElement.moh_Description, value: eachElement.moh_Code })
-        })
-        return mouhafazaOptionsArray;
-    }, [mouhafazaOptions]);
-
-    const kazaDropdown = useMemo(() => {
-        const kazaOptionsArray = [];
-        kazaOptions.forEach(eachElement => {
-            kazaOptionsArray.push({ label: eachElement.kaz_Description, value: eachElement.kaz_Code })
-        })
-        return kazaOptionsArray;
-    }, [kazaOptions]);
 
 
     const handleChange = useCallback(async (value, key) => {
@@ -115,17 +97,29 @@ export function DialogBodyForm({ uuid, useInModal, routing, ...props }) {
     return (
         <>
 
-            {!useInModal
-                &&
-                <ButtonsContainer
-                    handleButtonClick={ButtonClick}
-                    createdBy={state.createdBy}
-                    creationDate={state.creationDate}
-                    modifiedBy={state.modifiedBy}
-                    modifiedDate={state.modifiedDate}
-                    hideSaveAsDraft={true}
-                />
-            }
+            <div className="row">
+                <div className="col-12">
+                    <button type="button" className="btn btn-custom btn-block px-2 pointer" onClick={() => {
+
+                        showDialog(DialogBodyForm, { counter: (props.counter ?? 0) + 1 }).onOk(() => {
+                            console.log('Ok Clicked')
+                        }).onCancel(() => {
+                            console.log('Cancel Clicked')
+                        })
+
+
+                    }}>Add Dialog {props.counter}</button>
+                </div>
+            </div>
+            <ButtonsContainer
+                handleButtonClick={ButtonClick}
+                createdBy={state.createdBy}
+                creationDate={state.creationDate}
+                modifiedBy={state.modifiedBy}
+                modifiedDate={state.modifiedDate}
+                hideSaveAsDraft={true}
+            />
+
             <div className="animated fadeIn activeComponent" >
                 <Notification
                     type={state.notifType}
@@ -146,7 +140,7 @@ export function DialogBodyForm({ uuid, useInModal, routing, ...props }) {
                                     onChange={handleChange}
                                     placeholder="Mouhafaza.."
                                     name="mouhafaza"
-                                    options={mouhafazaDropdown}
+                                    options={[]}
                                     className={`${state.missingdbcode || !state.codeAvailable ? "alert-danger" : ""}`}
                                     clearable
                                     disabled={state.mode === "Edit"}
@@ -218,7 +212,7 @@ export function DialogBodyForm({ uuid, useInModal, routing, ...props }) {
                                     placeholder="Kaza Code.."
                                     value={state.kazacode}
                                     onChange={handleChange}
-                                    options={kazaDropdown}
+                                    options={[]}
                                     className={`${state.missingkazacode ? "alert-danger" : ""}`}
                                     clearable
                                     disabled={false}

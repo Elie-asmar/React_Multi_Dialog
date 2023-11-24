@@ -8,7 +8,9 @@ export default function useDialog() {
     const [dialog, setDialog] = useState(null)
 
     useEffect(() => {
+
         if (dialog && okCallBack && cancelCallBack) {
+
             setDialogs(prv => {
                 return [
                     ...prv, {
@@ -24,19 +26,29 @@ export default function useDialog() {
     }, [dialog, okCallBack, cancelCallBack])
 
     const showDialog = (Body, BodyProps) => {
+        console.log(BodyProps)
         setDialog({ Body, BodyProps })
 
-        return useDialog
+        return chainableFunctions
     }
 
     const onOk = (callback) => {
-        setOkCallback(callback)
-        return useDialog
+
+        setOkCallback(prv => { return callback })
+        return chainableFunctions
     }
     const onCancel = (callback) => {
-        setCancelCallback(callback)
-        return useDialog
+        setCancelCallback(prv => { return callback })
+        return chainableFunctions
     }
 
-    return [showDialog]
+
+    const chainableFunctions = {
+        showDialog,
+        onOk,
+        onCancel,
+
+    };
+
+    return chainableFunctions
 }
