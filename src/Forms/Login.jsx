@@ -32,9 +32,10 @@ export function Login() {
                 <div className="row">
                     <div className="col-12">
                         <button type="button" className="btn btn-custom btn-block px-2 pointer" onClick={() => {
-                            console.log(showDialog().onOk)
-                            showDialog(DialogBodyForm, { title: '1' }).onOk(() => {
-                                console.log('Ok Clicked')
+
+
+                            showDialog(DialogBodyForm, { title: '1' }).onOk((payload) => {
+                                console.log('Ok Clicked and returned ' + payload)
                             }).onCancel(() => {
                                 console.log('Cancel Clicked')
                             })
