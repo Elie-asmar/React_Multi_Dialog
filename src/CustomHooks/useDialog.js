@@ -7,6 +7,7 @@ export default function useDialog() {
     const [cancelCallBack, setCancelCallback] = useState(null)
     const [dialog, setDialog] = useState(null)
 
+
     useEffect(() => {
 
         if (dialog && okCallBack && cancelCallBack) {
@@ -17,7 +18,9 @@ export default function useDialog() {
                         Body: dialog.Body,
                         BodyProps: dialog.BodyProps,
                         onOk: okCallBack,
-                        onCancel: cancelCallBack
+                        onCancel: cancelCallBack,
+                        hideFooterButtons: dialog.hideFooterButtons,
+                        modalTitle: dialog.modalTitle
                     }
                 ]
             })
@@ -25,9 +28,9 @@ export default function useDialog() {
 
     }, [dialog, okCallBack, cancelCallBack])
 
-    const showDialog = (Body, BodyProps) => {
+    const showDialog = (modalTitle, Body, BodyProps, hideFooterButtons) => {
         console.log(BodyProps)
-        setDialog({ Body, BodyProps })
+        setDialog({ Body, BodyProps, modalTitle, hideFooterButtons })
 
         return chainableFunctions
     }

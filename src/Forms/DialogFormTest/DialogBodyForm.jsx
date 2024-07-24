@@ -84,7 +84,7 @@ export function DialogBodyForm(props) {
                 <div className="col-12">
                     <button type="button" className="btn btn-custom btn-block px-2 pointer" onClick={() => {
 
-                        showDialog(DialogBodyForm, { counter: (props.counter ?? 0) + 1 }).onOk((payload) => {
+                        showDialog('Hi', DialogBodyForm, { counter: (props.counter ?? 0) + 1 }, false).onOk((payload) => {
                             console.log('Ok Clicked and returned ' + payload)
 
                         }).onCancel(() => {

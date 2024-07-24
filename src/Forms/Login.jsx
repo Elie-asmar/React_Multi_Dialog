@@ -14,7 +14,7 @@ export function Login() {
                 <div className="row">
                     <div className="col-12">
                         <button type="button" className="btn btn-custom btn-block px-2 pointer" onClick={() => {
-                            showDialog(DialogBodyForm, { title: '1' }).onOk((payload) => {
+                            showDialog('Hello', DialogBodyForm, { title: '1' }, false).onOk((payload) => {
                                 console.log('Ok Clicked and returned ' + payload)
                             }).onCancel(() => {
                                 console.log('Cancel Clicked')

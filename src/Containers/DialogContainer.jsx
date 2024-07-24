@@ -1,14 +1,14 @@
 import React, { useCallback, useContext, useEffect } from 'react'
 import { Outlet } from 'react-router-dom';
 import { DialogContext } from '../ContextProvider/DialogContext'
-import { ModalBody, Modal } from 'reactstrap';
+import { ModalBody, Modal, ModalHeader, ModalFooter, Button } from 'reactstrap';
 
 export function DialogContainer() {
     const { dialogs, setDialogs } = useContext(DialogContext);
     const renderDialogs = useCallback(() => {
         return dialogs.map((dialog, idx) => {
             const {
-                Body, BodyProps, onOk, onCancel
+                hideFooterButtons, modalTitle, Body, BodyProps, onOk, onCancel
             } = dialog
 
             const onDialogOk = (payload) => {
@@ -28,9 +28,33 @@ export function DialogContainer() {
             }
 
             return <Modal key={idx} isOpen={true}>
+                {
+                    modalTitle &&
+                    <ModalHeader>
+                        {modalTitle}
+                    </ModalHeader>
+                }
+
                 <ModalBody>
-                    <Body {...BodyProps} onDialogCancel={onDialogCancel} onDialogOk={onDialogOk} />
+                    <Body {...BodyProps} />
                 </ModalBody>
+                {
+                    !hideFooterButtons &&
+                    <ModalFooter id="custom-modal-footer">
+                        {/* {onRefused &&
+                            <Button color={onRefusedColor || "warning"} onClick={onRefused}>{onRefusedText || "Refused"}</Button>
+                        } */}
+                        {onDialogOk &&
+                            <Button color={"info"} onClick={onDialogOk}>{"Save"}</Button>
+                        }
+                        {onDialogCancel &&
+                            <Button color={"danger"} onClick={onDialogCancel}>{"Close"}</Button>
+                        }
+                    </ModalFooter>
+                }
+
+
+
             </Modal>
 
         })
