@@ -13,14 +13,21 @@ export function Login() {
 
                 <div className="row">
                     <div className="col-12">
-                        <button type="button" className="btn btn-custom btn-block px-2 pointer" onClick={() => {
-                            showDialog('Hello', DialogBodyForm, { title: '1' }, false).onOk((payload) => {
-                                console.log('Ok Clicked and returned ' + payload)
-                            }).onCancel(() => {
-                                console.log('Cancel Clicked')
-                            })
+                        <button type="button" className="btn btn-custom btn-block px-2 pointer" onClick={
+                            () => {
+                                showDialog('Hello',
+                                    DialogBodyForm, { title: '1' }, false).
+                                    onOk(
+                                        (payload) => {
 
-                        }}>Add Dialog</button>
+                                            console.log('Ok Clicked and returned ' + JSON.stringify(payload))
+                                        }
+                                    ).onCancel(() => {
+                                        console.log('Cancel Clicked')
+                                    })
+                                console.log('hello')
+
+                            }}>Add Dialog</button>
                     </div>
                 </div>
 

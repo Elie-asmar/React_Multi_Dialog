@@ -1,0 +1,23 @@
+#custom-modal-footer-main-buttons-container {
+    padding: 0.75rem;
+    border-top: 1px solid #dee2e6;
+    border-bottom-left-radius: calc(0.3rem - 1px);
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+}
+
+#custom-modal-footer-main-buttons-container #custom-modal-footer-buttons-container {
+    float: right;
+}
+
+#custom-modal-footer-main-buttons-container #custom-modal-footer-buttons-container button {
+    margin-right: 10px;
+}
+
+#custom-modal-body {
+    overflow: auto !important;
+    position: unset !important;
+    padding-bottom: 70px;
+}

@@ -2,6 +2,7 @@ import React, { useCallback, useContext, useEffect, useMemo, useState } from 're
 import { useNavigate } from 'react-router-dom';
 import { ButtonsContainer } from '../../ReusableComponents/Other/ButtonsContainer/ButtonsContainer';
 import useDialog from '../../CustomHooks/useDialog';
+import { Button, ModalFooter } from 'reactstrap';
 export function DialogBodyForm(props) {
 
     const STATE = {
@@ -103,7 +104,17 @@ export function DialogBodyForm(props) {
                 modifiedDate={state.modifiedDate}
                 hideSaveAsDraft={true}
             />
-
+            <ModalFooter style={{ paddingTop: '50px', marginBottom: '-15px', marginRight: '-15px' }}>
+                {
+                    <Button color={"warning"} onClick={() => { }}>{"Refused"}</Button>
+                }
+                {props.onDialogOk &&
+                    <Button color={"info"} onClick={() => { props.onDialogOk('I have returned ' + props.counter) }}>{"Save"}</Button>
+                }
+                {props.onDialogCancel &&
+                    <Button color={"danger"} onClick={() => { props.onDialogCancel() }}>{"Close"}</Button>
+                }
+            </ModalFooter>
 
         </>
     )
